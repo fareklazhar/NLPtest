@@ -1,0 +1,673 @@
+,Unnamed: 0,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,sentence,dict,identifier,sentiment
+10,10,0.9999376760147584,6.232398522613637e-05,0.073,0.809,0.11800000000000001,"Only meds that have worked for me so far have been Zoloft (really good except kills my motivation and interest), and remeron (great but I sleep all the time).",nsubj,1,neu_vader
+13,13,0.9993245611800304,0.0006754388199621847,0.099,0.755,0.145,"My medications are affordable, I can see a doctor when I need to, I can be admitted to a public hospital and not be burdened with debt.",nsubj,1,neu_vader
+16,16,0.9956781289419292,0.004321871058057993,0.079,0.9209999999999999,0.0,"After a year of therapy, my therapist has advised me to see this doctor to explore potential for medication to assist with suspected BPII.",nsubj,1,neu_vader
+18,18,0.9998293125229424,0.00017068747704224605,0.0,1.0,0.0,"She said I will only see him once, I will not see him for CBT therapy or anything, simply for medication and to check in on how medication is progressing.",nsubj,1,neu_vader
+19,19,0.9999669964206068,3.300357940562821e-05,0.0,1.0,0.0,My meds aren't working.,nsubj,1,neu_vader
+20,20,0.9998434455307732,0.0001565544692354612,0.292,0.708,0.0,I'm depressed again and the meds aren't working yet.,nsubj,1,neu_vader
+24,24,0.9842437573088209,0.015756242691197655,0.0,1.0,0.0,"I have seen a variety of doctors, all the medication I have tried has turned me into a zombie and I am unable to function.",nsubj,1,neu_vader
+53,53,0.9999825815303242,1.7418469668928022e-05,0.0,1.0,0.0,I'm thinking if my meds don't kick in by late June I am done.,nsubj,1,neu_vader
+58,58,0.999939184206028,6.0815793988666955e-05,0.17,0.83,0.0,"So, this is why I don't understand why the medication didn't help this.",nsubj,1,neu_vader
+59,59,0.9992245635621512,0.0007754364378667817,0.0,0.67,0.33,"If I'm productive and happy and finally stable, the medication has to be working...",nsubj,1,neu_vader
+67,67,0.9996800454744474,0.000319954525558164,0.06,0.94,0.0,-Don't want to ask Pyschiatrist... only meds are the answer for many mental health things --- acc to the industry.,nsubj,1,neu_vader
+77,77,0.9999627160270708,3.72839729463155e-05,0.0,0.721,0.27899999999999997,"I mean, feel free to give me the usual Psychedelics/Don't go off meds lecture, but I'm not stupid.",nsubj,1,neu_vader
+87,87,0.9997832859180278,0.00021671408199168922,0.336,0.664,0.0,Ugh I was out on the patio at a theater and these idiots were complaining about how horrible psych meds are.,nsubj,1,neu_vader
+88,88,0.9998817809326209,0.00011821906739364065,0.105,0.895,0.0,Atarax makes me twice as anxious and the sleep meds just made me groggy and not fall asleep.,nsubj,1,neu_vader
+99,99,0.99864426463822,0.0013557353617628413,0.075,0.7170000000000001,0.20800000000000002,I am nervous about getting a new dr and getting in before my meds run out and finding a house I will feel safe and good in.,nsubj,1,neu_vader
+106,106,0.9989031874389458,0.001096812561048075,0.043,0.8390000000000001,0.11900000000000001,"I also have an issue with weight, and saw that most bipolar medications make you gain it, which makes me not want to take it even more...",nsubj,1,neu_vader
+120,120,0.9999310639868396,6.893601314171102e-05,0.36200000000000004,0.502,0.136,"I mean, I know that this medication is making me forgetful and stupid, but I still felt like a dumbass.",nsubj,1,neu_vader
+125,125,0.999891890914434,0.00010810908558561937,0.195,0.805,0.0,"The medication didn't work as intended, so we stopped that.",nsubj,1,neu_vader
+129,129,0.9999827670924516,1.7232907555247435e-05,0.0,0.877,0.12300000000000001,I have to explain at least 3-4 times how meds are effecting me or certain situations etc...,nsubj,1,neu_vader
+130,130,0.999990660306432,9.33969355380459e-06,0.0,0.772,0.228,My medication is cymbalta and seroquel but even on them I feel like I'm beginning mania again!!!!!,nsubj,1,neu_vader
+141,141,0.9997539318917656,0.0002460681082229181,0.08800000000000001,0.723,0.18899999999999997,15 hours into withdrawal and just as strongly as the medicine felt the first dose I am feeling it missing my first dose.,nsubj,1,neu_vader
+145,145,0.9999633241137228,3.667588626108987e-05,0.0,0.787,0.213,UPDATE: Upped my meds and things seem to be calming down.,nsubj,1,neu_vader
+157,157,0.9999270062300398,7.299376996123615e-05,0.0,1.0,0.0,I was wondering how these meds are affecting others.,nsubj,1,neu_vader
+158,158,0.9981804708462751,0.0018195291537381794,0.253,0.747,0.0,I am questioning the use of these meds and am looking for advice on what meds are working for others with bipolar I disorder and or including depression.,nsubj,1,neu_vader
+159,159,0.9999669563812826,3.30436187222468e-05,0.0,1.0,0.0,So here is the question - what happened to people with bipolar before medicine existed?,nsubj,1,neu_vader
+160,160,0.9995039912793808,0.0004960087206023368,0.098,0.691,0.21100000000000002,"What I'm really curious about is the possibility that people, before psychiatric medicine was commonplace, found ways of successfully managing bipolar disorder.",nsubj,1,neu_vader
+161,161,0.9965189817186356,0.003481018281359853,0.079,0.8109999999999999,0.11,"In the U.S, psychatric medicine plays a very big role in dealing with mood disorders like bipolar and depression, but some studies often call into question the effectiveness.",nsubj,1,neu_vader
+173,173,0.999989014546625,1.0985453395961496e-05,0.0,0.58,0.42,Are medications my only hope?,nsubj,1,neu_vader
+203,203,0.9999760223910934,2.3977608893425197e-05,0.0,1.0,0.0,So adhd meds were late.,nsubj,1,neu_vader
+211,211,0.996006095353644,0.003993904646343492,0.096,0.904,0.0,The last medication I was on a couple of years ago was Lamictal and Klonopin for anxiety as needed.,nsubj,1,neu_vader
+214,214,0.9999631816472768,3.681835271943288e-05,0.28,0.72,0.0,"The problem is that although I think my medication is working, I'm not *completely* sure.",nsubj,1,neu_vader
+216,216,0.9995180964239776,0.00048190357603680576,0.193,0.807,0.0,"* I *want* the medicine to work, badly, so I'm afraid of that clouding my judgement.",nsubj,1,neu_vader
+240,240,0.9995961091864041,0.0004038908135805763,0.077,0.767,0.157,"Around 8 months ago, or so, I told my pdoc that while the meds were evening me up, I still had no energy or motivation to do anything.",nsubj,1,neu_vader
+252,252,0.9999521727467036,4.7827253295874185e-05,0.0,0.755,0.245,I want my medication to work.,nsubj,1,neu_vader
+270,270,0.9999369807339836,6.301926599823963e-05,0.0,1.0,0.0,Are the fucking meds not working??,nsubj,1,neu_vader
+272,272,0.9999914954323434,8.504567667523807e-06,0.0,0.667,0.33299999999999996,"(no meds or food or sleep so I'm pretty unstable)  
+
+Neighbor disrespectful like before.",nsubj,1,neu_vader
+289,289,0.9999927613326232,7.238667365190636e-06,0.258,0.742,0.0,"The medication really fucked me up, my psychiatrist would not listen to my concerns, I finally stopped cold turkey back in January.",nsubj,1,neu_vader
+290,290,0.9999241513557012,7.584864431195916e-05,0.158,0.8420000000000001,0.0,"The new medication has helped SO MUCH, but I feel more lost than ever on what my next step is.",nsubj,1,neu_vader
+291,291,0.9999039481188418,9.605188116466072e-05,0.127,0.789,0.085,"Could it be possible the medication is making me feel this ""stuck in the middle"" feeling?",nsubj,1,neu_vader
+303,303,0.9995180218938344,0.00048197810615228253,0.0,0.938,0.062,"I'm planning on seeing a doctor when I get some money after the new year, so I was just wondering what the first visit will be like, how long it'll take to determine my diagnosis, and when is medication an absolute necessity.",nsubj,1,neu_vader
+307,307,0.9993445044168658,0.0006554955831496461,0.0,1.0,0.0,I know that self-medication with alcohol is harmful and may decrease the effectiveness of my medications.,nsubj_pobj,1,neu_vader
+319,319,0.9968885814849568,0.0031114185150541147,0.10099999999999999,0.635,0.265,All of a sudden it feels like I'm slipping fast; almost like my meds stopped working.,nsubj,1,neu_vader
+325,325,0.9998475008627584,0.00015249913723326667,0.0,1.0,0.0,I just feel that the meds and therapy now isn't working and I've tried so many.,nsubj,1,neu_vader
+327,327,0.9999216557401698,7.834425983754854e-05,0.0,1.0,0.0,Can medications for treating bipolar II /cause/ the symptoms?,nsubj,1,neu_vader
+333,333,0.9998595321935664,0.00014046780642660477,0.077,0.7340000000000001,0.188,"When I told my mom and my therapists that I didn’t feel like the meds were working, I was kind of brushed off, so I have some trust issues and feelings that medication won’t work for me or will do more harm than good.",nsubj_nsubj,1,neu_vader
+343,343,0.9991899860270372,0.0008100139729568461,0.0,0.625,0.375,Were the medications prescribed based on your DNA analysis a good fit?,nsubj,1,neu_vader
+345,345,0.9999759744224912,2.402557751870235e-05,0.0,1.0,0.0,Are there other that only dopamine based meds work?,nsubj,1,neu_vader
+346,346,0.9999546476599612,4.5352340047126534e-05,0.0,1.0,0.0,So I notice that antipsychotic meds target dopamine receptors.,nsubj,1,neu_vader
+368,368,0.9996169662126788,0.000383033787308805,0.0,0.8759999999999999,0.124,Its been a long road but I feel I'm ready to move on with my life and not have to have my medication dictate my life.,nsubj,1,neu_vader
+378,378,0.9999587726836974,4.122731631635071e-05,0.0,0.40399999999999997,0.596,I really hope these meds help me.,nsubj,1,pos_vader
+382,382,0.9951869254286251,0.004813074571371932,0.0,0.943,0.057,"As you can guess, I put on a ton of weight ever since then despite the low dosage of 100 mg twice a day (medication is more conservative in Japan compared to north america).",nsubj,1,neu_vader
+384,384,0.9991471183869242,0.0008528816130758943,0.10099999999999999,0.899,0.0,28 meds and the only one to ever work normally was abilify and I stopped because of the Parkinson's.,nsubj,1,neu_vader
+385,385,0.9999579576991532,4.204230083385329e-05,0.355,0.645,0.0,Let me know how meds fucked your life too.,nsubj,1,neu_vader
+390,390,0.9999768531694468,2.3146830535618576e-05,0.128,0.7959999999999999,0.076,"I was aware that lamotrigine and oral contraceptives can have negative interactions, so I asked my pdoc and my gyno whether my current medications would be ok.",nsubj,1,neu_vader
+392,392,0.999847758445762,0.00015224155422257558,0.25,0.75,0.0,"4) My meds are probably still working, but can't contend with the crazy baby hormones.",nsubj,1,neu_vader
+414,414,0.9998597272784662,0.00014027272151355088,0.0,1.0,0.0,I realize that medication only does half the work - the rest being up to me.,nsubj,1,neu_vader
+419,419,0.9999017244977566,9.8275502238053e-05,0.0,1.0,0.0,i told him i don't expect him to get therapy but he needs to get medication to stabilize.,nsubj,1,neu_vader
+426,426,0.9940768937122412,0.005923106287777465,0.0,0.752,0.248,"As a side note, I'm pretty sure these meds (citalopram and lamictal) work just fine for me, because I was on them for about a year solid following my initial diagnoses of BPD II.",nsubj,1,neu_vader
+437,437,0.9998770516870696,0.000122948312929695,0.0,1.0,0.0,"My meds aren't ""working"", I would be the same person without, they aren't for me, I'm not really BP.",nsubj,1,neu_vader
+439,439,0.9804059145745688,0.01959408542541633,0.07200000000000001,0.792,0.136,"About a year ago, she stopped taking all of her medication, since she felt fine, although the medication is what was making her feel fine.",nsubj,1,neu_vader
+449,449,0.9985517356937784,0.001448264306224928,0.047,0.846,0.107,"Throughout all of this happening, the medicine I am on which is Seroquel XR, I have had to up the dose to help keep myself 'sane', well I was doing it a lot, my doctor had me at such a low dose it wasn't doing anything....",nsubj,1,neu_vader
+451,451,0.999822866043572,0.00017713395644371985,0.068,0.856,0.076,"I have to see the doc, and the soonest that would be is on the 20th... so I'm looking to be going 14 days w/o medicine..I got angry but not with the secretary on the phone and simply said please cancel all future appointments as I will just be going to the hospital even though I don't want to I feel it is my only option to ensure I stay 'level'... Just for a FYI, she had me on 25mg Seroquel XR once a day (that meant breaking a 50mg XR tablet in half) and I was taking 200mg to stay sane, I don't get why she put me on such a low dose as she had me on this med before but it was at 150mg.",nsubj,1,neu_vader
+459,459,0.9984298284299968,0.0015701715700120855,0.0,0.7859999999999999,0.214,I am trying to think of things to tell her to convince her that the meds will be good for her.,nsubj,1,neu_vader
+461,461,0.9617062914398729,0.03829370856014454,0.094,0.615,0.29100000000000004,But I'm at a loss at how to get Sandra to appreciate the seriousness of her own situation and to accept that the meds will help her lead a better life.,nsubj,1,neu_vader
+466,466,0.9999294322216036,7.056777839196286e-05,0.0,1.0,0.0,What happens before the meds take effect?,nsubj,1,neu_vader
+467,467,0.9999264591402725,7.354085972848231e-05,0.158,0.8420000000000001,0.0,"I 'm afraid I can't cope, and my meds are already proving to be insufficient from keeping me away from suicidal ideation, self-medication, and psychotic intrusive urges.",nsubj_conj,1,neu_vader
+472,472,0.9999148328411619,8.516715884815072e-05,0.0,0.743,0.257,":D
+
+My new meds work fantastically, and the therapy I got from my university wellness center really helped out on my coping mechanisms.",nsubj,1,neu_vader
+474,474,0.9999836744996532,1.6325500360286912e-05,0.0,1.0,0.0,Thing is this medication was working for me.,nsubj,1,neu_vader
+476,476,0.9998540884821346,0.0001459115178462564,0.0,0.8270000000000001,0.17300000000000001,"You shouldn't fall between the cracks so much now:) your meds won't cost you your rent, and hopefully there will be state funded free clinics for your shrinks and co soon too!",nsubj,1,neu_vader
+480,480,0.9994253136035192,0.0005746863964937616,0.0,0.6940000000000001,0.306,I know the medication is helping a lot.,nsubj,1,neu_vader
+481,481,0.9999893272646372,1.0672735378783194e-05,0.16699999999999998,0.833,0.0,"But, she also said that the medication I'm on is dangerous (referring to the rash, which I have not had) and she asked me if I even researched it (the answer being yes).",nsubj,1,neu_vader
+484,484,0.9944210042596572,0.005578995740360309,0.0,0.8540000000000001,0.146,"I want her to know that the medication I'm taking is helpful, and somehow prove to her that it is not a ""last resort option,"" whatever that means.",nsubj,1,neu_vader
+495,495,0.9999587331509824,4.1266849000453966e-05,0.0,1.0,0.0,The medication seems to be working.,nsubj,1,neu_vader
+511,511,0.9984786171090148,0.0015213828909720448,0.155,0.845,0.0,my cousin has said multiple times to me that he believes mental illness is something that can be cured through sheer will power and that medication is a waste of time and money.,nsubj,1,neu_vader
+514,514,0.9984310968902378,0.0015689031097775687,0.354,0.6459999999999999,0.0,"Mine's gotten to the point when I have an episode they are screaming at me ""Kill yourself"" ""You are a piece of shit and need to die"" And the meds aren't really helping...",nsubj,1,neu_vader
+515,515,0.9999670462976477,3.295370235693277e-05,0.38,0.62,0.0,I am so bad that pain meds (Oxycodone) and Valium are doing NOTHING to me.,nsubj,1,neu_vader
+522,522,0.9809556279765234,0.019044372023460543,0.078,0.87,0.053,I am doing better one my medicine but even with insurance my total meds reach 200+ a month and that doesn't include the costs of office visits which I am behind in paying or my other bills i struggle to pay each month or the fact most days I eat one meal and snack because it is all I can afford.,dobj_nsubj,1,neu_vader
+528,528,0.9999903670839888,9.632916008288674e-06,0.0,1.0,0.0,I got my meds reduced because I brought up slight twitching to my psychiatrist.,nsubj,1,neu_vader
+533,533,0.9997875882412968,0.00021241175868935716,0.0,0.68,0.32,For the most part the medication has been wonderful and I've felt better than I ever had.,nsubj,1,neu_vader
+537,537,0.9977631993365136,0.0022368006634660687,0.08199999999999999,0.7829999999999999,0.135,It helps to know that even though I'm not in the best place right now... the things I've done and the meds I take have allowed me to be in a better place than I might have been.,nsubj,1,neu_vader
+546,546,0.999980799012782,1.9200987230800658e-05,0.115,0.76,0.125,"I suppose, at what point is medication not worth any risks or side effects?",nsubj,1,neu_vader
+548,548,0.9996253327848424,0.0003746672151621115,0.21899999999999997,0.581,0.2,But the effective medications trigger Bipolar states that are extremely dangerous.,nsubj,1,neu_vader
+558,558,0.9999572128184104,4.278718159794264e-05,0.536,0.46399999999999997,0.0,Any tips for chilling the fuck out when meds fail?,nsubj,1,neg_vader
+579,579,0.9999675588828651,3.2441117149732904e-05,0.0,0.878,0.122,"But if I didn't have ADHD, I feel like the ADHD meds wouldn't work on me how they're suppose to Y'know?",nsubj,1,neu_vader
+580,580,0.9999835223858072,1.6477614177597315e-05,0.059000000000000004,0.792,0.149,"I guess what Im wondering in all this (and I'm sure at this point this post may not make lots of sense, my mind is literally going all over the place, I'm wanting to run around like mad, and I'm pretty sure my meds or at least Adderall has worn off) is if maybe my man friend is right and/or if I should be at all concerned and maybe talk to my psychiatrist Monday about this and reevaluating me and such....",nsubj,1,neu_vader
+592,592,0.9985633334596892,0.001436666540300681,0.0,0.782,0.218,The medication made me pass out in a matter of 10 minutes and probably saved my life.,nsubj,1,neu_vader
+635,635,0.9999679279168284,3.207208318470567e-05,0.15,0.68,0.17,I feel like my current medication isn't doing enough to stop these thoughts.,nsubj,1,neu_vader
+644,644,0.9988881116375354,0.001111888362477603,0.071,0.878,0.051,"I'm currently not on meds, I never found ones that worked for me, the meds I did take would go down into my belly but they would not stop the bipolar swinging of my mind so I stopped taking them and just cycle regularly still.",nsubj,1,neu_vader
+653,653,0.9990050982118168,0.0009949017881638953,0.0,1.0,0.0,"Around 11PM, the meds wore off and I could think a little bit clearer.",nsubj,1,neu_vader
+667,667,0.8844956514719313,0.11550434852807402,0.0,0.951,0.049,"I am determined to make the CBT work, as it does seem that you get out of it what you put in and I really didn't try last time, but medication is a new one for me.",nsubj,1,neu_vader
+678,678,0.9993729716096276,0.0006270283903842382,0.0,0.8640000000000001,0.136,My meds have kept me fairly stable for about a year and I would rather not switch.,nsubj,1,neu_vader
+688,688,0.9998999780862432,0.00010002191376124489,0.0,0.735,0.265,All the other meds do fine.,nsubj,1,neu_vader
+689,689,0.9996364740888604,0.00036352591114990814,0.0,1.0,0.0,"Beyond just a general ""my medication makes me stable.""",nsubj,1,neu_vader
+695,695,0.999958205957674,4.179404230818245e-05,0.0,0.7390000000000001,0.261,I just got my meds right to where my head is clear enough for me to receive help.,nsubj,1,neu_vader
+696,696,0.9999963868781006,3.6131219019697565e-06,0.349,0.557,0.094,Yes I have attempted suicide twice on meds but me off meds is even worse.,nsubj,1,neu_vader
+703,703,0.9999869133762996,1.308662368742503e-05,0.0,1.0,0.0,Would medication be absolutely necessary for this situation?,nsubj,1,neu_vader
+708,708,0.9999488612101602,5.113878984528234e-05,0.34,0.602,0.057,"Thankfully my meds control my impulsive behaviors, but I wonder if they should also be controlling these negative thoughts especially hen they involve suicide.",nsubj,1,neu_vader
+721,721,0.9999727177276978,2.7282272282109197e-05,0.0,1.0,0.0,"If they can get her sleep meds worked out, she might be out as early as Monday.",nsubj,1,neu_vader
+741,741,0.9999887784895009,1.1221510514642914e-05,0.0,1.0,0.0,"What medications, if any, were you on?",nsubj,1,neu_vader
+746,746,0.9989633984837027,0.0010366015163137583,0.272,0.728,0.0,"Earlier in the summer, I felt as if the medication was making me worse, so I stopped taking it.",nsubj,1,neu_vader
+748,748,0.9997798215278492,0.00022017847214706303,0.131,0.7759999999999999,0.092,"I've been off my medication for almost 3 months now and I still have many issues, but the problems my meds created have all vanished.",pobj_nsubj,1,neu_vader
+750,750,0.9996524651186208,0.00034753488138076664,0.0,0.742,0.258,"My BD is not as severe as others, and I still believe medication can help, but in my case I feel that I'm better off without.",nsubj,1,neu_vader
+764,764,0.9999657329085608,3.426709142130417e-05,0.0,0.647,0.353,Latest medication is helping so much I'm starting to feel freed.,nsubj,1,neu_vader
+769,769,0.99997857226268,2.1427737311228493e-05,0.0,0.816,0.184,"I don't think it was just him giving up on me by saying ""well your meds aren't working so maybe you're just bipolar"".",nsubj,1,neu_vader
+780,780,0.9994699305499424,0.0005300694500430617,0.0,0.667,0.33299999999999996,I also understand that certain medications are better than others for different types.,nsubj,1,neu_vader
+785,785,0.9997297621692164,0.00027023783080102807,0.11599999999999999,0.884,0.0,"Other than that,  the medicine seems to work along with Vistaril for anxiety spikes.",nsubj,1,neu_vader
+789,789,0.9997992242517632,0.00020077574825145495,0.0,1.0,0.0,My meds have really helped me get to a ground state.,nsubj,1,neu_vader
+801,801,0.9997955251574878,0.0002044748425277269,0.0,1.0,0.0,Now that I am leveling out and the medicines are kicking in I finally went back through my journal.,nsubj,1,neu_vader
+802,802,0.988485561152988,0.011514438847028574,0.0,0.9209999999999999,0.079,"You can take medicines that will make it easier to deal with life, but those medications take away pieces of your life too.",dobj_nsubj,1,neu_vader
+815,815,0.9999512271543516,4.877284564943507e-05,0.0,0.775,0.225,*The good news is that my medication is starting to work.,nsubj,1,neu_vader
+818,818,0.9988690491212048,0.0011309508788107272,0.135,0.865,0.0,My meds aren't the best but I'm a lot healthier on them then when I'm not.,nsubj,1,neu_vader
+826,826,0.9998091788032526,0.0001908211967552883,0.221,0.779,0.0,"My pdoc adjusted my meds some (Lamictal 200 mg, Trileptal 1200 mg daily) because I haven't been able to shake the depression.",nsubj,1,neu_vader
+832,832,0.9997560162806876,0.00024398371932965053,0.0,1.0,0.0,The medication started to dwindle in its magic.,nsubj,1,neu_vader
+836,836,0.9999544982194236,4.550178056849457e-05,0.21899999999999997,0.7809999999999999,0.0,"He calls me from the counter, apparently my meds were cut from the program... with no warning.... three fucking weeks after I was told how reliable the program was.... one motherfucking week before Christmas!",nsubjpass,1,neu_vader
+841,841,0.9998294960538698,0.00017050394612550082,0.321,0.513,0.165,Apparently having someone with a mental illness and NO medication is a good thing.,nsubj,1,neu_vader
+845,845,0.998559160695076,0.0014408393049171971,0.0,1.0,0.0,"As far as meds go, I currently take 100 mg Zoloft a day.",nsubj,1,neu_vader
+848,848,0.9999547900445808,4.52099554372575e-05,0.11199999999999999,0.8420000000000001,0.046,"I want to think that my meds are working and this is just how it is to feel normal, but I just have no idea.",nsubj,1,neu_vader
+849,849,0.9998518042869772,0.00014819571301315226,0.0,1.0,0.0,"I know the meds are there to change your brain chemistry, but do you actually feel different?",nsubj,1,neu_vader
+850,850,0.999988814050266,1.1185949730701198e-05,0.0,1.0,0.0,Is that really what meds are supposed to do?,nsubjpass,1,neu_vader
+855,855,0.9998382798520258,0.000161720147970549,0.0,1.0,0.0,What other medication has helped you with the manic side ?,nsubj,1,neu_vader
+857,857,0.9998778648400614,0.00012213515992704944,0.0,0.59,0.41,Bonus points if the medication does not aggravate hair loss... (I can dream can't I?),nsubj,1,neu_vader
+867,867,0.9998202813329474,0.00017971866704329274,0.0,1.0,0.0,"I don't think Lamictal is necessarily causing this, maybe I'm just noticing it more because I'm waiting for the medication to start working.",nsubj,1,neu_vader
+868,868,0.9999498718454998,5.012815451653688e-05,0.182,0.818,0.0,"I thought my meds were working, but I haven't had moods like this in years.",nsubj,1,neu_vader
+874,874,0.9999730326490508,2.6967350940984987e-05,0.161,0.769,0.07,I need someone/something to distract me from this boredom - my meds have just been increased and I'm just waiting the few weeks for them to kick in.,nsubj,1,neu_vader
+894,894,0.9999055606448578,9.443935512939438e-05,0.0,0.823,0.177,My meds have kept me in check but things just got out of hand last night and I went into an episode.,nsubj,1,neu_vader
+907,907,0.9999618322163653,3.8167783635437094e-05,0.10800000000000001,0.892,0.0,"My medication's never been ""right"" and we just keep trying things, and now it's even harder since I lost my insurance.",nsubj,1,neu_vader
+920,920,0.796315573672499,0.2036844263275017,0.0,0.968,0.032,"I'm almost certain his decision to unmedicate himself was related to his religious conversion a few years ago...I am a Christian myself, but he seems to belong to the type that believes all medication is from Satan(as far as I'm concerned, one of his delusions).",nsubj,1,neu_vader
+928,928,0.999421463926168,0.0005785360738174301,0.19,0.706,0.10400000000000001,I used to suffer from an eating disorder and there are lingering thoughts I'm afraid that medicine that causes weight gain will push it over the edge.,nsubj,1,neu_vader
+939,939,0.9997389278949208,0.0002610721050599577,0.0,0.87,0.13,"I thought I had a good hold on everything, I thought my meds were working, but apparently not.",nsubj,1,neu_vader
+947,947,0.9999901654654694,9.834534525022204e-06,0.0,1.0,0.0,Does bipolar medication have long term effects?,nsubj,1,neu_vader
+949,949,0.9997587666440768,0.0002412333559349547,0.0,0.866,0.134,I had a talk with my psychiatrist and she made it seem that every single medication I could or should take will make me gain weight.,nsubj,1,neu_vader
+955,955,0.999478661605612,0.0005213383943869072,0.0,0.769,0.231,My meds help even me out most of the time.,nsubj,1,neu_vader
+963,963,0.9999884246112442,1.1575388773782915e-05,0.114,0.8859999999999999,0.0,so i recently stopped seeing my pdoc and so i went to my family doctor to have my meds refilled.,nsubj,1,neu_vader
+974,974,0.9995895392139578,0.0004104607860507042,0.0,1.0,0.0,She said it was just what the medication does to everyone.,nsubj,1,neu_vader
+983,983,0.9999494612686298,5.053873137788826e-05,0.341,0.659,0.0,Filed FMLA due to ongoing pdoc and psych appointments and lingering fear the meds would mess me up too badly.,nsubj,1,neu_vader
+986,986,0.9999702764807948,2.972351920131258e-05,0.11199999999999999,0.888,0.0,My medications aren't helping much now and I have been updating my psych every time I see him.,nsubj,1,neu_vader
+994,994,0.999975384630654,2.4615369326538235e-05,0.0,0.6829999999999999,0.317,My medication has been helping and I do have 2 people really close to me who I trust and encourage me to continue bettering myself.,nsubj,1,neu_vader
+999,999,0.9999611587938902,3.884120611501982e-05,0.23800000000000002,0.544,0.218,I was in pretty bad shape before the meds kicked in.,nsubj,1,neu_vader
+1030,1030,0.9999360753352482,6.392466476885083e-05,0.0,0.625,0.375,Honestly meds helped with almost everything.,nsubj,1,neu_vader
+1034,1034,0.9997774816858936,0.00022251831411384263,0.21,0.61,0.18,"I told my doctor about my worries, he said he wishes he could tell me I will be OK, but the truth is he doesn't know, this illness of mine will forever have to be under surveillance to make sure medication is working, but there are no guarantees, that killed a little part of my hope.",nsubj,1,neu_vader
+1052,1052,0.999936034550918,6.396544909332183e-05,0.0,1.0,0.0,"I can't tell if my meds are starting to work, or if I'm hypomanic.",nsubj,1,neu_vader
+1055,1055,0.991229113892644,0.00877088610735019,0.0,0.769,0.231,"She put me on Seroquel, but she's keeping me on 50 mg per day until I can see my psychiatrist to make sure my meds won't cocktail in a weird way and if Seroquel is the best course of action.",nsubj,1,neu_vader
+1061,1061,0.9998765662348422,0.0001234337651476029,0.0,1.0,0.0,The only meds that ever seemed to work were mood stabilizers.,nsubj,1,neu_vader
+1062,1062,0.9999885798099416,1.1420190059981607e-05,0.0,1.0,0.0,The meds have really leveled me out.,nsubj,1,neu_vader
+1071,1071,0.9999920575948325,7.942405172262894e-06,0.11599999999999999,0.696,0.18899999999999997,"But then other bipolar people who should know better jump in and start saying things like ""xyz medicine is horrible, don't ever take it!""",nsubj,1,neu_vader
+1077,1077,0.9994519373086068,0.0005480626914056599,0.065,0.935,0.0,I wouldn't have figured out that my meds weren't working well enough if I hadn't had my journal to keep record of the patterns in my moods and behaviors.,nsubj,1,neu_vader
+1079,1079,0.9992654631491776,0.0007345368508266853,0.0,0.7170000000000001,0.28300000000000003,I already feel a little better knowing that my new meds might finally let me be free of symptoms.,nsubj,1,neu_vader
+1087,1087,0.9997193518274772,0.0002806481725190209,0.135,0.865,0.0,And I know medication just lessens the symptoms it doesn't make them go away entirely which also scares me.,nsubj,1,neu_vader
+1099,1099,0.9999880050079921,1.1994992012953478e-05,0.0,1.0,0.0,"The medication you stabilised on, do you just take them indefinitely from here on out?",nsubj,1,neu_vader
+1106,1106,0.999994921136042,5.078863942609073e-06,0.32799999999999996,0.672,0.0,The medicine and just PTSD/bipolar/bpd got me all fucked up.,nsubj,1,neu_vader
+1108,1108,0.9996778278673212,0.00032217213265917967,0.126,0.8740000000000001,0.0,The medication she takes restricts her episodes to occurring every few years and they change each time.,nsubj,1,neu_vader
+1109,1109,0.9999100596208812,8.994037910148837e-05,0.33,0.67,0.0,My medications are finally leveling me out... yet tonight I'm having a painfully lonely night.,nsubj,1,neu_vader
+1110,1110,0.9999904077078502,9.59229214980891e-06,0.078,0.922,0.0,I just don't what to do and my anxiety is crippling but meds have never really helped me,nsubj,1,neu_vader
+1114,1114,0.9997622832312808,0.00023771676870771856,0.055999999999999994,0.6759999999999999,0.267,"I know meds can seem ridiculous, especially if you are just coming to terms with a diagnosis, but trust me, meds are better than the alternative.",nsubj,1,neu_vader
+1119,1119,0.9999144256229344,8.557437705023811e-05,0.087,0.794,0.11900000000000001,People always ask how my meds affect me and I honestly have no idea outside of they seem to keep my mood flat.,nsubj,1,neu_vader
+1121,1121,0.9999594682209056,4.053177909045407e-05,0.19899999999999998,0.6679999999999999,0.133,"""It's all in your head man, you don't need that shit""
+""Your meds are just big pharma trying to poison your mind: get off that shit, it's gonna kill your brain""
+""Just smoke some pot, dude- it's nature's medicine""
+""Stop taking that stuff, it makes you lose who you truly are.",nsubj_attr,1,neu_vader
+1125,1125,0.9999861524975948,1.3847502390939193e-05,0.159,0.7290000000000001,0.11199999999999999,"But I still feel like I'm lost and loose and not sure really what I can do, since I know that my current medication is not doing what it should and either needs to be increased or changed.",nsubj,1,neu_vader
+1129,1129,0.9999371038948008,6.28961052029152e-05,0.185,0.815,0.0,His medication is not as well managed as mine.,nsubj,1,neu_vader
+1130,1130,0.9999501589377756,4.98410622212347e-05,0.0,1.0,0.0,My meds (lamotrigine/citalopram/lorazepam) are not doing nearly enough yet.,nsubj,1,neu_vader
+1133,1133,0.9998164114417526,0.00018358855822772041,0.0,0.899,0.10099999999999999,I'm going to do another questionnaire to see if meds are recommended for my level of symptoms.,nsubjpass,1,neu_vader
+1150,1150,0.9999766129747726,2.338702522323723e-05,0.0,1.0,0.0,How have your meds changed your life?,nsubj,1,neu_vader
+1170,1170,0.9981686886768416,0.0018313113231496969,0.0,0.868,0.132,All in all I rate the experience a 4/10 because I did learn some good coping skills and finally got my meds adjusted.,nsubj,1,neu_vader
+1189,1189,0.9994690427007492,0.0005309572992392624,0.201,0.562,0.237,"I hope the new meds help, but haven't had luck in the past.",nsubj,1,neu_vader
+1193,1193,0.9999908734590734,9.126540944474876e-06,0.0,0.6779999999999999,0.322,Bonus if your meds don't nix your sex drive!,nsubj,1,neu_vader
+1196,1196,0.9995235241389064,0.0004764758610965405,0.077,0.6970000000000001,0.226,"For some people, the mania is so amazing, that medication and therapy may not be worth it.",nsubj,1,neu_vader
+1201,1201,0.9999505869309044,4.9413069077963736e-05,0.28600000000000003,0.47600000000000003,0.23800000000000002,"Like, my medication doesn't make me happy.",nsubj,1,neu_vader
+1226,1226,0.9999233653615504,7.663463843775351e-05,0.0,0.843,0.157,"Update: My medication has been updated, but I'd still appreciate any and all other coping strategies you've got to offer.",nsubjpass,1,neu_vader
+1251,1251,0.997509281886064,0.002490718113930636,0.23,0.6890000000000001,0.08199999999999999,I feel like an outsider in my own mind and life all the time and while medication stops my depression and mania I feel it numbs me.,nsubj,1,neu_vader
+1255,1255,0.9997349847331012,0.0002650152669091024,0.139,0.8109999999999999,0.05,For starters he can barely hold a full conversation; his meds make his memory shit and he forgets what he's saying halfway through a sentence.,nsubj,1,neu_vader
+1268,1268,0.9966213617777432,0.003378638222250455,0.0,1.0,0.0,"I've read in a few forum posts that zinc can be used to counter the effects that meds have on libido, but not from anybody that actually used it.",nsubj,1,neu_vader
+1270,1270,0.9999669238573852,3.3076142627703816e-05,0.0,1.0,0.0,We have talked at length about this and I understand the effects that the meds have had.,nsubj,1,neu_vader
+1276,1276,0.9980722419584112,0.0019277580415724173,0.265,0.48200000000000004,0.253,"I'm finally feeling better psych meds wise, but I have a history of self destructive behavior.",nsubj,1,neu_vader
+1278,1278,0.9997596345815004,0.00024036541851374214,0.068,0.8,0.132,"Yes I  was smoking crazy amounts of pot, and now that I'm out I really, really want to grab some more... but my medication works.",nsubj,1,neu_vader
+1288,1288,0.9994784493731488,0.0005215506268421748,0.136,0.8640000000000001,0.0,"I'm getting out of control, the medications are not helping (lamictal &amp; seroquel).",nsubj,1,neu_vader
+1299,1299,0.9993743633266392,0.0006256366733419861,0.0,1.0,0.0,I took medication from age 14 to 22. the medication robbed my life.,nsubj,1,neu_vader
+1310,1310,0.9997701642463428,0.00022983575364207158,0.402,0.598,0.0,"My self perception is very distorted and I said some nasty angry things.,The medication is not working at all, and I will stop it.",nsubj,1,neu_vader
+1317,1317,0.9999392349348156,6.076506517649701e-05,0.0,0.8290000000000001,0.171,As the weeks passed the meds really started helping and leveling me out.,nsubj,1,neu_vader
+1318,1318,0.9994476411144178,0.0005523588855816328,0.0,0.828,0.172,"tl;dr got hit by a train, meds started to work, so I’m following my dreams",nsubj,1,neu_vader
+1323,1323,0.9988895703356506,0.001110429664340609,0.151,0.7979999999999999,0.051,And yes some of the side effects just fucking suck but you need to gauge how uncomfortable you are now vs. what that medication will do for you in the long run.,nsubj,1,neu_vader
+1326,1326,0.9931982726567338,0.006801727343281987,0.0,0.809,0.191,The point is you have to really put forth a lot of effort sometimes to get the benefit - That medication could significantly improve the quality of your life.,nsubj,1,neu_vader
+1341,1341,0.9996021393655372,0.00039786063448117706,0.29600000000000004,0.7040000000000001,0.0,"But, I'll be damned if these meds are doing a fucking thing except excacerbating the problem or worse doing things unknown until the future.",nsubj,1,neu_vader
+1357,1357,0.99998164311554,1.8356884458146657e-05,0.514,0.486,0.0,My worst fear is that my medicine is going to stop working.,nsubj,1,neg_vader
+1372,1372,0.9999343527838058,6.564721621210943e-05,0.057,0.894,0.049,"It can take years to find the right med combo, and if you use pot and your doctor doesn't know, you very well could wind up thinking your medicines don't work when they do, or do work when they don't, potentially prolonging your agony for years.",nsubj,1,neu_vader
+1388,1388,0.9987516199675466,0.0012483800324566555,0.272,0.728,0.0,"Worst I've felt in a long time, probably since my meds started working.",nsubj,1,neu_vader
+1418,1418,0.9999953713707818,4.628629207832738e-06,0.0,0.8,0.2,"I guess what I'm wondering is what does ""working medication"" look like?",nsubj,1,neu_vader
+1427,1427,0.9997757094944996,0.00022429050551403242,0.08800000000000001,0.7490000000000001,0.163,"Any time I start talking about how the meds have helped me she looks at me like I'm a drug addict, not like I'm someone with an illness.",nsubj,1,neu_vader
+1436,1436,0.9999680911173582,3.1908882657270746e-05,0.0,1.0,0.0,Turns out that my meds are messing with my eyesight and that I need FUCKING BIFOCALS.,nsubj,1,neu_vader
+1440,1440,0.9998375174709668,0.00016248252902746418,0.192,0.667,0.142,I'm relieved as my meds have been adjusted and I feel stable but I'm dreading the day I have another episode.,nsubjpass,1,neu_vader
+1449,1449,0.9985396240521318,0.0014603759478507205,0.059000000000000004,0.941,0.0,was in hospital for it as i dont handle bloods well (its a trigger and i have to be drugged out for it) im not coping and hes claiming i need to wait 3 months for my long acting meds to leave the blood stream before we can even start to know if its working.,nsubj,1,neu_vader
+1466,1466,0.9479923599320358,0.05200764006797305,0.0,0.73,0.27,"Even though it hasn't been a week, the medication is working since now I can fall asleep before 12 but I seem to alternate between feeling normal, calm, somewhat cheerful and an intense feeling that I don't know how to describe it.",nsubj,1,neu_vader
+1473,1473,0.9994934867130356,0.0005065132869797018,0.079,0.7390000000000001,0.182,"For instance, his best friend won't have anything to do with me any more because at christmas my meds stopped working and I had a serious rapid cycling moment, so now he just thinks I'm 'crazy'.",nsubj,1,neu_vader
+1475,1475,0.9998592344507083,0.00014076554930813104,0.18,0.634,0.185,"Have any meds been successful at getting you out of the ""dreamlike"" state of depression?",nsubj,1,neu_vader
+1479,1479,0.9996837520382869,0.00031624796173072205,0.0,1.0,0.0,The drugs I'm on aren't enough and I don't have a place to go right now to try to get meds adjusted.,nsubj,1,neu_vader
+1483,1483,0.9990988993802428,0.0009011006197584805,0.0,0.7829999999999999,0.217,"it feels like medication does this all the time, is my body building some immune system after a while or wtf?!",nsubj,1,neu_vader
+1509,1509,0.999985235526565,1.476447343737219e-05,0.0,0.8909999999999999,0.109,I currently have neither and am getting my meds refilled by my primary and don't know when i'll be able to get professional help.,nsubj,1,neu_vader
+1512,1512,0.9999803422689726,1.9657731036630832e-05,0.0,1.0,0.0,"or ""My meds are finally working!""",nsubj,1,neu_vader
+1513,1513,0.9989536945518124,0.0010463054481988402,0.23,0.731,0.039,"Yeah, it absolutely sucks that someone's meds are working after the 2nd combo when you've been working on combos for years, but that doesn't mean you should downvote them out of spite or jealousy.",nsubj,1,neu_vader
+1517,1517,0.9604436745071909,0.039556325492802635,0.11699999999999999,0.826,0.057999999999999996,Anyway after it took me a long time to titrate up to 150mg I started feeling really good in May and the start of June...my pdoc and I thought it was because the meds were working but in mid June I started heading back down into a depressive episode and I still am in the same depressive episode.,nsubj,1,neu_vader
+1518,1518,0.9955109315680551,0.004489068431964607,0.0,0.8640000000000001,0.136,So I think I may have actually been in a hypomanic episode instead of the meds actually helping.,nsubj,1,neu_vader
+1520,1520,0.9997226561000456,0.0002773438999603593,0.179,0.794,0.027000000000000003,I'm meeting with her again in about a week and a half and I feel really bad about telling her that im still feeling depressed and that the meds aren't working cause she just got me so much of the lamictal that would go to waste if we try something else.,nsubj,1,neu_vader
+1535,1535,0.9999949464104202,5.053589566887961e-06,0.0,1.0,0.0,All I can think is what if this medication makes me psychotic?,nsubj,1,neu_vader
+1554,1554,0.918950151524732,0.08104984847526442,0.23199999999999998,0.69,0.078,I was so sick at 3.0 I'm   having heart pain twitching all over my body loss of hair I had throat pain along with unreal anxiety well sleeping waking up every hour he said I couldn't have any side effects at such a low blood level but I was reading other people feeling sick at this lower 3.0 I'm worried I don't know what to think if anyone know anything it would be helpful what do I ask my doctor to do help me please I'm in a in forced drug treatment program to get my charges reduced but part of the program is I must take meds but I've had so many side effects it's such a nightmare... started off at 900 mg lithium carbonate eskalith this is my third Med and I dont feel I have bipolar my family pushed me into it to get my charges reduced OMG I'm in he'll these meds make me sleep all the time loss of hair feeling numb depression so many weird problems blurred vision I'm only 34 and never had side effects / reactions to anything other than bug bites poison ivy  sun burn normal things.,nsubj,1,neu_vader
+1581,1581,0.9984555849079008,0.0015444150920996733,0.0,1.0,0.0,"One medication that I'm on called gabapentin, a mood stabilizer, only comes in 100mg capsules.",nsubj,1,neu_vader
+1582,1582,0.9979219741906772,0.002078025809312061,0.223,0.708,0.068,"I am in a demanding academic field so given that my experience with Risperdol was a disaster with focus and confusion, I'd like to hear a reason to believe that these medications are different.",nsubj,1,neu_vader
+1606,1606,0.99931493912419,0.0006850608758149986,0.256,0.6990000000000001,0.045,"I also have PTSD, which was misdiagnosed as bipolar for years and the resulting medication made me so sick, tired and miserable that there is little I will not do to avoid bringing on bipolar.",nsubj,1,neu_vader
+1616,1616,0.9998933814965464,0.00010661850343704326,0.092,0.722,0.18600000000000003,"Help...
+
+
+**Further explanation**
+
+I don't know why, but meds often work great in the beginning and then abruptly and/or rapidly stop working or go south.",nsubj,1,neu_vader
+1617,1617,0.9999911685269488,8.831473057199874e-06,0.152,0.693,0.156,"So the meds must have had some positive effect if not being on it made life horrid, right?",nsubj,1,neu_vader
+1625,1625,0.9999644516181222,3.5548381864461824e-05,0.0,0.748,0.252,It's...new...I know the medicine is there to help me.,nsubj,1,neu_vader
+1635,1635,0.9985194378103248,0.0014805621896870232,0.196,0.687,0.11699999999999999,"I don't think the meds are working, but they make me feel weird to the point an increase my harm my limited abilities at school, though that is basically a moot point since I am not doing my work now.",nsubj,1,neu_vader
+1664,1664,0.9999549041094772,4.5095890522142045e-05,0.0,1.0,0.0,"And it is why I have the notion that my medications are ""holding me hostage"".",nsubj,1,neu_vader
+1672,1672,0.9999641514735929,3.584852642667073e-05,0.0,1.0,0.0,At first I thought medication was working.,nsubj,1,neu_vader
+1674,1674,0.9999827866330876,1.7213366897184966e-05,0.0,1.0,0.0,"I've been on meds since I started seeing them, so I'm thinking that is probably why they aren't diagnosing me with bipolar--  bc my meds are working.",nsubj,1,neu_vader
+1683,1683,0.9997459347114162,0.00025406528856674286,0.161,0.772,0.067,"We went outside to smoke a cigarette and started talking about life and how I wanted to be a writer, but I'm struggling because I feel that my medicine inhibits my abilities and all that stuff.",nsubj,1,neu_vader
+1687,1687,0.9998324153937834,0.00016758460622025547,0.0,0.755,0.245,Some medication im on actually helps produce new growth of dopamine receptors causing depression... i fill them with dope.,nsubj,1,neu_vader
+1688,1688,0.9996560982059792,0.0003439017940128352,0.0,1.0,0.0,So that medication is out of the question.,nsubj,1,neu_vader
+1693,1693,0.9998931139280168,0.0001068860719832052,0.0,0.645,0.355,Luckily the medication will start working soon.,nsubj,1,neu_vader
+1702,1702,0.9996524446189028,0.00034755538111247723,0.09300000000000001,0.907,0.0,I'm trying to push the argument that medication has changed my political views but nobody will believe it.,nsubj,1,neu_vader
+1706,1706,0.9999641926637021,3.580733629874083e-05,0.34,0.66,0.0,Antihistamine based sleeping meds make me aggressive and paranoid.,nsubj,1,neu_vader
+1707,1707,0.999973764202256,2.623579774003822e-05,0.64,0.36,0.0,Anti nausea meds make me agitated and distraught.,nsubj,1,neg_vader
+1714,1714,0.9991201299152924,0.0008798700847176776,0.065,0.935,0.0,"So in all, my meds are going to cost me about $150 a month which is wayyy beyond what I can pay for.",nsubj,1,neu_vader
+1733,1733,0.9999791159303052,2.088406969312789e-05,0.0,1.0,0.0,"My meds have to be switched up every few months, because my body gets used to them or something.",nsubj,1,neu_vader
+1738,1738,0.9999508267825452,4.917321744673775e-05,0.0,1.0,0.0,"My old meds didn't work for me, even though I stayed on each cocktail for at least three months.",nsubj,1,neu_vader
+1743,1743,0.99983615483118,0.00016384516883847082,0.0,1.0,0.0,Took 3 years to get the meds set.,nsubj,1,neu_vader
+1751,1751,0.9999679824778968,3.2017522095609925e-05,0.163,0.8370000000000001,0.0,"They switched me to ablify because my old meds where doing bad things to my body, and my mind.",nsubj,1,neu_vader
+1754,1754,0.9999705022065372,2.949779345044536e-05,0.0,1.0,0.0,"I did start part time work, my meds are on track and stuff.",nsubj,1,neu_vader
+1763,1763,0.9998303682824884,0.00016963171750302033,0.0,0.772,0.228,edit: she had also been telling me towards the end that she has been feeling like the meds haven't been working like they're supposed to.,nsubj,1,neu_vader
+1767,1767,0.999393708128936,0.0006062918710634387,0.0,0.664,0.336,He believes that his work will soon bring him great fame and prosperity and that meds will dilute his thoughts and creativity.,nsubj,1,neu_vader
+1776,1776,0.9998795976317336,0.00012040236826264121,0.086,0.914,0.0,The medication really makes me feel so normal and I don't want to go un-medicated.,nsubj,1,neu_vader
+1810,1810,0.9979506998543872,0.0020493001456076466,0.055999999999999994,0.816,0.128,"TL;DR
+I'm in a scenerio where natural events are running their natural course and it's taking its toll on me, or these events are signifying my meds are no longer working how they are intended to.",nsubj,1,neu_vader
+1819,1819,0.9999303477929836,6.965220701681617e-05,0.0,1.0,0.0,I guess basically I am wondering does anyone know how long it will be before the meds really start working and I can feel normal?,nsubj,1,neu_vader
+1823,1823,0.9997215097238136,0.0002784902761884622,0.10300000000000001,0.897,0.0,I know that medications aren't perfect though so I should get to know when I'm having hypomania so I can prepare for it in the future if/or when it happens.,nsubj,1,neu_vader
+1826,1826,0.9999597953264082,4.020467358666951e-05,0.0,1.0,0.0,I know medication is necessary to feel 'sane.',nsubj,1,neu_vader
+1830,1830,0.999942608205639,5.739179436707392e-05,0.318,0.607,0.075,"The meds help, but all I've had as far as ""mania"" goes is suffering from someone else's trauma.",nsubj,1,neu_vader
+1843,1843,0.9997656838945248,0.0002343161054841979,0.083,0.875,0.042,"She hasn't been on her meds for about 4 months now, mainly because we don't have insurance and we can't afford any of her meds (we've tried medicaid, disability, and those free med programs with no luck), but also because she doesn't like how the meds make her feel.",nsubj,1,neu_vader
+1845,1845,0.999878872860944,0.00012112713905569031,0.0,0.909,0.091,it makes things 10x worse....ive just gotten out of my 5 hospitalization (2014) so i know all my meds are fine.,nsubj,1,neu_vader
+1859,1859,0.9999741720549136,2.5827945077919767e-05,0.0,1.0,0.0,"As if I took the ""easy"" way out and let medicine do the work.",nsubj,1,neu_vader
+1874,1874,0.9999691468307818,3.085316923367597e-05,0.102,0.843,0.055,"Well on the 12th, 11 days ago, I noted my swings starting to disappear (I chart my moods now) and I'm not sure if the medicine is finally actually working or if I'm just hypomanic again.",nsubj,1,neu_vader
+1875,1875,0.9999946581303976,5.341869598763372e-06,0.16699999999999998,0.833,0.0,"So I guess the question I have is, if the meds are working and I am ""better"", what the hell am I supposed to do with myself now?",nsubj,1,neu_vader
+1877,1877,0.9997776149451608,0.00022238505483801344,0.14400000000000002,0.8009999999999999,0.054000000000000006,I'm scared a shelter will be a fucking terrible place while my meds are changing and I barley have the energy to call them all but I guess I have to.,nsubj,1,neu_vader
+1890,1890,0.9999223011271644,7.769887282234184e-05,0.11199999999999999,0.888,0.0,My meds that had been working on me for 10 years suddenly stopped doing their magic.,nsubj,1,neu_vader
+1897,1897,0.9999669964206068,3.300357940562821e-05,0.0,1.0,0.0,The meds aren't working.,nsubj,1,neu_vader
+1901,1901,0.9993727684480084,0.0006272315519914603,0.068,0.879,0.054000000000000006,"I'm just getting medicaid after being uninsured (and thus untreated) for a few years and looking to start treatment again (medication has been helpful for me, but I've had little to no real therapy.)",nsubj,1,neu_vader
+1902,1902,0.999795524131463,0.00020447586853460556,0.10300000000000001,0.8340000000000001,0.063,Been feeling all over the place and meds aren't helping fast enough (ie lamictal takes forever to get on the proper dose!!),nsubj,1,neu_vader
+1904,1904,0.9971923997802354,0.002807600219747664,0.12,0.708,0.172,"My fucking medicine has helped me gain a LOT of weight, and it really, really bothers me.",nsubj,1,neu_vader
+1913,1913,0.9996041701535494,0.00039582984644301165,0.23399999999999999,0.7659999999999999,0.0,I'm starting to think that medication may not be the best option.,nsubj,1,neu_vader
+1914,1914,0.9995604418757704,0.00043955812423725687,0.126,0.696,0.17800000000000002,"Everything was going great even though in the beginning, the meds were making me tired all the time.",nsubj,1,neu_vader
+1915,1915,0.9999815910175344,1.8408982479075e-05,0.0,1.0,0.0,My meds are gone and I feel nothing.,nsubjpass,1,neu_vader
+1920,1920,0.9928430277465145,0.007156972253478006,0.11,0.89,0.0,Seroquel (200mg) was one of the first meds I was put on about 8 months ago and it really helped a lot with my depression (I think - maybe the other meds helped the depression?).,nsubj,1,neu_vader
+1921,1921,0.9999882466763768,1.1753323619978164e-05,0.196,0.804,0.0,I'm just wondering... do medicines just stop working after awhile?,nsubj,1,neu_vader
+1930,1930,0.99972414360372,0.0002758563962605744,0.0,0.868,0.132,"END EDIT
+
+It seems pretty obvious to me after doing some thought, research, and discussion that medication is a temporary fix for bipolar.",nsubj,1,neu_vader
+1931,1931,0.9998223581271084,0.00017764187290000258,0.307,0.693,0.0,That the meds might be making it worse.,nsubj,1,neu_vader
+1932,1932,0.9990835905965156,0.0009164094034647127,0.0,0.813,0.187,"I wonder what the medication is really doing to my brain, whether I really have the strength to endure a relapse after finally seeing what it's like to live without symptoms.",nsubj,1,neu_vader
+1939,1939,0.9999669964206068,3.300357940562821e-05,0.0,1.0,0.0,The medications aren't working.,nsubj,1,neu_vader
+1940,1940,0.9997894216786444,0.00021057832135998856,0.26,0.74,0.0,I don't know what else to do and I am so scared I am too petrified of what might happen if I call the health center and tell them the meds aren't helping.,nsubj,1,neu_vader
+1959,1959,0.9999965294272509,3.470572746079778e-06,0.0,1.0,0.0,"When I see my psychiatrist on Monday, and she asks how my meds have been working out, all I can think about telling her is ""Fine.""",nsubj,1,neu_vader
+1994,1994,0.9731103050287956,0.026889694971220457,0.0,0.9570000000000001,0.043,"Myself and some of my extended family (aunts, cousins) have been trying to convince my parents that they need to set some sort of ultimatum for him with the drinking - if his meds worked properly and without interference, it would be a whole different ball game.",nsubj,1,neu_vader
+2015,2015,0.9946597989910874,0.005340201008919192,0.0,1.0,0.0,Then I took an antihistamine for a sinus issue that's going around and out of curiosity looked up how the medication works.,nsubj,1,neu_vader
+2020,2020,0.9998014530701126,0.00019854692989243927,0.106,0.894,0.0,"My medication was all changed around by my Psychiatrist, and he told me so often to cut down on the drinking.",nsubjpass,1,neu_vader
+2021,2021,0.9993595232881866,0.0006404767118255554,0.0,1.0,0.0,This led to my medication being hiked up in dosage on a regular basis.,nsubjpass,1,neu_vader
+2024,2024,0.9998231598825776,0.00017684011743455638,0.235,0.765,0.0,"Along with that, since I stopped drinking and my medication was sorted out properly, I managed to lose 8 stone.",nsubjpass,1,neu_vader
+2026,2026,0.9991120262407606,0.0008879737592541435,0.18,0.662,0.159,He has a reputation at multiple hospitals for being the best psychiatrist but what he's best at is lying and that's what I've concluded is necessary for patient compliance which is a big thing in psychiatry because the meds are shit.,nsubj,1,neu_vader
+2034,2034,0.9996022819534062,0.0003977180465978014,0.0,0.84,0.16,"The meds I'm on have been a godsend and we probably need to up the dose, my next appt is May 5.",nsubj,1,neu_vader
+2041,2041,0.999672504731637,0.0003274952683530757,0.0,0.878,0.122,"On top of all that, my meds keep me from really releasing any emotion.",nsubj,1,neu_vader
+2059,2059,0.999304668205468,0.0006953317945297878,0.0,0.769,0.231,i believe the medication is playing a key role.,nsubj,1,neu_vader
+2077,2077,0.999985053699716,1.4946300302574988e-05,0.0,1.0,0.0,What medications are you currently on?,nsubj,1,neu_vader
+2079,2079,0.9999782868581406,2.1713141849497087e-05,0.14800000000000002,0.667,0.185,"...So since meds won't work for me, am I stuck like this?",nsubj,1,neu_vader
+2084,2084,0.9998230243927854,0.00017697560722637097,0.0,0.8170000000000001,0.183,And the medication I wanted to try and would be most comfortable starting off with would be Lamictal.,nsubj,1,neu_vader
+2092,2092,0.9999626678010014,3.733219898610013e-05,0.0,1.0,0.0,and all my other meds are working.,nsubj,1,neu_vader
+2095,2095,0.9998689952752134,0.0001310047247716932,0.239,0.7609999999999999,0.0,For people who used to feel apathetic what medication made the apathy go away for you?,nsubj,1,neu_vader
+2101,2101,0.9971971152496792,0.0028028847503016787,0.0,1.0,0.0,I can't wait for the meds to kick in and for me to find a proper therapist.,nsubj,1,neu_vader
+2110,2110,0.9914134083188708,0.008586591681127655,0.0,0.789,0.21100000000000002,"He's been on medication now for three months, and his pdoc recently (a few days ago) said the meds seemed to be working pretty well and that he appeared fairly stable.",pobj_nsubj,1,neu_vader
+2124,2124,0.999952433758696,4.756624130461828e-05,0.0,1.0,0.0,Will the medication 'fix' this?,nsubj,1,neu_vader
+2125,2125,0.9983364533202984,0.0016635466797120244,0.0,0.946,0.054000000000000006,"Well I've been having hypermanic episodes the past couple of months and I'm in the middle of one right now, or so I'm told, and my meds aren't leveling out my moods and my mind is racing constantly.",nsubj,1,neu_vader
+2139,2139,0.9998110399106525,0.00018896008935284647,0.154,0.6990000000000001,0.147,They said that after a while a certain medicine has no effect on them.,nsubj,1,neu_vader
+2142,2142,0.9999481123333532,5.188766666416479e-05,0.127,0.613,0.259,My friend said the meds would dull her emotions and take away the ability to feel.,nsubj,1,neu_vader
+2147,2147,0.999869998997274,0.00013000100274679563,0.0,0.733,0.267,"I get my meds free from the county MHMR program, which is good because I couldn't afford treatment at all otherwise.",nsubj,1,neu_vader
+2148,2148,0.9999286270925968,7.13729074060613e-05,0.22699999999999998,0.5670000000000001,0.20600000000000002,I know that meds alone don't cut it.,nsubj,1,neu_vader
+2151,2151,0.9999889655349432,1.103446506080092e-05,0.0,0.8390000000000001,0.161,"I feel like before meds my sex drive was overactive (I'm female, just for reference).",nsubj,1,neu_vader
+2152,2152,0.9989156234852316,0.001084376514776968,0.061,0.8370000000000001,0.10300000000000001,"So the point is, while these meds haven't eliminated my sex drive in any way, they help to take off that aggressive edge sometimes.",nsubj,1,neu_vader
+2169,2169,0.9988153998973356,0.0011846001026507515,0.0,0.8029999999999999,0.19699999999999998,I am pretty convinced i have some other co-existing illness^foot so my pdoc said keep a mood chart and talk to her after i let the meds kick in a bit.,nsubj,1,neu_vader
+2174,2174,0.9998436846438676,0.0001563153561484272,0.128,0.872,0.0,"Her meds were stepped back up (Lamictal), but she had weekly issues with missing doses before and after the episode.",nsubjpass,1,neu_vader
+2175,2175,0.99757161181853,0.002428388181483254,0.212,0.706,0.08199999999999999,"The messiness reaches unbearable levels at times (I have a bad habit of enabling and picking up after her), when her ADD meds wear off it’s literally like a kid in a candy store, hyper and uncontrolled with some violence.",nsubj,1,neu_vader
+2181,2181,0.9997704310806792,0.00022956891930528262,0.0,0.7979999999999999,0.20199999999999999,But he has back up plans if the medicines are too strong for me.,nsubj,1,neu_vader
+2190,2190,0.9999745127748408,2.548722514427302e-05,0.0,1.0,0.0,Tl;dr: current meds aren't working.,nsubj,1,neu_vader
+2233,2233,0.999924269844754,7.573015523650236e-05,0.0,0.884,0.11599999999999999,My therapist says if I lived in place like this I could just get the meds shipped to me every few months.,nsubj,1,neu_vader
+2236,2236,0.9998784027540962,0.00012159724589718042,0.0,1.0,0.0,Is it possible that my medication isn't doing the job?,nsubj,1,neu_vader
+2258,2258,0.9955197700437703,0.004480229956211957,0.0,1.0,0.0,My meds are going from 60 total to over 100 for a bare minimum of the three I absolutely have to have.,nsubj,1,neu_vader
+2263,2263,0.9991015613536028,0.0008984386463989402,0.071,0.71,0.21899999999999997,"I guess what I'm trying to say is, my life is awesome now, my medication works, I live somewhere (far, far away) in a place I love, I feel put together, and while bad days exist, they exist like they do for normal people.",nsubj,1,neu_vader
+2264,2264,0.9998861766510728,0.00011382334891171728,0.159,0.841,0.0,But the medication is not helping me to not cycle anymore.,nsubj,1,neu_vader
+2276,2276,0.9999555672378364,4.4432762172952176e-05,0.0,1.0,0.0,I know the difference from reality and what isn't real and medication works for me (I am medicated at this point).,nsubj,1,neu_vader
+2289,2289,0.9998850267377384,0.00011497326227884485,0.0,1.0,0.0,"Bipolar medications have sleep side effects, sleep medications have mood side effects...",nsubj,1,neu_vader
+2296,2296,0.999598293231786,0.00040170676820127114,0.0,0.725,0.275,"So the affection, the medication, the poly, everything has been created and taken away by this disease.",nsubjpass,1,neu_vader
+2312,2312,0.9997769444368868,0.00022305556312363252,0.087,0.9129999999999999,0.0,I was recently re diagnosed with ADHD and am worried that the meds that I am prescribed (Ritalin and Ritalin La) may be destabilizing my mood.,nsubj,1,neu_vader
+2320,2320,0.9997986509849957,0.00020134901500338932,0.0,1.0,0.0,This started about a week after my medication was changed.,nsubjpass,1,neu_vader
+2322,2322,0.9997653847207452,0.00023461527925535083,0.0,0.8170000000000001,0.183,"And frankly the more I think about it, the more I'm sure I might be bipolar, and I'm not sure the medications I'm on now are working.",nsubj,1,neu_vader
+2333,2333,0.9996839263276964,0.0003160736722858743,0.436,0.564,0.0,"But the medicines side effects are SO bad, and it’s very frustrating.",nsubj,1,neu_vader
+2334,2334,0.9998675551721391,0.00013244482787959006,0.361,0.435,0.204,"Aside from my increased appetite, anxiety, fatigue, memory problems, forgetfulness, feeling like a “zombie”, the medicine is killing my sexual function.",nsubj,1,neu_vader
+2360,2360,0.9995904745755289,0.0004095254244642802,0.057999999999999996,0.7929999999999999,0.149,"I've gotten used to them so they don't really bother me, but I do remember them all and it weirds me out that a medication could bring out something like this.",nsubj,1,neu_vader
+2362,2362,0.9999302765836976,6.972341631412927e-05,0.313,0.607,0.08,My meds barely make me feel like there is a point in existing without them well it's bad suicidal thoughts all day every day.,nsubj,1,neu_vader
+2370,2370,0.9999560469070418,4.395309294618725e-05,0.153,0.721,0.126,I went to my school's disability services so I could get help because my medication has shot my concentration to shit.,nsubj,1,neu_vader
+2376,2376,0.997587774446542,0.0024122255534683354,0.0,0.85,0.15,"My meds are still very much under adjustment, but I feel totally fine most of the time.",nsubj,1,neu_vader
+2402,2402,0.9989601560994956,0.0010398439004993217,0.0,0.805,0.195,"I need the meds to have a life, any pointers to restart the creative urge?",nsubj,1,neu_vader
+2405,2405,0.9998883245364626,0.00011167546352160049,0.165,0.835,0.0,"I know that it's probably the meds doing their job but it still makes me wonder:
+
+* Was there actually anything wrong with me?",nsubj,1,neu_vader
+2411,2411,0.9995315697086744,0.000468430291313244,0.046,0.9540000000000001,0.0,"I dont want to diagnose myself before my official examination, but the bottom line is, the medicines havent been working, maybe a placebo effect, who knows.",nsubj,1,neu_vader
+2412,2412,0.9999763105775664,2.368942241735518e-05,0.0,1.0,0.0,how different can things get once my meds will be changed if this is the case?,nsubjpass,1,neu_vader
+2417,2417,0.99992693974016,7.306025985911976e-05,0.11199999999999999,0.888,0.0,"So the cold medication messed up my routine and I didn't remember my doset, just my birthcontrol and the cold stuff.",nsubj,1,neu_vader
+2429,2429,0.9996192919591828,0.00038070804083387047,0.251,0.675,0.07400000000000001,"I barely leave the house, meds get forgotten, mania begins and things aren't well.",nsubjpass,1,neu_vader
+2451,2451,0.9999866190738492,1.3380926148345947e-05,0.0,0.8320000000000001,0.168,"I'm going to speak to my doctor about this, but what are some other good medications to manage anxious/obsessive-compulsive/paranoid bipolar?",nsubj,1,neu_vader
+2455,2455,0.999953902059224,4.609794078238321e-05,0.0,1.0,0.0,Could my bipolar meds be interfering with the painkillers?,nsubj,1,neu_vader
+2460,2460,0.99998838124161,1.1618758401257249e-05,0.0,0.8640000000000001,0.136,"The only medicine she is currently on is adderall xr 30mg, and I honestly thing the doctor misdiagnosed her with A.d.d.",nsubj,1,neu_vader
+2467,2467,0.9999486460128492,5.1353987144679103e-05,0.0,0.588,0.41200000000000003,The meds work well.,nsubj,1,neu_vader
+2481,2481,0.9999965264276744,3.4735723444846482e-06,0.0,0.826,0.174,I have been to my psychiatrist meds were increased and added etc.,nsubjpass,1,neu_vader
+2498,2498,0.9998665122188902,0.0001334877810922993,0.0,0.816,0.184,"In the meantime, my medication and therapy weren't doing much to help me.",nsubj,1,neu_vader
+2508,2508,0.9999631536621952,3.684633781666172e-05,0.0,0.905,0.095,"tl;dr - My mom put ideas into my head that I can't get rid of, that meds don't work and mess you up.",nsubj,1,neu_vader
+2516,2516,0.9999746959389352,2.530406108165474e-05,0.0,1.0,0.0,How does medication feel?,nsubj,1,neu_vader
+2533,2533,0.9986558378209592,0.0013441621790322242,0.09699999999999999,0.665,0.23800000000000002,"Doesn't have to be all sunshine and rainbow stories, just want to (1) not feel so alone in being more scared about this than hopeful and positive and (2) reinforce to myself that medication can do a lot of good and I'm not going through this for nothing.",nsubj,1,neu_vader
+2545,2545,0.996260473449212,0.0037395265507693906,0.0,0.8,0.2,"This is excellent, in my opinion, since she knows a lot of the ins and outs of what goes on in my head and what medications would be helpful.",nsubj,1,neu_vader
+2559,2559,0.9999690423371111,3.095766289692365e-05,0.266,0.7340000000000001,0.0,"The point is, these medications did not really help me because I was mostly having depressive episodes.",nsubj,1,neu_vader
+2564,2564,0.9999633053554272,3.669464458273873e-05,0.0,1.0,0.0,Currently her meds are set at 12.5mg Lamictal and 75mg Zoloft.,nsubj,1,neu_vader
+2567,2567,0.9999431801352988,5.681986469772313e-05,0.0,1.0,0.0,Crazymeds.us is down so I can't readily find the answer.,nsubj,1,neu_vader
+2579,2579,0.9995833746899212,0.00041662531008947607,0.0,0.78,0.22,"That ""did you take your meds today"" comment is thrown around a lot, as well as ""seems like your meds are finally working"" whenever there hasn't been a fight.",nsubj,1,neu_vader
+2598,2598,0.9999360355371766,6.396446283553288e-05,0.0,1.0,0.0,"The meds he listed for me to check out were: Depakote ER, Tegretol, Lithium, Zyprexa, Seroquel, Risperdal, Abilify, Geodon, and Saphris.",nsubj,1,neu_vader
+2618,2618,0.9999457918080464,5.420819194528811e-05,0.0,1.0,0.0,My meds recently decreased in level.,nsubj,1,neu_vader
+2625,2625,0.9996319202412892,0.000368079758707709,0.0,0.745,0.255,"We discussed it, and agreed that some extra medication would likely help the issues I'm having.",nsubj,1,neu_vader
+2634,2634,0.9995960191039874,0.00040398089602885383,0.0,0.8320000000000001,0.168,"Basically, I'm together to the point that I don't need constant watch, my meds are in transition but under control yadda yadda, but I get overwhelmed incredibly easily.",nsubj,1,neu_vader
+2661,2661,0.9997898445515864,0.00021015544841258453,0.0,0.8540000000000001,0.146,Along with a proper diet and a good exercise regimen (this last part is where holistic medicine gets it right).,nsubj,1,neu_vader
+2662,2662,0.999982913438232,1.70865617866781e-05,0.187,0.6509999999999999,0.162,"If you ""think"" you have ""bipolar"" because you have occasional mood swings and sometimes feel depressed or excited, but not ridiculously, overpoweringly excited for 5 days straight followed by horribly depressed for weeks or months, then maybe homeopathic medicine along with diet and exercise is for you.",nsubj,1,neu_vader
+2673,2673,0.9998914572119014,0.00010854278811114007,0.192,0.8079999999999999,0.0,With the meds those obsessive thoughts would nearly evaporate.,nsubj,1,neu_vader
+2674,2674,0.9998324891553088,0.00016751084468226768,0.0,0.899,0.10099999999999999,I know the right meds can take time to find but when I go to her and tell her whatever I am on isnt really working I always feel like she doesnt believe me.,nsubj,1,neu_vader
+2681,2681,0.994131578478694,0.005868421521292943,0.147,0.853,0.0,"About two weeks ago, I got sick with a viral form of meningitis, and was hospitalized for a week, during which time I had difficulty keeping any food, and thus, any medication that was not delivered via IV, down.",nsubj,1,neu_vader
+2682,2682,0.9997828788458268,0.00021712115416104642,0.0,1.0,0.0,"If the meds are exacerbating the D/O, I shouldn't take them.",nsubj,1,neu_vader
+2688,2688,0.9996375483599024,0.0003624516401021248,0.0,1.0,0.0,"However, I could feel that the medicine makes me sort of... hazy.",nsubj,1,neu_vader
+2689,2689,0.9997228704261416,0.0002771295738433981,0.0,1.0,0.0,At first I thought the medication didn't work sometimes.,nsubj,1,neu_vader
+2690,2690,0.9999665975584232,3.3402441567181125e-05,0.157,0.672,0.172,And the truth is that I think the medicine makes me forgetful.,nsubj,1,neu_vader
+2693,2693,0.9987223358540992,0.001277664145899859,0.094,0.9059999999999999,0.0,"http://www.reddit.com/r/bipolar/comments/2g73ik/its_all_falling_apart_again_a_rant/
+
+TL;DR version is that I have an extremely erratic and unpredictable type of bipolar that makes medication difficult, and so far impossible, to get right.",nsubj,1,neu_vader
+2712,2712,0.9983510932215768,0.0016489067784303936,0.057999999999999996,0.759,0.183,"Seems the meds were doing something, they no longer work, and ive gained a lot of weight, but my brain feels like it's ""awakening"" again.",nsubj,1,neu_vader
+2713,2713,0.9996022913779266,0.0003977086220551712,0.0,1.0,0.0,"The meds really made my mind blank, but maybe too much, to a point where I couldn't tell.",nsubj,1,neu_vader
+2714,2714,0.9991452863511712,0.0008547136488194168,0.111,0.889,0.0,"Very weird, but things are returning to ""normal"" as the meds wear off.",nsubj,1,neu_vader
+2717,2717,0.9999275694273492,7.243057266266299e-05,0.0,0.8270000000000001,0.17300000000000001,"https://www.studyingbipolar.com/index.aspx
+
+Not sure what proof to post as the medicine is injected...",nsubjpass,1,neu_vader
+2720,2720,0.9999305679542232,6.943204579274717e-05,0.0,1.0,0.0,I see my pdoc next week to discuss how the new medicine is working out in my regime.,nsubj,1,neu_vader
+2721,2721,0.9999498692288624,5.01307711175321e-05,0.0,0.915,0.085,I just would like to know if perhaps this recent upswing might have something to do with my new medication finally kicking in and the side effects wearing off?,nsubj,1,neu_vader
+2727,2727,0.9999789059023066,2.1094097675322286e-05,0.094,0.9059999999999999,0.0,So what happens if I become unstable again and need the have my meds adjusted and have the changes monitored sooner than two months from then?,nsubj,1,neu_vader
+2728,2728,0.9997367603549482,0.0002632396450604192,0.0,0.8190000000000001,0.18100000000000002,"I feel like the only choice I'd have would be to hospitalize myself if I needed help, rather than having a pdoc I can call and actually depend on to make sure my meds are always working the way they should...",nsubj,1,neu_vader
+2734,2734,0.9997467560157196,0.00025324398428442567,0.08800000000000001,0.8440000000000001,0.068,Problem is I need to be at bed at a certain time for my meds to kick in and also wake me up at 6am (barely getting up in time).,nsubj,1,neu_vader
+2753,2753,0.9999556444936528,4.4355506353583315e-05,0.0,0.8809999999999999,0.11900000000000001,All I can do now is try to calmly sit here and wait for the medicine to kick in.,nsubj,1,neu_vader
+2759,2759,0.9997896035958598,0.00021039640415759008,0.185,0.73,0.086,My family knows because he has warned me that his meds will invariably will stop working or there is a chance.,nsubj,1,neu_vader
+2765,2765,0.9999612897747489,3.8710225267236905e-05,0.545,0.397,0.057999999999999996,"My meds are working, no more excessive or inappropriate emotional responses, no rumination, no hypomania, no severe depression.",nsubj,1,neg_vader
+2771,2771,0.9998430426620318,0.00015695733795791732,0.0,0.675,0.325,Can anyone assure me that this is a good thing to do and that meds and/or therapy will improve my life?,nsubj,1,neu_vader
+2791,2791,0.9841122353112866,0.015887764688702125,0.059000000000000004,0.941,0.0,"I am Bipolar ii and my meds are currently:
+
+Daily...
+lithium (900mg)
+valproate (600mg)
+thyroxine (one tablet unsure of mg)
+lamotrigine (1/2 tablet unsure of mg)
+
+I think the valproate has pushed my weight up rather than the others, in 6 months i have gone from what was once a steady 77kgs to now 83kgs which for me is too heavy as i am only 5""9 and not a big build at all.",nsubj,1,neu_vader
+2793,2793,0.9999672517679352,3.2748232084697786e-05,0.0,0.7829999999999999,0.217,"The only medication I take now is lithium, because it's natural.",nsubj,1,neu_vader
+2799,2799,0.996415974399648,0.003584025600341791,0.0,0.8320000000000001,0.168,She always says that the best thing that ever happened for them was that her husband was hospitalized and they found the right medication for him to be on so their life could settle down and they could be happy together.,nsubj,1,neu_vader
+2812,2812,0.9998284958425367,0.00017150415745886474,0.0,0.75,0.25,"My meds aren't working so well anymore, and I know I need to just accept the disease and go on.",nsubj,1,neu_vader
+2818,2818,0.9998603936384598,0.00013960636152937384,0.141,0.657,0.20199999999999999,I'm feeling like my meds need adjusting as my moods are really unstable at the moment.,nsubj,1,neu_vader
+2825,2825,0.9998751794834866,0.0001248205165114951,0.109,0.8909999999999999,0.0,I'm guessing my medication will be changed by my pdoc this Monday considering any higher dosage of Seroquel makes me completely numb emotionally.,nsubjpass,1,neu_vader
+2831,2831,0.9998850810814648,0.00011491891854464493,0.203,0.687,0.11,"Would I be prone to being easily pushed into the DEPRESSION ZONE, while this medication is being taken?",nsubjpass,1,neu_vader
+2851,2851,0.999956142651566,4.3857348452690825e-05,0.0,1.0,0.0,My meds aren't working as perhaps they should.,nsubj,1,neu_vader
+2854,2854,0.9999191098151576,8.089018482899036e-05,0.0,0.738,0.262,"I know self medication is frowned upon, but I just find it interesting.",nsubjpass,1,neu_vader
+2856,2856,0.9999365561391922,6.344386079877958e-05,0.05,0.69,0.26,"Since posting, less than two months ago, asking for reasons not to commit suicide, my medicine has kicked in, my friends have held me up, and I've made new friends.",nsubj,1,neu_vader
+2858,2858,0.9999768101462854,2.318985369950149e-05,0.43200000000000005,0.568,0.0,Goddammit these meds are making me numb and foggy but I still know that deep sadness and guilt and suicidal thinking is still there.,nsubj,1,neu_vader
+2861,2861,0.99882161045595,0.001178389544052687,0.0,0.787,0.213,What has medication has been successful for you with the less amount of side effects?,nsubj,1,neu_vader
+2862,2862,0.9999283396210716,7.166037892980225e-05,0.10400000000000001,0.8959999999999999,0.0,"Long story short, I was diagnosed with BPDII (w/mixed episodes and rapid cycling) about 4 mos ago and meds still aren't right (lots of bad reactions or just didn't do anything for me).",nsubj,1,neu_vader
+2863,2863,0.99998198237938,1.8017620625035603e-05,0.0,0.887,0.113,What I'd really like to hear from you guys out there is how long did it take you to get your meds right?,nsubj,1,neu_vader
+2864,2864,0.9995873833429244,0.00041261665706206587,0.0,1.0,0.0,I've recently been diagnosed and came to a place where I feel that my meds are working correctly.,nsubj,1,neu_vader
+2867,2867,0.9999160358180292,8.396418196998816e-05,0.0,0.862,0.138,Nothing is helping but the medication itself has helped my bipolar.,nsubj,1,neu_vader
+2884,2884,0.9999492115068104,5.0788493206103476e-05,0.196,0.804,0.0,When the meds stabilize me and I'm no longer suicidal).,nsubj,1,neu_vader
+2885,2885,0.9999068817251012,9.311827489910588e-05,0.0,1.0,0.0,Over the last few months my meds have been regulated but something still didn't seem right.,nsubjpass,1,neu_vader
+2886,2886,0.9999686366315792,3.1363368409865695e-05,0.0,1.0,0.0,"Additionally, my meds (seroquel, lithium, depacoat) apparently make my period irregular, so far that I recently went 5 months between cycles.",nsubj,1,neu_vader
+2891,2891,0.9997638125769266,0.00023618742309259086,0.0,0.718,0.282,"More often these days, I think I'm fine, and that the medication is just working; I'm happy.",nsubj,1,neu_vader
+2896,2896,0.9994646692028551,0.0005353307971645943,0.0,0.45,0.55,"I feel like this medication is helping a great deal, its just not helping enough.",nsubj,1,pos_vader
+2905,2905,0.9999457886405864,5.421135941470682e-05,0.0,1.0,0.0,My complicated health makes almost all medication impossible.,nsubj,1,neu_vader
+2908,2908,0.99991551736094,8.448263904236023e-05,0.063,0.8540000000000001,0.083,"If I see my psych he'll just say to take them, I'm thinking more why shouldn't I manage my own meds and take something I can take when I need to and not when I don't, why doesn't that exist?, if it's because they're worried about addictive behaviour how is that different from taking something long-term anyway, surely that could be a good thing when meds are SO hard to stick to taking?",nsubj,1,neu_vader
+2911,2911,0.9960959008517386,0.0039040991482721006,0.068,0.85,0.08199999999999999,"yes, I get it that that would be because the meds had built up to a therapeutic level but I'm still 'on' something that day that I don't want to be, it's still affecting how I am and how I act and think, I'm saying I don't want that, I'm not ill every day so I don't want to med every day.",nsubj,1,neu_vader
+2913,2913,0.999800471342884,0.00019952865712884825,0.0,1.0,0.0,"I thought my meds were working, but they weren't (fuck all of you who tried to tell me that because you were right, anyway).",nsubj,1,neu_vader
+2914,2914,0.9999652670656234,3.4732934369053394e-05,0.545,0.455,0.0,My meds are shit.,nsubj,1,neg_vader
+2921,2921,0.9998273971244896,0.00017260287552266207,0.0,1.0,0.0,All the other meds I've taken make everything fuzzy.,nsubj,1,neu_vader
+2930,2930,0.9993476490230544,0.0006523509769299057,0.139,0.861,0.0,"I'm scared of the side effects, and half the time I think (illogically) the medicine is going t make me a vegetable.",nsubj,1,neu_vader
+2947,2947,0.9999858021341828,1.4197865804173493e-05,0.24,0.62,0.14,"I have a strong gag reflex so sometimes my meds get stuck in my throat and it's nasty and tastes awful, but this morning when they got stuck they fizzed up like alkaseltzer!",nsubj,1,neu_vader
+2949,2949,0.9999513941770838,4.86058229012013e-05,0.0,0.6990000000000001,0.301,Luckily my meds are free with my provider but I can't afford $130.,nsubj,1,neu_vader
+2955,2955,0.9997408262461416,0.0002591737538395013,0.0,0.769,0.231,Would love to ask some questions about how the medication I'm on makes people feel.,nsubj,1,neu_vader
+2962,2962,0.9998918815014052,0.00010811849861032432,0.0,0.8029999999999999,0.19699999999999998,"I am learning to ask for help, and I am getting my meds adjusted.",nsubj,1,neu_vader
+2964,2964,0.9999235152073308,7.64847926657116e-05,0.0,1.0,0.0,"It's ramping up, so maybe the meds need to, too.",nsubj,1,neu_vader
+2983,2983,0.9997389379916296,0.00026106200834914576,0.318,0.594,0.08800000000000001,It bothers me because I figured that my medication was supposed to stop psychosis but instead it has destroyed any of the pleasant feelings and replaced them with terrible and disgusting feelings and images in my head.,nsubjpass,1,neu_vader
+3007,3007,0.9995872261270254,0.0004127738729553584,0.0,0.5329999999999999,0.467,My [meds](http://m.imgur.com/teJXkNE) are feeling a bit frisky.,nsubj,1,neu_vader
+3013,3013,0.9999719361885184,2.806381148723928e-05,0.0,0.732,0.268,I thought these meds were helping this time.,nsubj,1,neu_vader
+3021,3021,0.9996365006190776,0.00036349938091804015,0.0,1.0,0.0,"I am a supposedly recovered anorexic, but, after getting to a livable weight and leaving hospital, my medication for psychosis (which I'll explain later) caused me to start binge-eating.",nsubj,1,neu_vader
+3024,3024,0.9998159239719964,0.0001840760279963032,0.304,0.608,0.08900000000000001,"My medication doesn't let me become manic, but it doesn't seem to stop be from becoming sluggish and depressed.",nsubj,1,neu_vader
+3039,3039,0.9999848171557909,1.5182844211108844e-05,0.0,1.0,0.0,Finally leveling out I think and got all my meds right.,nsubj,1,neu_vader
+3043,3043,0.9999753384065908,2.4661593417165592e-05,0.0,1.0,0.0,The meds they gave me don't work.,nsubj,1,neu_vader
+3049,3049,0.9999137327287136,8.626727127273467e-05,0.0,1.0,0.0,"Creetcher stayed hydrated, stayed on the Gabapentin (the only meds I am currently prescribed), and stayed on schedule.",nsubjpass,1,neu_vader
+3059,3059,0.9997376208522508,0.00026237914774129823,0.069,0.863,0.068,I tried my best this semester to try and get to know them once my medication was having an effect but alas I've been getting nothing but silence unless I'm standing right in front of them.,nsubj,1,neu_vader
+3064,3064,0.9998916500297684,0.000108349970237465,0.0,0.8490000000000001,0.151,"when i woke up from my two day sleeping binge i felt much more sane, thank god, and i got it together long enough to go to my doctor and get my medicines adjusted.",nsubj,1,neu_vader
+3067,3067,0.999938436651312,6.156334868733827e-05,0.08900000000000001,0.782,0.128,"I'm curious to know how your medication has affected your appearance, and what you were on.",nsubj,1,neu_vader
+3068,3068,0.9999394274379618,6.057256202612479e-05,0.0,1.0,0.0,"Diagnosis Dec 2010, medication starts.",nsubj,1,neu_vader
+3083,3083,0.9997775538306934,0.00022244616930003106,0.066,0.789,0.145,"People complain of weight gain on certain meds and I'm wondering if this is because the meds alter metabolism (or something else physiological), or if it's because people's eating and/or excising habits change?",nsubj,1,neu_vader
+3098,3098,0.9893300290209872,0.010669970979028326,0.2,0.8,0.0,"Part of my problem is disordered eating, but the meds add a physical component to the cravings that makes them a lot harder to fight.",nsubj,1,neu_vader
+3124,3124,0.9999807378715528,1.9262128456103603e-05,0.0,1.0,0.0,TL;DR: How are your meds?,nsubj,1,neu_vader
+3125,3125,0.9999820580602464,1.794193974722064e-05,0.0,1.0,0.0,Have your meds helped you with this?,nsubj,1,neu_vader
+3134,3134,0.9992640692840302,0.000735930715973767,0.062,0.74,0.198,"Yesterday, I felt the most wonderful sense of clarity and I believe that perhaps the meds I've been on have been stifling me and dulling my brain way too much.",nsubj,1,neu_vader
+3137,3137,0.9971950728896796,0.002804927110303127,0.0,0.794,0.20600000000000002,The only things that have changed are that I'm appreciating the beauty in everything more because it all looks so much brighter to me and I think it may be because of loosening the hold the meds have over my mind.,nsubj,1,neu_vader
+3142,3142,0.9999924545260636,7.545473922019098e-06,0.0,0.706,0.294,I feel like my medicine isn't really working.,nsubj,1,neu_vader
+3144,3144,0.9941899150306752,0.0058100849693361245,0.0,0.8759999999999999,0.124,"I need help, how to get rid of them because medicine is off the table until I see my pdoc until a while.",nsubj,1,neu_vader
+3151,3151,0.9999676637873184,3.233621266549466e-05,0.0,0.8440000000000001,0.156,Did the meds miraculously kick in or is there some other factor at play?,nsubj,1,neu_vader
+3154,3154,0.9933431402009304,0.006656859799077121,0.163,0.799,0.038,"It has been a difficult time for me and seems that no matter the medication, treatment, or what have you, I am continuing to spiral out of control.",nsubj,1,neu_vader
+3162,3162,0.9919596938201029,0.008040306179895748,0.243,0.555,0.203,"I don't have doubt, fear, or low self esteem or anything, which is upsetting in a sense that, while the medication is being effective thus making me ""normal"" I don't have any issues that most suffer from like depression, etc..",nsubj,1,neu_vader
+3176,3176,0.9999568972295748,4.310277041161949e-05,0.0,1.0,0.0,How do I get rid of it until my medicine starts working?!?,nsubj,1,neu_vader
+3181,3181,0.9999762831160576,2.3716883938453078e-05,0.0,1.0,0.0,"I've told her these things, but she dismisses it as if I had said ""yeah, my medicine is causing me dry mouth.""",nsubj,1,neu_vader
+3189,3189,0.9998806690799624,0.00011933092004438766,0.0,1.0,0.0,"Obviously, medication is different for everyone.",nsubj,1,neu_vader
+3204,3204,0.9997152104397916,0.00028478956022291057,0.152,0.7609999999999999,0.087,"I thought the meds were supposed to keep me stable, but I'm hiding in the bathroom again.",nsubjpass,1,neu_vader
+3220,3220,0.9997053499569256,0.0002946500430748266,0.0,1.0,0.0,The meds are not working anoymore and I am taking an unaceptable amount of time off work.,nsubj,1,neu_vader
+3240,3240,0.999818719366441,0.00018128063356948632,0.0,0.748,0.252,"He seems to be doing much better, he says he's happy to be alive and his new meds seem to be working much better than his old ones, and he's going to be going to full-time outpatient therapy for awhile.",nsubj,1,neu_vader
+3245,3245,0.9997391339975074,0.0002608660025075308,0.301,0.6990000000000001,0.0,"I know meds aren't a cure-all, but am I wrong to think that she should've changed something if they're failing to work to that degree?",nsubj,1,neu_vader
+3257,3257,0.9995315354344488,0.0004684645655420251,0.0,1.0,0.0,My meds have been switched around in the last month or so and I didn't think anything of it.,nsubjpass,1,neu_vader
+3264,3264,0.9993481272798722,0.0006518727201193432,0.028999999999999998,0.938,0.034,"I'm not going to prescribe you Trazadone right now, because I want to see how your bipolar medication works on it's own first... Trazadone can interfere with the neurotransmitters in the brain preventing the drug from being absorbed there.""",nsubj,1,neu_vader
+3265,3265,0.9999726360756748,2.7363924311978507e-05,0.0,1.0,0.0,"""Oh, meds aren't working?",nsubj,1,neu_vader
+3276,3276,0.9999833252116314,1.6674788353540845e-05,0.0,1.0,0.0,I'm getting my meds straightened out before then and getting disability.,nsubj,1,neu_vader
+3278,3278,0.9996789092544835,0.00032109074552664205,0.059000000000000004,0.898,0.044000000000000004,"Yeah, I've been depressed for the past two weeks but my medications change every fucking week and my brain is never working the same and I told you that this was going to push you away.",nsubj,1,neu_vader
+3282,3282,0.999981804623472,1.8195376528234008e-05,0.0,0.821,0.179,"(example: ""Well if the meds work, maybe you wont need them long!"")",nsubj,1,neu_vader
+3300,3300,0.9820815929006544,0.01791840709935609,0.184,0.6970000000000001,0.11900000000000001,"It struck me and i can't deny it anymore,, i need my medication to function as a normal human being.,,, I don't know what i wanted with all this but it really hurts me admitting being sick(again) and at the same time its awesome to have someone taking your illness in a serious manner.",nsubj,1,neu_vader
+3304,3304,0.9999894833216558,1.0516678324146694e-05,0.0,0.8370000000000001,0.163,I recently thought I was better but I think my meds aren't doing anything.,nsubj,1,neu_vader
+3312,3312,0.9833189943262678,0.01668100567372225,0.21,0.7140000000000001,0.076,"Needless to say it was a pretty horrific experience for him, and as a result he has declared that all medication for bipolar is evil, anyone who takes it is deluding themselves, yada yada yada.",nsubj,1,neu_vader
+3322,3322,0.9999599410155476,4.005898446174912e-05,0.0,1.0,0.0,"That, or my meds are working.",nsubj,1,neu_vader
+3331,3331,0.9999798556824644,2.0144317549594393e-05,0.0,1.0,0.0,All meds are adjusted to where they will be (no more adjusting!!!!),nsubjpass,1,neu_vader
+3359,3359,0.9999097104978028,9.02895021988846e-05,0.0,0.741,0.259,Are the medications working well for you?,nsubj,1,neu_vader
+3369,3369,0.9995424093091154,0.00045759069089781066,0.0,1.0,0.0,She said it usually takes about 3 weeks for the meds to kick in (it's been 2).,nsubj,1,neu_vader
+3371,3371,0.9996478573026318,0.00035214269737268987,0.0,0.812,0.188,"The meds have kicked in and she seems back to her normal, sweet self.",nsubj,1,neu_vader
+3373,3373,0.9997408262461416,0.0002591737538395013,0.0,0.769,0.231,Would love to ask some questions about how the medication I'm on makes people feel.,nsubj,1,neu_vader
+3377,3377,0.999844829220479,0.00015517077952268538,0.134,0.866,0.0,"The meds they gave me, latuda and buspar gave me paraskinasia, crippling anxiety, and developed weird physical tics i have yet to get rid of.",nsubj,1,neu_vader
+3379,3379,0.9999672492244174,3.275077556655788e-05,0.10400000000000001,0.758,0.13699999999999998,I understand what happens in your mind when deciding/thinking that meds are no longer needed when you feel better.,nsubj,1,neu_vader
+3401,3401,0.999983101496423,1.6898503559126105e-05,0.0,1.0,0.0,Just wondering if all these meds are necessary?,nsubj,1,neu_vader
+3422,3422,0.9990470480402563,0.0009529519597487016,0.06,0.802,0.138,"I know that the progress I've made is because I have worked my ass off, but wow...I feel like I am blindly following them to lead a more enriching life, if the medication and therapy even work.",nsubj,1,neu_vader
+3432,3432,0.952284788234187,0.04771521176579456,0.149,0.755,0.096,"New meds have my brain set to ""happy"" yet I know its not real, I have been a recluse for two weeks now and everyday my fear of life shoves me deeper into my bed, my prison yet paradise.",nsubj,1,neu_vader
+3443,3443,0.9999849890862752,1.5010913706517401e-05,0.0,1.0,0.0,"Deep down I know, and have always known that this medicine would not do much for me without intensive therapy.",nsubj,1,neu_vader
+3466,3466,0.9993336038352104,0.0006663961647847638,0.114,0.6659999999999999,0.22,My desire to live for myself and my family has always been so strong and this new medicine tried to rob me of that.,nsubj,1,neu_vader
+3469,3469,0.9999656694575508,3.4330542464935776e-05,0.184,0.711,0.105,"I recognize that the medication is working and I think this is supposed to be the goal, but I can't help but feel like I'm no longer myself.",nsubj,1,neu_vader
+3483,3483,0.9989976303869472,0.001002369613069229,0.11199999999999999,0.821,0.067,"She didn't give me a diagnosis or really explain what this medication *was* other than as ""something else to try to keep helping with the depression without going too far.""",nsubj,1,neu_vader
+3495,3495,0.999859603390802,0.00014039660918273978,0.0,1.0,0.0,Just my current doctor is very adamant that the medication is working and that I need to be on it.,nsubj,1,neu_vader
+3507,3507,0.999964364307752,3.5635692253356126e-05,0.0,1.0,0.0,My medication has recently been changed.,nsubj,1,neu_vader
+3509,3509,0.9962507492912748,0.003749250708725908,0.086,0.6940000000000001,0.22,"As of now I pretty much got my meds working out great for me so far, other than some anxiety/mini panic attacks here and there but I'm the best place in my life as of now than ever before.",nsubj,1,neu_vader
+3516,3516,0.9999714694862988,2.853051370638805e-05,0.299,0.701,0.0,"Is the stress getting to me, or maybe the meds have stopped working?",nsubj,1,neu_vader
+3529,3529,0.9129323409537804,0.0870676590462004,0.0,1.0,0.0,"So I'm still in the process of finding the right med cocktail, and meds are a crucial component of get to a higher quality of life.",nsubj,1,neu_vader
+3547,3547,0.9999649927227384,3.500727727457376e-05,0.0,0.45,0.55,"My meds are working pretty good, I think.",nsubj,1,pos_vader
+3550,3550,0.9999848810431526,1.5118956861250394e-05,0.0,0.7909999999999999,0.209,I'm not doing this because the medicine is making me feel better.,nsubj,1,neu_vader
+3551,3551,0.9999504687880044,4.953121197885846e-05,0.316,0.684,0.0,I hate the way the medicine makes my body feel.,nsubj,1,neu_vader
+3562,3562,0.9999598554232612,4.0144576736413815e-05,0.124,0.8759999999999999,0.0,I have been wondering if this is a product of socialized medicine (subsidised medicine is cheap) or if it is sponsored doctors or worst of all if my doctor is overmedicating me.,nsubj,1,neu_vader
+3570,3570,0.998710880886854,0.0012891191131548026,0.233,0.7,0.067,I had a breakdown and 3 Prozac coupled with many anti anxiety medication was not doing the trick.,nsubj,1,neu_vader
+3581,3581,0.9998520589519572,0.0001479410480223032,0.231,0.769,0.0,I can't tell if I'm just a shitty person or my meds aren't working properly.,nsubj,1,neu_vader
+3588,3588,0.9999632061810108,3.679381898908501e-05,0.0,0.915,0.085,"I know I'm supposed to cope and medicine will help me with it, but it changes up down up down up down.",nsubj,1,neu_vader
+3594,3594,0.9991683877823772,0.000831612217627547,0.0,1.0,0.0,My medicines seem to work for a few months then I am back to where I was before slowly.,nsubj,1,neu_vader
+3598,3598,0.9962675212519034,0.003732478748116882,0.302,0.698,0.0,I see many people with bipolar constantly complain about the depressive aspect of it and how their medication doesn't treat it.,nsubj,1,neu_vader
+3599,3599,0.9993728584924684,0.000627141507538341,0.163,0.769,0.068,"Guys, medication can only help you on the biological level of the brain, but I think most of you are depressed for other reasons.",nsubj,1,neu_vader
+3600,3600,0.9958467821683744,0.0041532178316367714,0.317,0.627,0.055999999999999994,"If no medication helps you, it means the problem isn't biological but psychological : you're depressed because of an element in your life that bothers you.",nsubj,1,neu_vader
+3601,3601,0.9997986784745588,0.0002013215254493715,0.0,0.746,0.254,I have manic episodes but my medication helps me a ton with that.,nsubj,1,neu_vader
+3609,3609,0.9998778545844441,0.0001221454155570339,0.0,0.55,0.45,Just wanted to share that medication does help.,nsubj,1,neu_vader
+3610,3610,0.9805709682155668,0.019429031784443516,0.174,0.826,0.0,"I've found that meds get me part way there, and especially when I'm faced with sort of an extreme situation, I feel very vulnerable to a depressive episode.",nsubj,1,neu_vader
+3620,3620,0.9999901343144354,9.865685550595607e-06,0.0,1.0,0.0,Maybe my medication is making me feel this way?,nsubj,1,neu_vader
+3628,3628,0.991684530425563,0.008315469574429671,0.10300000000000001,0.8059999999999999,0.092,Telling myself that one day the meds will work again or that I will actually be a functioning part of society just all sounds like lies.,nsubj,1,neu_vader
+3644,3644,0.9953258645167968,0.004674135483189896,0.312,0.638,0.05,"The medicine induced spells of creeping, suffocating anxiety and depression for several hours after dosing, a feeling of being drowned in a dim, molasses-thick malaise.",nsubj,1,neu_vader
+3649,3649,0.9995538980705776,0.0004461019294158667,0.055999999999999994,0.836,0.109,I am stuck in this place forever and while my meds help me and keep me level if one card is remove on my delicate house of cards I'm right back at square one.,nsubj,1,neu_vader
+3653,3653,0.998526224488922,0.0014737755110886162,0.0,1.0,0.0,I don't really sleep without my meds so come Turkey day there will be a string of all nighters.,nsubj,1,neu_vader
+3661,3661,0.9999864830731842,1.3516926817420505e-05,0.138,0.615,0.24600000000000002,Simply put-- did you lose your creative spark when your medicine started to kick in?,nsubj,1,neu_vader
+3675,3675,0.9832791167944832,0.016720883205522025,0.127,0.792,0.081,"I'm not being cynical, honestly, it's just that it's so hard for me to accept something which in my heart knows doesn't exist, yet because of my lot in life, I can't afford to get a second opinion, and medication is not only unattainable ($$$), I have a deep fear of them down to a fundamental level.",nsubj,1,neu_vader
+3698,3698,0.999991673121496,8.326878482417086e-06,0.292,0.708,0.0,This is so bad that I don't know what the hell to tell my psychiatrist when she asks if my meds are working or not.,nsubj,1,neu_vader
+3717,3717,0.997409304464823,0.002590695535166895,0.042,0.7290000000000001,0.22899999999999998,I told him about my disorder and how I valued our friendship and how I wanted to be a good friend for him (I was heavy on the friend thing) but that I needed some time for my new medication to kick in.,nsubj,1,neu_vader
+3718,3718,0.999160583760222,0.0008394162397612045,0.0,1.0,0.0,I sent him a short email going back to good-bye and saying that I’d get in touch with him maybe when my new medications took hold.,nsubj,1,neu_vader
+3732,3732,0.9999105051699466,8.949483006559266e-05,0.0,0.894,0.106,I just want to be me not the person the meds make me.,nsubj,1,neu_vader
+3736,3736,0.9998410014163812,0.00015899858360609017,0.0,0.898,0.102,I want to go back to not being on any drugs because I just want to see my real self not the person the meds make me.,nsubj,1,neu_vader
+3755,3755,0.9994513813295092,0.0005486186704996495,0.243,0.757,0.0,"Anyways I was wondering, can the meds or one of the diagnosis cause confusion and memory loss?",nsubj,1,neu_vader
+3762,3762,0.9894325387235438,0.010567461276464523,0.051,0.894,0.055,"My dad's side has a history of ADHD and i have it too but meds never helped me in school (20 now, started taking them in second grade) and well I'm not sure what I'm taking now but it's helped way more than any ADHD med has.",nsubj,1,neu_vader
+3764,3764,0.9999606254543904,3.9374545594143336e-05,0.0,0.674,0.326,"I told my psychiatrist and she was talking about how, although the meds are clearly doing something (I'm not suicidal and not manic) we can fine-tune them so I start feeling better and more like myself.",nsubj,1,neu_vader
+3774,3774,0.9994248045606312,0.0005751954393831644,0.17800000000000002,0.778,0.044000000000000004,"Shit happens I guess
+
+So that didn't work (I didn't tell the doctor how bad it was because I didn't want to wind up in hospital because the fucking meds didn't work, I swear I wasn't even that bad my therapist was just worried about me because I was hella stressed and worried and everything was going a little bit grey again but it was okay and anyway she told me to ask the GP for antidepressants.",nsubj,1,neu_vader
+3775,3775,0.9997050292356736,0.0002949707643342245,0.177,0.823,0.0,"The meds make the pain go away, but it's only temporary.",nsubj,1,neu_vader
+3779,3779,0.9958623548151456,0.0041376451848350185,0.0,0.861,0.139,"He talked me down a bit, helped me relax, and I started to get drowsy as the medication started to work.",nsubj,1,neu_vader
+3782,3782,0.99871512730305,0.0012848726969576275,0.0,1.0,0.0,"The medication made me extremely drowsy and foggy, my family was still in denial, I was still trying to understand the implications of my diagnosis or wondering if the diagnosis was even correct.",nsubj,1,neu_vader
+3791,3791,0.9998010568469544,0.00019894315303498275,0.0,0.879,0.121,"Whelp, the good news is, the medication seems to be working with regards to the mood swings, at least I think they are.",nsubj,1,neu_vader
+3818,3818,0.9998246328306634,0.00017536716934560018,0.0,0.71,0.29,I have been through a few doctors had my meds played with enough that I have a good cocktail.,nsubj,1,neu_vader
+3827,3827,0.9992498470946388,0.0007501529053606603,0.0,1.0,0.0,I have a lot to cover and I know that a lot of this meeting will be rather austere; what medications do I take?,nsubj,1,neu_vader
+3830,3830,0.9972514295982638,0.002748570401732563,0.0,1.0,0.0,"I had not realized that medication was just a part of maintenance until I had a doctor tell me there were three aspects to mental health:  The sociological, biological, and environmental.",nsubj,1,neu_vader
+3841,3841,0.9999945689482629,5.4310517550745e-06,0.0,1.0,0.0,"But guess what, this medicine lets me function.",nsubj,1,neu_vader
+3860,3860,0.9719882705371058,0.02801172946290661,0.094,0.9059999999999999,0.0,"For the entire of my life, I have never been able to swallow tablets, or take soluble tablets in water - in fact the only medication I've ever been able to take with no real problems is Calpol (Yes, I'm 22 and I still have Calpol for a painkiller) and various nasal sprays.",nsubj,1,neu_vader
+3861,3861,0.9992876725741812,0.0007123274258377778,0.0,1.0,0.0,"I think the fact that I know I have bipolar is enough, even though everyone says medication is a must.",nsubj,1,neu_vader
+3872,3872,0.9999931687371248,6.83126287324605e-06,0.0,0.741,0.259,The medications have slowly increased since then.,nsubj,1,neu_vader
+3876,3876,0.9996942032307256,0.0003057967692724067,0.187,0.645,0.168,I feel like my ptsd and grief of losing my father mimicked symptoms of bipolar and the meds I have been subscribed help diminish the symptoms.,nsubj,1,neu_vader
+3885,3885,0.9996415144864176,0.00035848551356533053,0.11900000000000001,0.8270000000000001,0.054000000000000006,Finally got a hold of my shrink.... After he freaked out I was on medicine he didn't prescribe me then I reminded him he had me committed because his meds made me go crazy he finally talked with.,pobj_nsubj,1,neu_vader
+3889,3889,0.9999654525473936,3.454745262483769e-05,0.0,1.0,0.0,"[Told](http://www.reddit.com/r/Anxiety/comments/21z76t/when_is_anxiety_enough_to_get_on_medication/) to crosspost this from /r/anxiety over to here, so here goes.",nsubj,1,neu_vader
+3900,3900,0.9999800040581436,1.999594186150903e-05,0.0,1.0,0.0,I need to some advice and to see if my meds need to be readjusted.,nsubj,1,neu_vader
+3904,3904,0.9978434741298094,0.0021565258701781395,0.16899999999999998,0.831,0.0,i remember when i was first diagnosed for depression 10 years ago that i was told the meds are temporary and its not good for me to be on them for long periods of time.,nsubj,1,neu_vader
+3905,3905,0.9970629392771044,0.002937060722893171,0.0,1.0,0.0,now meds are a part of my daily life.,nsubj,1,neu_vader
+3937,3937,0.9998538139771884,0.00014618602280068408,0.25,0.75,0.0,"I have a psychiatrist right now, but meds aren't helping.",nsubj,1,neu_vader
+3941,3941,0.9991061692458664,0.0008938307541382124,0.0,0.8590000000000001,0.141,She got diagnosed with inattentive adhd a couple years ago and the medicine really seemed to help with school work.,nsubj,1,neu_vader
+3948,3948,0.9999611587938902,3.884120611501982e-05,0.23800000000000002,0.544,0.218,I was in pretty bad shape before the meds kicked in.,nsubj,1,neu_vader
+3950,3950,0.9994639054203174,0.0005360945796808322,0.0,1.0,0.0,i go back today for a check in and to see how my meds are going/if i need adjusting.,nsubjpass,1,neu_vader
+3952,3952,0.9999668238036454,3.317619635653079e-05,0.14300000000000002,0.857,0.0,My Bipolar 2 and Psychosis are getting really bad and I'm starting to think the medication isn't helping anymore but that's just me probably being delusional.,nsubj,1,neu_vader
+3966,3966,0.9999488063164268,5.119368358318986e-05,0.0,0.77,0.23,"So, yes, I guess I can't say the meds haven't been doing *something*.",nsubj,1,neu_vader
+3968,3968,0.9988048040497168,0.0011951959502845154,0.042,0.7390000000000001,0.218,"I thought I had finally accepted it, after a few months in...then my meds ran out and I became this person I wouldn't think I would ever be: super unmotivated, uninterested in any of my passions, uninterested in talking to anyone I care about, and uninterested in doing everything (unless it was self- medicating).",nsubj,1,neu_vader
+3969,3969,0.999738671938187,0.00026132806182524676,0.086,0.914,0.0,My medication (lamictal) was trying to stop it from happening but it wasn't doing the job by itself.,nsubj,1,neu_vader
+3970,3970,0.9999317815832318,6.821841675315841e-05,0.0,0.625,0.375,The medicine is starting to help and I'm hopeful that it will.,nsubj,1,neu_vader
+3972,3972,0.9931126671825796,0.006887332817428152,0.0,0.898,0.102,This sounds like a lot of what we talk about...how life events can trigger mood changes even if our meds stay the same: http://psychcentral.com/lib/2009/interpersonal-and-social-rhythm-therapy/ -,nsubj,1,neu_vader
+4000,4000,0.9990383786847628,0.0009616213152463364,0.062,0.8290000000000001,0.109,"So apparently they are now able to do a genetic test that will show your psychiatrist what medications would work best, what medications might be metabolized different than normal, and which medications should be avoided.",nsubjpass,1,neu_vader
+4004,4004,0.9999563456392404,4.365436075936983e-05,0.0,0.61,0.39,Lastly what medications have caused you the most significant weight gain?,nsubj,1,neu_vader
+4022,4022,0.9996112266949896,0.000388773305013585,0.0,0.7909999999999999,0.209,The doctor did want to admit her to a psyche ward for a week so her medication could be corrected but the family decided that home care would be more suitable.,nsubjpass,1,neu_vader
+4023,4023,0.9999323223751164,6.767762486408781e-05,0.19399999999999998,0.8059999999999999,0.0,Should she be under house arrest until the meds start working.,nsubj,1,neu_vader
+4038,4038,0.9979564578291872,0.0020435421708065904,0.0,0.88,0.12,"I noticed a word I did not expect to see and looked closer ""these medications may cause excessive salivating: blabladinol, raspberrinol, lithium, sodiu-... ""
+
+*lithium*
+
+Shit.. Haha",nsubj,1,neu_vader
+4056,4056,0.9996392463695116,0.00036075363048304913,0.13,0.87,0.0,"I also went through 2 year period where I was clinically depressed, and medications really helped me put a floor on my thinking and stand back up.",nsubj,1,neu_vader
+4062,4062,0.9998417282622496,0.00015827173773914078,0.0,0.9329999999999999,0.067,"I know one thing for sure, that this happened very less when I was on escitalopram, but the meds are changed since my doctor has changed.",nsubjpass,1,neu_vader
+4063,4063,0.9998500354329196,0.00014996456709849898,0.0,1.0,0.0,Maybe waiting for the new meds to kick-in?,nsubj,1,neu_vader
+4067,4067,0.99992911973255,7.08802674363261e-05,0.091,0.909,0.0,"I don't think my meds are working, either that, or I'm taking things waaaay to hard.",nsubj,1,neu_vader
+4068,4068,0.9301477269821822,0.06985227301782553,0.07400000000000001,0.688,0.239,"My biggest worry is that any medication that effectively levels out my mood will also eliminate the times where I feel especially lively, motivated and able to make a decent amount of artwork.",nsubj,1,neu_vader
+4070,4070,0.9986061465081726,0.0013938534918391775,0.111,0.6559999999999999,0.233,I'm generalizing here but what I've read was that some medications treat the mania aspect of bipolar while others treat the depressive side.,nsubj,1,neu_vader
+4071,4071,0.9992533147250064,0.0007466852749846137,0.182,0.629,0.18899999999999997,What medications are prescribed to treat the depressive side of bipolar?,nsubjpass,1,neu_vader
+4075,4075,0.9998969772886709,0.00010302271131261445,0.20600000000000002,0.59,0.204,My meds just got changed so I'm behaving like a jackass.,nsubj,1,neu_vader
+4084,4084,0.9999787383138836,2.1261686120314388e-05,0.14300000000000002,0.68,0.177,My therapist warned me that medication can lessen or even diminish  creativity.,nsubj,1,neu_vader
+4087,4087,0.9999882537528844,1.1746247095944162e-05,0.0,1.0,0.0,He tells me meds might have been triggered something else.,nsubj,1,neu_vader
+4104,4104,0.9996217813820136,0.0003782186179955828,0.0,0.833,0.16699999999999998,"But, if medication isn't possible, what's the next best thing a person can do that doesn't have insurance and getting insurance isn't a possibility?",nsubj,1,neu_vader
+4113,4113,0.9970042371276242,0.002995762872368647,0.0,0.723,0.27699999999999997,"Just wanted to post a positive and hope it might help someone else as well.. Long story short, my meds crapped out, and I needed to see a doc stat.",nsubj,1,neu_vader
+4125,4125,0.9999762997635092,2.3700236500788808e-05,0.13,0.721,0.15,"I still feel like hell, and could start crying again at any moment, but I have hope today, and I'm going to make contact with my new pDoc to get my meds adjusted.",nsubj,1,neu_vader
+4135,4135,0.9999789510549721,2.104894504646436e-05,0.0,0.812,0.188,Some people out there knowing which medications might offer some benefit for physical performance?,nsubj,1,neu_vader
+4183,4183,0.997457627224288,0.002542372775692421,0.076,0.765,0.159,"To appease my parents, and give them peace of mind, I continued my regimen of medication, though I despised taking an anti-phycotic(Zyprexa) and began declining the medications intake as quickly as possible.",pobj_nsubj,1,neu_vader
+4185,4185,0.9987239002900388,0.0012760997099614485,0.0,1.0,0.0,"I expected both medications to be reduced to nothing, but slowly it became evident that my psychiatrist wasn't intending on decreasing my lithium, as such, it was to be a life long medication.",nsubjpass_attr,1,neu_vader
+4217,4217,0.999938075215658,6.192478432360995e-05,0.341,0.659,0.0,"TL;DR: My meds keep changing, I'm losing my mind and am getting worse.",nsubj,1,neu_vader
+4240,4240,0.9998240423853948,0.00017595761460127352,0.136,0.746,0.11800000000000001,"I just, I can't and won't believe her because if meds won't actually help, that it'll make things worse, that its all a pharmaceutical conspiracy, then I legit don't have any reason to go on because I cannot continue to live like this, I would rather burn myself alive than keep living like this if it were my only 2 options.",nsubj,1,neu_vader
+4241,4241,0.9999810691820159,1.8930817991175226e-05,0.122,0.8170000000000001,0.061,"I don't know why I'm posting this, I guess I just want to be told that meds ARE the right thing, that they have helped you guys and that I'm not just going to be handing out money to the pharmacy for no reason only to continue on with this shit that we call life with no improvement, cuz I'd rather just end it now then.",nsubj,1,neu_vader
+4244,4244,0.9992634317667816,0.0007365682332362236,0.0,0.861,0.139,"And yet, psychiatrists think the meds they give us are working and they're making good citizens out of us.",nsubj,1,neu_vader
+4245,4245,0.9998625676111208,0.00013743238888783778,0.129,0.647,0.223,"As much as I respect psychiatrists' work and admire their service, I don't think they realize how debilitating, humiliating, and costly these meds are.",nsubj,1,neu_vader
+4255,4255,0.9999554765961812,4.4523403816573523e-05,0.0,1.0,0.0,"This is just a goofy post, but jesus CHRIST does anyone else's medicine make them grind their teeth!?",nsubj,1,neu_vader
+4270,4270,0.9999419772251772,5.80227748130323e-05,0.0,1.0,0.0,Maybe the meds are working?,nsubj,1,neu_vader
+4289,4289,0.9993131798410378,0.00068682015894488,0.34,0.604,0.055999999999999994,"For me, it is the only way I can relieve my neck/back pain (I am allergic to Percocet and the medication I am currently on hurts my stomach so badly I lost 15 lbs in 2 months).",nsubj,1,neu_vader
+4298,4298,0.9996048922809676,0.0003951077190367,0.0,0.902,0.098,"I know that just straight up telling her ""You need to get back to your therapist and take your meds"" is a HUGE no-no that could trigger an episode, but she's really wearing on me emotionally.",nsubj,1,neu_vader
+4309,4309,0.9995874897025729,0.0004125102974330286,0.239,0.7609999999999999,0.0,His medication is being changes from epilim to some new drug that he is not to fond of because he is having suicidal thoughts.,nsubj,1,neu_vader
+4322,4322,0.9999115665683654,8.843343161456783e-05,0.252,0.748,0.0,i need my meds and the hoops to get them again are retarded.,nsubj,1,neu_vader
+4338,4338,0.9999650584844456,3.494151555063442e-05,0.155,0.845,0.0,or if the new medications I am on will stop this from happening again?,nsubj,1,neu_vader
+4342,4342,0.990672198448634,0.009327801551367509,0.048,0.68,0.272,"The meds have been great at controlling my symptoms but I'm having a really hard time with my self confidence due to weight gain, especially with the summer and shorts and bikinis coming up.",nsubj,1,neu_vader
+4350,4350,0.9999284636179148,7.153638209873388e-05,0.0,1.0,0.0,I just think that the medication is just messing with my head.,nsubj,1,neu_vader
+4351,4351,0.9999480556247942,5.194437519818113e-05,0.0,1.0,0.0,Could the medication affect me or is it just me??,nsubj,1,neu_vader
+4361,4361,0.9999669964206068,3.300357940562821e-05,0.38799999999999996,0.612,0.0,My meds stopped working.,nsubj,1,neu_vader
+4363,4363,0.9919777666940512,0.008022233305938153,0.209,0.757,0.034,"My problem is that because I have anxiety stemming from a doctor who refused to take me off of a mood stabilizer that made me suicidal (I voluntarily committed myself to a psych ward in order for me to get my meds changed) and because the Dr office kept double charging me, I stopped going to my Dr.",nsubj,1,neu_vader
+4372,4372,0.9999443440358078,5.565596417761503e-05,0.0,0.614,0.386,"I really thought my meds were working, I felt great!",nsubj,1,neu_vader
+4386,4386,0.9999225936047691,7.74063952131348e-05,0.218,0.423,0.359,"for better or worse, until the medicine starts helping.",nsubj,1,neu_vader
+4388,4388,0.9999478072026488,5.219279734192188e-05,0.223,0.777,0.0,"As you all know, medication is critical to stability.",nsubj,1,neu_vader
+4393,4393,0.9999842241624732,1.5775837507417035e-05,0.096,0.8079999999999999,0.096,I'm in some really challenging courses right now in college and my meds just flat out stopped working.,nsubj,1,neu_vader
+4417,4417,0.999691953166848,0.0003080468331374488,0.33299999999999996,0.667,0.0,My medicine kept the suicidal thoughts coming on a daily basis.,nsubj,1,neu_vader
+4419,4419,0.9987616832363244,0.001238316763672934,0.182,0.782,0.036000000000000004,My Pdoc reccomended the NAC and it has some solid if emerging studies for its effectiveness on bipolar depression- if you aren't having any luck in the downswing and other meds aren't desirable perhaps ask your Pdoc about it.,nsubj,1,neu_vader
+4427,4427,0.9993580659202912,0.0006419340797186894,0.0,1.0,0.0,I don't have bipolar but the medication is the same as a bipolar person would take.,nsubj,1,neu_vader
+4432,4432,0.9998959422382541,0.00010405776175644294,0.0,0.889,0.111,"So not being able to convince him that this medicine worked for me, he gave me Buspar.",nsubj,1,neu_vader
+4433,4433,0.9999501900615608,4.980993845332348e-05,0.0,0.873,0.127,"After 3-4 weeks, what I thought was the medicine started making me feel really emotional.",nsubj,1,neu_vader
+4438,4438,0.9999792753375704,2.0724662434698326e-05,0.0,1.0,0.0,I know I am already somewhat down because my medication doesn't totally level me out.,nsubj,1,neu_vader
+4439,4439,0.9997527269363204,0.0002472730636934121,0.0,0.826,0.174,Can certain medications do something to the redness in your eyes?,nsubj,1,neu_vader
+4445,4445,0.9997819353067576,0.00021806469322369917,0.23600000000000002,0.764,0.0,"?mg Risperidone, 12 mg of Abilify, 72 mg of Concerta, 80 mg of Propranolol, but in the end the medication caused more problems than my diagnosed bipolar disorder, and I cut everything except 200 mg of lamictal.",nsubj,1,neu_vader
+4447,4447,0.9760626371716812,0.02393736282830294,0.0,0.917,0.083,I'm looking for a new psychiatrist and therapist at the moment because they seem to think my medications are doing me well right now and that these are just small scale symptoms that will never go away even though I have two bipolar I family members one of which has been very stable for some time.,nsubj,1,neu_vader
+4455,4455,0.9991158955235708,0.0008841044764195621,0.161,0.8390000000000001,0.0,We also feel the other medications were masking the adverse effects of the Trileptal.,nsubj,1,neu_vader
+4459,4459,0.9999889556764456,1.1044323558130839e-05,0.0,1.0,0.0,How do you know you need your meds adjusted?,nsubj,1,neu_vader
+4463,4463,0.999975288314565,2.471168545128504e-05,0.0,0.408,0.5920000000000001,My meds worked better and better.,nsubj,1,pos_vader
+4466,4466,0.9997883701189944,0.00021162988101694708,0.0,1.0,0.0,Do any of you have advice on getting to sleep when your body is used to the sedative effects of meds without being able to take said meds?,nsubj,1,neu_vader
+4467,4467,0.999482648402158,0.000517351597847922,0.0,0.7909999999999999,0.209,So I had my meds upped and overall I see myself doing a lot better.,nsubj,1,neu_vader
+4470,4470,0.998335796020438,0.001664203979543552,0.21600000000000003,0.784,0.0,"After the meds arrived two days late I never went back on them, because the possibility of experiencing that again was to painful and terrifying to imagine.",nsubj,1,neu_vader
+4498,4498,0.9999082927555204,9.17072444716997e-05,0.141,0.722,0.13699999999999998,"I'd hate to start from the beginning, titrating back up from nothing, when this medication has been so helpful to me.",nsubj,1,neu_vader
+4502,4502,0.999971409746576,2.8590253417408442e-05,0.0,1.0,0.0,The medication must be working.,nsubj,1,neu_vader
+4513,4513,0.9999695535479096,3.0446452097011235e-05,0.0,1.0,0.0,*(This medication is fucking up my life.,nsubj,1,neu_vader
+4522,4522,0.999966524092114,3.347590789363393e-05,0.0,1.0,0.0,"Being off meds seems to be everyone's preference, and I feel why.",nsubj,1,neu_vader
+4526,4526,0.9917806629970196,0.008219337002980635,0.0,0.9209999999999999,0.079,"One other important note:  a new medication was added to my cocktail very recently (right when I started feeling all this), but I have looked and it doesn't have any side effects of a decreased sex drive.",nsubjpass,1,neu_vader
+4527,4527,0.999976449401468,2.355059851894397e-05,0.0,1.0,0.0,The medication is Geoden.,nsubj,1,neu_vader
+4547,4547,0.9981399074713796,0.001860092528610289,0.20199999999999999,0.7979999999999999,0.0,"The problem, however, is that the medications are making me very tired all the time - so much so that I can't stay awake the whole day and am lethargic for much of the time I am awake.",nsubj,1,neu_vader
+4556,4556,0.9998298696477306,0.00017013035225660897,0.0,0.825,0.175,"I've been trying to get my meds right for a while so things have been touch and go, but I'm so glad I got out there and tried.",nsubj,1,neu_vader
+4580,4580,0.9999786133851816,2.1386614809961986e-05,0.187,0.747,0.066,"Although, my mother saw me researching BP and had an awful response (told me to pray more, it's all in my head, meds are bad, it'll go away, etc.).",nsubj,1,neu_vader
+4581,4581,0.9999420551459371,5.794485404589858e-05,0.33299999999999996,0.667,0.0,"My current meds are
+Seroquel XR
+Wellbutrin SR
+Lexapro
+Rozerem
+Concerta 
+Intuitiv
+
+So blah blah blah, irritability issues sleeping.",nsubj,1,neu_vader
+4590,4590,0.9995323019195004,0.00046769808049404514,0.0,0.737,0.263,Finding the right medication is like baking a cake.,nsubj,1,neu_vader
+4591,4591,0.9999598001106224,4.019988939028911e-05,0.0,1.0,0.0,I may not have insurance next month and my meds are very expensive.,nsubj,1,neu_vader
+4610,4610,0.9999753359665168,2.4664033491906564e-05,0.0,1.0,0.0,I think my meds have gluten in them.,nsubj,1,neu_vader
+4614,4614,0.9999544804302346,4.5519569778633314e-05,0.0,0.488,0.512,"Atm, my medication works perfectly.",nsubj,1,pos_vader
+4627,4627,0.9974544399797618,0.002545560020244913,0.07,0.782,0.147,"high risk behaviors like my drug addictions, sex, physical serious injuries have been a result of impulse, another symptom, and sometimes the self medication can hit that sweet spot of evening you out, but be careful.",nsubj,1,neu_vader
+4632,4632,0.9998929662594778,0.00010703374052310866,0.191,0.809,0.0,i fight to get my meds working so that i can start the day.,nsubj,1,neu_vader
+4636,4636,0.9899647052892088,0.010035294710801636,0.033,0.75,0.217,"As I had felt perfectly fine and I had eaten NOTHING remotely questionable (other than the bupropion), it seemed probable it was a side effect, and I wanted to make sure things were ok.
+
+Ok, now, here is the important part: He told me that the medication would **not** have caused the symptoms, and I had what was a simple case of gastroenteritis.",nsubj,1,neu_vader
+4645,4645,0.9994857345749588,0.0005142654250376201,0.0,1.0,0.0,I take lithium and my other meds give me dry mouth so I'm up several times a night to pee.,nsubj,1,neu_vader
+4646,4646,0.9980716769371074,0.0019283230629109469,0.0,0.9440000000000001,0.055999999999999994,"I really want to do mushrooms again (such a soaring, spiritual experience for me) but I don't know if my medications with interact with the psilocybin.",nsubj,1,neu_vader
+4654,4654,0.99995629548887,4.370451113723211e-05,0.0,1.0,0.0,"BUT
+
+Without health insurance, my medications cost me approximately another $200/month.",nsubj,1,neu_vader
+4656,4656,0.9999728608777092,2.713912230647573e-05,0.0,0.488,0.512,What meds helped you best?,nsubj,1,pos_vader
+4659,4659,0.993949410788366,0.006050589211647426,0.0,0.879,0.121,"I have a strong Chemistry background, and I've tried to explain that your body chemistry constantly changes, so my medication doesn't always have exactly the same effect.",nsubj,1,neu_vader
+4665,4665,0.9999160464608828,8.395353910362238e-05,0.0,1.0,0.0,Now I know all meds can cause reactions in sun and I've know that for awhile.,nsubj,1,neu_vader
+4674,4674,0.9966425993319828,0.0033574006680307266,0.0,0.9309999999999999,0.069,"I've been told I'm either bipolar or have borderline personality traits but I have to wait for a consultant to give a definite verdict, apparently my meds will either be switched to an SSRI or an anti-psychotic - I'm just wondering how the anti-psychotics work in regards to my situation because I don't actually have and have never experienced psychosis so how do they work as a mood stabiliser?",nsubjpass,1,neu_vader
+4677,4677,0.9902916695026412,0.00970833049734635,0.0,0.915,0.085,"I felt that the meds would change who I was dramatically, that I'd be giving up what I am, because bipolar is and was a very big part of who I am.",nsubj,1,neu_vader
+4679,4679,0.998916938414462,0.0010830615855452308,0.0,1.0,0.0,Both of them have told him on more than one occasion that the meds he takes are anti-psychotic (no shit) and he doesn't need to be on them.,nsubj,1,neu_vader
+4695,4695,0.9993913222220456,0.000608677777960872,0.0,0.866,0.134,"I ended up in a hospital, new medicine makes me want to be more creative, which keeps me going, but still feel off my feet.",nsubj,1,neu_vader
+4729,4729,0.999946427133484,5.35728665161861e-05,0.102,0.898,0.0,"The meds were making me sick so i tried to taper to just Lithium, but it's not suppressing my manic states.",nsubj,1,neu_vader
+4730,4730,0.999901004679751,9.899532025536876e-05,0.221,0.7140000000000001,0.065,"Looking back on when I was on olanzapine, valproic acid and venlafaxine, I realize that these thoughts kinda went away, but the medication is unacceptable to me since they cloud my mind and kill my motivation to do anything.",nsubj,1,neu_vader
+4737,4737,0.9993572466365214,0.0006427533634909508,0.131,0.8690000000000001,0.0,But now I'm starting to think I'm one of those people that meds do not help.,nsubj,1,neu_vader
+4739,4739,0.9999408526079879,5.9147392031164646e-05,0.297,0.703,0.0,But these medications are making everything so much worse.,nsubj,1,neu_vader
+4746,4746,0.9997291263134992,0.0002708736864917971,0.0,1.0,0.0,MAYBE the meds will kick in and I can live my fucking life.,nsubj,1,neu_vader
+4757,4757,0.9986472442850022,0.0013527557150061285,0.132,0.868,0.0,"I've never been a morning person, maybe it's because the medicine I take has ran it's course, my stomach is empty, and overall my body is just in a state of shock or something.",nsubj,1,neu_vader
+4768,4768,0.99979003397289,0.0002099660271259327,0.0,0.6940000000000001,0.306,Is it a possibility that my meds quit being effective or i have built up a tolerance?,nsubj,1,neu_vader
+4769,4769,0.999805637140966,0.00019436285904816743,0.233,0.767,0.0,I'm not sure what a diagnosis would even do since meds really screw with me.,nsubj,1,neu_vader
+4779,4779,0.9997280800865256,0.0002719199134566108,0.0,1.0,0.0,"The weight came back, as did the zombie medications.",nsubj,1,neu_vader
+4792,4792,0.9979059206937198,0.0020940793062962024,0.0,1.0,0.0,The meds decrease the amplitude of my cycle but I still cycle and I'm white-knuckling it as I wax and wane.,nsubj,1,neu_vader
+4796,4796,0.9997853939314226,0.00021460606855901992,0.0,0.866,0.134,"I can't really tell if this is just how it feels to be happy because my meds are taking effect, or if it's more than normal.",nsubj,1,neu_vader
+4800,4800,0.9999337127261944,6.628727381464958e-05,0.27399999999999997,0.726,0.0,"Another night... meds are taken... but fuck this... so hard to keep going... slits on my wrists, such is life...",nsubjpass,1,neu_vader
+4801,4801,0.9999584161834428,4.158381657514256e-05,0.341,0.659,0.0,Counseling didn't work - meds made things worse.,nsubj,1,neu_vader
+4802,4802,0.9995052805479002,0.000494719452091803,0.462,0.5379999999999999,0.0,"I posted here a while back, as my meds gave me crazy panic attacks (Quetiapine).",nsubj,1,neu_vader
+4835,4835,0.9997851683757271,0.00021483162428155293,0.0,1.0,0.0,"I spent just over a week there, getting my meds figured out, getting my coping skills rebooted, and generally decompressing.",nsubj,1,neu_vader
+4841,4841,0.9996800164837908,0.0003199835162124228,0.0,1.0,0.0,"They can get burned for doing this, so just go with it- especially if the meds are working.",nsubj,1,neu_vader
+4844,4844,0.9988723785714388,0.001127621428572639,0.0,0.657,0.34299999999999997,"I was manic for like a month, and I thought the meds were helping.",nsubj,1,neu_vader
+4846,4846,0.9996492944618462,0.00035070553816818567,0.0,0.8540000000000001,0.146,"My medications are the only thing that really makes me feel happy, it's almost impossible for me to form emotional connections with other people because I think I have PTSD my last therapist said I did.",nsubj,1,neu_vader
+4873,4873,0.9991578667355532,0.0008421332644647029,0.0,0.828,0.172,The one medication that did help with some of the physical things was clamipromine.,nsubj,1,neu_vader
+4874,4874,0.99991307865787,8.69213421262094e-05,0.239,0.7609999999999999,0.0,No other medication has helped with these symptoms.,nsubj,1,neu_vader
+4877,4877,0.9999069015436984,9.30984562934136e-05,0.0,1.0,0.0,The medicine has been fucking my world up to the point where I can't tell anymore.,nsubj,1,neu_vader
+4882,4882,0.9999847912953932,1.520870462357688e-05,0.0,0.741,0.259,I feel like meds are being shoved down my throat!,nsubjpass,1,neu_vader
+4889,4889,0.9999716638269898,2.8336173018721266e-05,0.0,0.812,0.188,If so who has had success keeping mania at bay who had previously had medication induced mania?,nsubj,1,neu_vader
+4908,4908,0.9876872804746774,0.012312719525339702,0.0,0.757,0.243,"I thought the meds were working perfectly for me, even though I bought for hundreds of dollars worth of books in just a month.",nsubj,1,neu_vader
+4910,4910,0.9992182289675016,0.0007817710324818954,0.273,0.65,0.078,"In the mean time I have no access to a psychiatrist, I'm still cycling like mad, I'm irritable, angry, and overwhelmed constantly, my meds still haven't kicked in and my wife doesn't want me to go back to the hospital....",nsubj,1,neu_vader
+4918,4918,0.9988652494871624,0.001134750512826029,0.155,0.688,0.158,"So, anyways, as much as this medication is helping, it's (somewhat ironically) reaffirming my lack of belief in free will, which is, in turn, making me feel worse.",nsubj,1,neu_vader
+4935,4935,0.9986278105669693,0.0013721894330195046,0.27899999999999997,0.513,0.207,"The meds are definitely cushioning the drop, but I'm unsure if this is just a slow drop to feeling very low, like I did before my regimen.",nsubj,1,neu_vader
+4946,4946,0.9999555904827176,4.440951727404424e-05,0.114,0.536,0.35,"A dear friend, trying to help, told me ""The medicine didn't make you gain weight, your eating did.""...Right.",nsubj,1,neu_vader
+4947,4947,0.999996706116638,3.293883367183093e-06,0.272,0.629,0.099,The damn medicine made me constantly hungry where no food could satisfy it and if I didn't eat when I was hungry I'd be sick.,nsubj,1,neu_vader
+4949,4949,0.9999885040088046,1.1495991197372012e-05,0.0,0.755,0.245,He didn't understand how shitty that medicine made me feel.,nsubj,1,neu_vader
+4950,4950,0.9998480486813072,0.00015195131868116698,0.0,0.861,0.139,"Just the other day I realized that the week before last, I had my meds increased.",nsubj,1,neu_vader
+4953,4953,0.9932177742415632,0.006782225758435846,0.055,0.8690000000000001,0.076,"I haven't seen a psychiatrist in years and had just been having my gp perscribe me the same meds i've been on with some slight adjustments, but I no longer even live in the same city as him anymore and didn't feel it was safe to continue doing that.",nsubj,1,neu_vader
+4961,4961,0.9988447786094854,0.0011552213905214508,0.281,0.63,0.08900000000000001,"i know the fact that i'm even thinking about it means i should go, but the financial fallout is so great that i'm afraid i'll never recover which will only add to my stress and make my life even shittier than it already is...  i do feel safe there, the meds make the never ending mix tape of suicidal thoughts stop, and i don't have to face the fucked up reality that is my life...  but once my stay is over it all goes back to hell...  but the pull of the hospital blanket draped around me, the little cups of happy pills and being with people that understand what it's like to have a brain that is at constant war with itself is cathartic...  no sharp objects to mutilate myself with (it seems to let some of the poisonous thoughts escape), no bottles of pills saying 'eat me - i can make the pain stop for good', no bridges to jump off, someone concerned enough to check my arms for new cuts every day, no vodka to drown my sorrows in, no illegal drugs to escape into... something about waving the white flag of defeat against this awful thing called bi-polar that makes it stop for a little bit...  like a holy day ceasefire... but just like a ceasefire - the war always starts back up with a vengence...   or am i just being overly dramatic?",nsubj,1,neu_vader
+4962,4962,0.999867586009744,0.00013241399027051824,0.0,1.0,0.0,Has medication made a big difference?,nsubj,1,neu_vader
+4964,4964,0.9996868404634036,0.0003131595365855975,0.125,0.8140000000000001,0.061,"This is my third stay in five years...I'm very frustrated with my condition and I must admit I havent been very proactive,meds after some time will not work.",nsubj,1,neu_vader
+4967,4967,0.9998812808744464,0.00011871912555881587,0.14300000000000002,0.7090000000000001,0.14800000000000002,"I just want to get a job again and keep fighting but i need my correct fucking meds to do that
+
+Thanks for letting me rant
+
+edit:sorry for grammar and spelling",nsubj,1,neu_vader
+4971,4971,0.9994437341500824,0.0005562658499119836,0.0,0.877,0.12300000000000001,I wait 2 months paying $30 a scrpt (as well as MS meds..meds are not cheap) and still nothing.,nsubj,1,neu_vader
+4973,4973,0.9996657049105174,0.0003342950894969747,0.0,0.72,0.28,"I was very encouraged, he wanted to work with my neurologist and make sure that the medicine would also help me with my MS.",nsubj,1,neu_vader
+4980,4980,0.9981728623025771,0.0018271376974391587,0.18899999999999997,0.7170000000000001,0.094,"I'm petrified of what will happen to me, what will the meds do to me, will it get better, I am in desperate need of advice.",nsubj,1,neu_vader
+4988,4988,0.9998880460909036,0.00011195390909810612,0.299,0.701,0.0,"My medications aren't helping me at this point, not with all the stress.",nsubj,1,neu_vader

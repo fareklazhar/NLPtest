@@ -1,0 +1,670 @@
+,Unnamed: 0,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,sentence,dict,identifier,sentiment
+3,3,0.9999806787289758,1.9321271015784145e-05,0.0,1.0,0.0,These episodes could be very extreme so she (thankfully) began therapy and medication.,conj,0,neu_vader
+4,4,0.9960564448904136,0.00394355510957723,0.0,1.0,0.0,I keep getting asked what my goal for treatment is from both  my pdoc in my bipolar medication group which also has a small therapy element .,compound,0,neu_vader
+6,6,0.9997350835274542,0.00026491647255180316,0.0,0.8740000000000001,0.126,"I have *not* found an acceptable medication regimen yet, and since the diagnosis, I have progressed into ultra-rapid cycling.",compound,0,neu_vader
+14,14,0.9979407960078348,0.002059203992153095,0.047,0.866,0.087,"I think giving blood reduced my medications levels in my bloodstream, and thus, exposed me to the 'original' state of myself that was prone to these cycles.",compound,0,neu_vader
+22,22,0.99758557197957,0.002414428020417281,0.0,1.0,0.0,"I know I need to talk to a psychiatrist about all of this, but the psychiatrist I'm currently seeing only sees me for medication management, and I only see her once every 3 months for a follow up, and each follow up is 15-20 minutes long to determine if she should renew my prescription.",compound,0,neu_vader
+30,30,0.9991717156140788,0.0008282843859037887,0.0,0.639,0.361,Hopefully a good pdoc and proper meds will help but I can't wait for that.,conj,0,neu_vader
+32,32,0.9999913683421512,8.631657832519209e-06,0.0,1.0,0.0,Could this actually be medicine-related?,npadvmod,0,neu_vader
+37,37,0.9977619550429608,0.0022380449570531934,0.042,0.958,0.0,"I've had ADHD most of my life, and I've managed it semi-effectively (at times) alternatively through self-imposed organizational tools and habits (which work for short periods, usually), medication (which I can seldom afford now that I'm on my own), and extensions and incompletes from my professors (which I hate, but is usually what I end up needing).",conj,0,neu_vader
+38,38,0.999977128910738,2.2871089266124005e-05,0.0,1.0,0.0,"So I am hypomanic, been seeing my psychiatrist and meds being adjusted etc....",conj,0,neu_vader
+56,56,0.9993931454621608,0.0006068545378449191,0.18899999999999997,0.6579999999999999,0.153,And what do I even say when I get to the hospital I feel like they're going to treat me like a goddamn basket case and I'm scared and embarrassed that I let things get to this point and I don't know if I should tell my dad because that's just time and money out of his day and I don't want him to get mad at me because I'm notorious for not taking my medication shit i don't know what to fucking do at all and I don't want to fuck myself over today PLEASE HELP!,compound,0,neu_vader
+60,60,0.9993295262223484,0.0006704737776422742,0.0,1.0,0.0,"I took headache meds, sinus meds, did a NeilMed sinus rinse, and took an Epsom salt bath.",conj,0,neu_vader
+62,62,0.9996626769403392,0.00033732305967167715,0.0,1.0,0.0,"I see a psychiatrist for medication management, and I don't see a therapist.",compound,0,neu_vader
+71,71,0.9453545647063034,0.05464543529369968,0.077,0.7490000000000001,0.17300000000000001,"Just a quick post before I go to sleep, so apologies for late replies/not being 100% clear:
+
+Over the last three/four days, I've gone from about 75% (of what was normal, pre meds) depressed, to a pretty solid hypomanic.",appos,0,neu_vader
+78,78,0.9787522593125024,0.02124774068748216,0.0,0.8009999999999999,0.19899999999999998,"I went through some rough patches as I tried to find a medication combination that worked for me, but (with the help of my psychiatrist) I found a combination that worked well.",compound,0,neu_vader
+79,79,0.9973311488414288,0.002668851158589528,0.21100000000000002,0.684,0.105,**The problem now:** I just entered a manic episode about a week ago that has been one of the worst episodes since I started taking this better medication combination.,compound,0,neu_vader
+96,96,0.9987858269130936,0.001214173086900362,0.321,0.679,0.0,"The disease makes it worse, but I think the problem is that, underneath all the symptoms and the medication, I'm just a worthless little pussy.",conj,0,neu_vader
+117,117,0.9993241426042389,0.0006758573957575397,0.0,1.0,0.0,"""The DSM IV-TR has a clause that states “medication-induced mania” is not to be considered bipolar.""",npadvmod,0,neu_vader
+118,118,0.9906782222655184,0.009321777734471405,0.065,0.87,0.065,"On page 368 heading ""Criteria for hypomanic episode"" there's a note, it reads
+
+
+Note: Hypomanic-like episodes that are clearly caused by somatic antidepressant treatment (e.g., medication, electroconvulsive therapy, light therapy) should not count toward a diagnosis of Bipolar II Disorder.",conj,0,neu_vader
+121,121,0.9999710833132548,2.8916686734338147e-05,0.187,0.813,0.0,** She wants me on lamitral which are anti seizure meds.,attr,0,neu_vader
+126,126,0.9931720738993004,0.006827926100705962,0.256,0.7440000000000001,0.0,"Anyways, now that I'm 25, having started medication two days ago, I'm starting to feel a lot of resentment and disappointment.",nummod,0,neu_vader
+134,134,0.9999708509324556,2.9149067545197224e-05,0.0,0.639,0.361,"So friends, what is your medication(s) nightmare?",attr,0,neu_vader
+139,139,0.9998304748974628,0.000169525102521702,0.16699999999999998,0.833,0.0,"I'm not sure if it's my medications or I'm just losing my mind with racing thoughts, but I will go into another room and forget why I got up in the first place.",attr,0,neu_vader
+151,151,0.9991238897754374,0.0008761102245544157,0.124,0.765,0.11199999999999999,have mood stabilizers and other medications for bipolar 2 been worth the risk of side effects?,conj,0,neu_vader
+165,165,0.9998032322326832,0.0001967677673312661,0.028999999999999998,0.895,0.075,"I try to handle it myself with anxiety meds only when needed and marijuana (which calms me down and helps me think straight) and to just work through everything, but I'd say we all know that doesn't always work as expected and can even backfire.",conj,0,neu_vader
+177,177,0.9999592244797076,4.07755202955296e-05,0.0,0.8740000000000001,0.126,I know the mental health team and medication is what i want.,conj,0,neu_vader
+184,184,0.9999221204540186,7.787954599033609e-05,0.0,1.0,0.0,From both the transition and the medicine itself.,conj,0,neu_vader
+188,188,0.9999669964206068,3.300357940562821e-05,0.688,0.312,0.0,No meds.,ROOT,0,neg_vader
+190,190,0.9996105446949396,0.0003894553050779872,0.0,0.855,0.145,I've agreed not to move anytime soon - added extra therapy and another medication and my doctor has approved a week off work for me to get to a place where I can focus again.,conj,0,neu_vader
+191,191,0.9999538240365612,4.617596345746858e-05,0.22699999999999998,0.773,0.0,I was wondering if anyone takes medication for both anxiety and bipolar disorder and what medication it is?,attr,0,neu_vader
+195,195,0.9992061750408624,0.0007938249591437419,0.0,1.0,0.0,"I've been hypomanic for the past few weeks and despite medication increases (going from lamictal 100mg to 200mg and seroquel 25mg to 100mg), exercise, and eating right, I keep going up and up and up and up.",compound,0,neu_vader
+199,199,0.9999625028201896,3.749717981624415e-05,0.124,0.6940000000000001,0.183,"... not to sound dire, but even when you think you have EVERYTHING going - insight, doctor access, medication, general health and employment, supportive partner and friends - this shit comes back and hits you and WILL topple things.",conj,0,neu_vader
+202,202,0.995010907100258,0.0049890928997549395,0.0,0.941,0.059000000000000004,"One or two of you may understand what it is to have your affect blunted for most of TEN YEARS, your sexual desire coming out for MAYBE one week every three months, and wondering every day if it's the medication, the situation or YOU.",attr,0,neu_vader
+227,227,0.9999260654180392,7.393458197744464e-05,0.0,1.0,0.0,It is now totally out of my medication regime....,compound,0,neu_vader
+230,230,0.9999836285319388,1.637146806389099e-05,0.0,0.667,0.33299999999999996,:) Have you ever come off medication?,npadvmod,0,neu_vader
+232,232,0.999951847368581,4.815263139994333e-05,0.146,0.8540000000000001,0.0,In part this is because my medication regimen is not yet stable.,compound,0,neu_vader
+237,237,0.999888103065334,0.00011189693465939502,0.0,1.0,0.0,I hit the medication lottery and got on Lamictal and it worked.,compound,0,neu_vader
+238,238,0.9997861318083844,0.0002138681916253576,0.0,0.851,0.149,"With constant visits, medication and therapy I have been able to manage it well.",conj,0,neu_vader
+242,242,0.9930292214768672,0.0069707785231296155,0.0,1.0,0.0,"However, with very little discussion(understandably) she temporarily popped me on a new medication(in place of the pristiq) until this can either be sorted out, or she can at least be back to set me up on samples.",amod,0,neu_vader
+250,250,0.9680517163077432,0.0319482836922701,0.24600000000000002,0.754,0.0,Over the years I've managed to find a meds combo (Trileptal and Gabapentin) that keeps my moods more level but I struggle with depression and anxiety (PTSD as well) and it frequently keeps me in the house.,amod,0,neu_vader
+254,254,0.9999008676787796,9.913232122794088e-05,0.0,0.769,0.231,Did the thyroid meds help with your moods at all?,ROOT,0,neu_vader
+268,268,0.9999669964206068,3.300357940562561e-05,0.0,0.4,0.6,Self medication ftw,compound,0,pos_vader
+279,279,0.9999734008201296,2.659917988606854e-05,0.0,1.0,0.0,I won't delve too deeply into my medication history.,compound,0,neu_vader
+281,281,0.9999577167033832,4.228329662965045e-05,0.0,0.752,0.248,So I'm on Lamictal again after being medication free since August/September.,attr,0,neu_vader
+293,293,0.9966517728009846,0.0033482271990220923,0.083,0.818,0.099,"Part of me thinks I need to just be patient, save up some money, and get some counseling and meds, but I worry that a medicated version of me might be willing to sacrifice that dream of international travel for some short term stability.",conj,0,neu_vader
+295,295,0.9999795002441682,2.0499755815195245e-05,0.0,0.386,0.614,Hail medication!,ROOT,0,pos_vader
+296,296,0.9992143128174928,0.0007856871824890728,0.0,1.0,0.0,"With therapy and proper medication, I’ve been able to begin to put my life back on track, but it will take time.",conj,0,neu_vader
+297,297,0.9971284138193826,0.0028715861806119713,0.0,0.679,0.321,"Today, as a student in a PhD program, I am feeling wonderful with therapy and medication.",conj,0,neu_vader
+315,315,0.9998354090226677,0.00016459097733263132,0.0,0.8,0.2,"3 years later (2008) and now I'm married to a doctor (family medicine), I've got a good job (government contractor), and things are going well.",appos,0,neu_vader
+320,320,0.9996034439678868,0.00039655603211866255,0.0,0.6829999999999999,0.317,"I have been off meds for a while, while trying to get pregnant, but have been doing pretty well.",advmod,0,neu_vader
+358,358,0.9985687229099796,0.0014312770900300226,0.174,0.7709999999999999,0.055,My SO suffers from bipolarism (not sure if that is the correct terminology) and epilipsy We have been together for 2 years currently she is going through a meds adjustment and is suffering through many side affects.,compound,0,neu_vader
+380,380,0.999874999319538,0.00012500068045859973,0.125,0.875,0.0,"So I had a surgery, couldn't fix my heart, but at least I wasn't passing out anymore, and with some(experimental) medication(with awful side-effects) I was able to at least get through each day.",punct,0,neu_vader
+381,381,0.9792652771306602,0.02073472286933753,0.0,1.0,0.0,"I know a lot of people tend to think that the right diet, exercise and possibly medication will ""cure"" me.",conj,0,neu_vader
+388,388,0.9999725284177982,2.747158219640707e-05,0.0,1.0,0.0,I did treatment and therapy and meds and all that stuff.,conj,0,neu_vader
+395,395,0.9999673776607828,3.262233921317823e-05,0.16699999999999998,0.833,0.0,I suspect it's my meds but won't know until Monday.,attr,0,neu_vader
+398,398,0.9915129694441058,0.008487030555885197,0.146,0.8540000000000001,0.0,"I reacted badly to Abilify, but let's not make this a meds thread*
+
+So I've been going through a depressive episode around December and in the end of December my gf went abroad for some study exchange.",amod,0,neu_vader
+403,403,0.9999848319267112,1.5168073270480682e-05,0.0,1.0,0.0,UP DATE: Got me meds!,ccomp,0,neu_vader
+405,405,0.9999322397728768,6.776022711502972e-05,0.046,0.9540000000000001,0.0,"I keep telling the psychiatrist on campus that I don't feel well, but she's afraid to make major changes to my medicine because I usually end up breaking down during big medicine changes.",compound,0,neu_vader
+423,423,0.9999752440939116,2.4755906076083506e-05,0.40399999999999997,0.596,0.0,"I am very, very bad at medication management.",compound,0,neu_vader
+465,465,0.9999883986678544,1.1601332127007762e-05,0.0,1.0,0.0,What happens when and if I'm prescribed medication?,conj,0,neu_vader
+486,486,0.9999387035876476,6.129641235300186e-05,0.231,0.769,0.0,I've been doing the medication trial and error since 2008.,compound,0,neu_vader
+490,490,0.9968944343586952,0.003105565641319166,0.111,0.818,0.071,"It's also helps keep me away from drinking and so does the klonopin, that was my self medication for the anxiety, which really is only a short term fix, I really don't like drinking now.",attr,0,neu_vader
+500,500,0.9992319390989176,0.0007680609010886955,0.129,0.871,0.0,"Rent, internet, cell phn, meds, they all get paid each month, but with regard to discretionary funds, including saving, I have a difficult time budgeting.",conj,0,neu_vader
+503,503,0.9995667382482796,0.00043326175170591057,0.242,0.758,0.0,"Usually he gets depressed this time of year, he has changed doctors and medications and he went into an irritable manic state.",conj,0,neu_vader
+504,504,0.999919623322608,8.037667737560547e-05,0.0,0.741,0.259,Therapy is THE best thing I could ever do for myself (and the meds).,conj,0,neu_vader
+516,516,0.9999046633891135,9.533661089244351e-05,0.0,0.847,0.153,Hes taking Seroquel and some other medicine on top of that.,conj,0,neu_vader
+519,519,0.9993878569052022,0.0006121430947906197,0.0,1.0,0.0,"So I ask, what do you do when you're having an episode that isn't a drug or medication to cope.",conj,0,neu_vader
+536,536,0.9998245249628755,0.00017547503713053072,0.0,0.8320000000000001,0.168,"BUT, with my recent diagnosis and thus recent medication... it's much better than the last time I was here (also depressed).",conj,0,neu_vader
+539,539,0.9995426924372935,0.00045730756269844747,0.326,0.674,0.0,"However, upon research I found many people find medication m much worse than the illness itself.",compound,0,neu_vader
+542,542,0.9997103013324818,0.0002896986675250108,0.057999999999999996,0.89,0.052000000000000005,"I just needed to get this out there, that someone will understand how hard it is to keep yourself together, I work so hard every hour of every day to manage my condition with out medication, and at times like this I realize just how frail my system is.",conj,0,neu_vader
+545,545,0.9970855925380172,0.0029144074620001373,0.15,0.85,0.0,I don't like the idea of taking a medication long-term that we don't completely understand.,amod,0,neu_vader
+553,553,0.9999669964206068,3.300357940562821e-05,0.0,0.408,0.5920000000000001,Non-bipolar stimulating medicines.,ROOT,0,pos_vader
+581,581,0.9982633676397156,0.0017366323602974365,0.0,1.0,0.0,"If that isn't the case, is it normal for not taking meds/less sleep to cause mania?",amod,0,neu_vader
+586,586,0.9991942420088148,0.0008057579911667122,0.0,0.898,0.102,After a misdiagnosis by an asshole psychiatrist I was prescribed every SSRI in the book and some other mood meds like Risperidone and finally lithium.,conj,0,neu_vader
+589,589,0.9991211697088109,0.0008788302911838195,0.0,0.8809999999999999,0.11900000000000001,"I don’t have all the bills in from of me right now but the hospital bills, medication, ambulances, everything else is easily close to $40,000.",conj,0,neu_vader
+612,612,0.9976936806112428,0.002306319388774292,0.0,1.0,0.0,This is a question that's been going through my mind a lot as I've been working my way towards a diagnosis and the right meds.,conj,0,neu_vader
+615,615,0.99994561860995,5.438139004652149e-05,0.314,0.541,0.146,He is definitely severely and persistently mentally ill and needs treatment and medication.,conj,0,neu_vader
+643,643,0.9997333022619792,0.0002666977380356559,0.079,0.9209999999999999,0.0,"Have any of you self-observant bipolar cycling people been cycling regularly while unmedicated, then began meds and actually stopped cycling and became normal?",advmod,0,neu_vader
+646,646,0.9963045097134416,0.003695490286542708,0.0,1.0,0.0,"However, my doc is also considering a bipolar diagnosis, since genetic testing shows that I'm susceptible to it (I have my own theory that there's something underlying several disorders that makes them seem so connected, but until mental health becomes a real medicine, I don't think we'll get answers on that any time soon).",attr,0,neu_vader
+673,673,0.9984463693859824,0.0015536306140111556,0.127,0.682,0.191,I want a medication combination that works and makes me feel better instead of me freaking out multiple times a week.,compound,0,neu_vader
+674,674,0.9999251381909277,7.486180906679488e-05,0.12,0.8109999999999999,0.069,"Last time this happened it was worse and I got it checked out, they said everything was fine and it was probably the medication.",attr,0,neu_vader
+680,680,0.9998840733355736,0.00011592666441961096,0.413,0.551,0.036000000000000004,"Constant mood swings, suicidal thoughts, devastating depressing — plus the fact that I see and hear shit when I'm off meds
+
+I just want my old psychiatrist back",advmod,0,neu_vader
+683,683,0.9999516310633988,4.83689366173269e-05,0.0,1.0,0.0,It's been this way as long as I remember and it's probably medication related.,attr,0,neu_vader
+694,694,0.9998791843969044,0.0001208156031025517,0.0,0.8370000000000001,0.163,"The few rehab programs I had as an option, that were free, required me to be off all medications.",attr,0,neu_vader
+705,705,0.9993948843856706,0.000605115614308999,0.14,0.7759999999999999,0.084,"My psych recommended it to me in addition to my current medication regime (lamotrigine, with olanzapine as emergency mania suppressant) and since starting it I have been disgustingly well (6 months), so my anecdotal experience there may be something to it.",compound,0,neu_vader
+706,706,0.9976069597632748,0.002393040236718428,0.0,0.74,0.26,"The lamotrigine has been my current medication for the past 5+ years, so it is interesting to see that I am feeling even better now that I am taking the N-acetylcysteine as well.",attr,0,neu_vader
+709,709,0.9998800236584594,0.00011997634153282607,0.0,1.0,0.0,Is this a medication issue?,compound,0,neu_vader
+725,725,0.9986649408304644,0.001335059169533068,0.064,0.71,0.226,I got the medication but from everything I read online it looks like this is a medication for BP1 and focuses on helping with mania which I have never had and I am skeptical of having had hypomania if I am being honest.,attr,0,neu_vader
+727,727,0.9960588217323224,0.003941178267664508,0.0,0.821,0.179,I feel like every time I go to the doctor it is like picking a medication name out of a hat with regards to what I am going to get.,compound,0,neu_vader
+732,732,0.9975315958396808,0.0024684041603380037,0.13,0.87,0.0,"Whether it's a medication, herbal supplement, or even something as simple as low amounts of caffeine.",attr,0,neu_vader
+755,755,0.9968427274920402,0.0031572725079561576,0.0,0.743,0.257,"*posted this on psychforums but realized i liked reddit better
+
+i went on a mental bender(ie year long mania, yay), left school for the hospital, and after a whole bunch of therapy and meds am ok now.",conj,0,neu_vader
+759,759,0.9972998096163462,0.002700190383673536,0.095,0.7190000000000001,0.18600000000000003,"My dad says the therapy, medications, and hospital doesn't help so I should quit all of it and pray to god.",conj,0,neu_vader
+763,763,0.9964688999261841,0.0035311000738002768,0.369,0.631,0.0,"In a nutshell
+I have a long history of depression, self mutilation, binging, purging, alcoholism, drug use, medication use &amp; abuse for several mental illnesses.",compound,0,neu_vader
+774,774,0.9991957759901984,0.0008042240098187725,0.11599999999999999,0.884,0.0,"Between insurance, medication, and therapy, (not to mention my student loan payments) my paycheck takes a BIG cut.",conj,0,neu_vader
+779,779,0.9999607646894134,3.923531057970521e-05,0.34700000000000003,0.653,0.0,"I lost my insurance last summer, so I stopped treatment and my medications.",conj,0,neu_vader
+781,781,0.9988291374516473,0.0011708625483369053,0.242,0.6729999999999999,0.084,"I probably should be, although every medication I have tried and the subsequent ""loading period"" has felt like a disaster and seemed to make things worse.",npadvmod,0,neu_vader
+788,788,0.9972887451116568,0.00271125488833859,0.0,0.847,0.153,"I can try to understand it through the help of my doctors, my therapist, and my medication.",conj,0,neu_vader
+795,795,0.998007520366508,0.0019924796335024433,0.0,1.0,0.0,"I don't think it's the meds, but I don't think I'm going into a mood swing or anything.",attr,0,neu_vader
+803,803,0.9996820042142088,0.00031799578577703893,0.0,1.0,0.0,New meds: Lithium (450mg) and Lamictal (25mg 3x a week to build up slowly).,ROOT,0,neu_vader
+804,804,0.9999680412906574,3.195870932266208e-05,0.0,1.0,0.0,"I had some medication changes, (took me off Lexapro, introduced Lamictal and Serequel).",compound,0,neu_vader
+810,810,0.9998269522857004,0.00017304771428997595,0.127,0.768,0.105,"I have since gone back on meds (had an insurance problem, plus I'm sure you guys know how it is with the going on and off meds) and am starting to feel more stable, besides being heartbroken/depressed and crying A LOT.",conj,0,neu_vader
+816,816,0.999713185788313,0.00028681421168746994,0.0,0.8859999999999999,0.114,Also I had to come clean to my parents for the first time about my diagnosis (Bipolar 1) and the medication I'm taking.,conj,0,neu_vader
+840,840,0.9997347259394559,0.0002652740605611581,0.06,0.87,0.071,"This is impossible for me without paying out of pocket, because my medication expenses are only $180, and no doctor anywhere will charge $413 for a visit even if they accept SOC (which is rare).",compound,0,neu_vader
+844,844,0.9999494589612749,5.0541038734012846e-05,0.0,0.8,0.2,I feel like I have had an endless list of diagnoses and medication.,conj,0,neu_vader
+852,852,0.9993983342612696,0.0006016657387256043,0.077,0.877,0.045,"No money means I cant drive to town (I live on a rural property) to see my pdoc, who I can't pay, and be prescribed medication, which I really really need.",conj,0,neu_vader
+858,858,0.9955896808232844,0.004410319176696735,0.215,0.6809999999999999,0.10400000000000001,He is a hell of a lot luckier than many people on here in that my folks will pay for his docs and meds.,conj,0,neu_vader
+863,863,0.9997663284617944,0.00023367153820128185,0.0,1.0,0.0,"So I think I have found the right medicine combo of 200mg lamotrigine, 12.5 of sertraline, and 5mg focalin.",compound,0,neu_vader
+865,865,0.994760283662904,0.0052397163370918615,0.066,0.934,0.0,"Then I start to wonder how valid the entire basis of mental illness is when I've tried every traditional medical treatment and various medication combinations and had only few month long periods of ""normal"" ever in the last nine years.",compound,0,neu_vader
+879,879,0.9757140120737959,0.024285987926195258,0.115,0.73,0.154,I'll keep taking them every night before bed until I am clearly out of the woods - it's a lot easier being able to sleep through the worst of the medication's effects.,poss,0,neu_vader
+886,886,0.9984968967485466,0.0015031032514509727,0.0,1.0,0.0,"I have another P-doc appointment next week AND am starting weekly therapy, plus the drug copays incurred with a medication change (dropped depakote, titrating up onto lamictal, upped abilify, unchanged cymbalta.)",compound,0,neu_vader
+887,887,0.9990871756063072,0.0009128243936945511,0.271,0.7290000000000001,0.0,I am just out of a meds-induced mild depressive state.,npadvmod,0,neu_vader
+891,891,0.9995919632787578,0.00040803672123346533,0.055,0.945,0.0,"I pay rent, cable/internet, most of our food costs, every time we go out for drinks.... plus my meds, food/treats/vet visits for my dog, gas for my car and motorcycle (luckily that one's cheap), my doctor's bills and bills for all the blood work I have to do all the damn time... but we get by.",conj,0,neu_vader
+897,897,0.9996865407152604,0.00031345928475187766,0.22,0.745,0.035,"Well, since I had no money left because my job sent me on an 'illegal' unpaid medical leave and I needed the money to pay to see my pdocs and my meds, I had NO choice but to file for partial unemployment.",conj,0,neu_vader
+902,902,0.9991742939953808,0.0008257060046038535,0.0,0.7290000000000001,0.271,"Not sure where else to post this, but I think here would be my best bet as I believe it to be a medication thing.",compound,0,neu_vader
+904,904,0.9988340702999804,0.001165929700003028,0.293,0.7070000000000001,0.0,In the meantime I missed a few days due to medication issues and they fired me over attendance.,compound,0,neu_vader
+912,912,0.9991251932072076,0.0008748067928107451,0.0,0.8220000000000001,0.17800000000000002,Someone once told me there was a bipolar medication that also helps with focus.,attr,0,neu_vader
+913,913,0.9937467653272132,0.006253234672769821,0.0,1.0,0.0,My wife is currently in the middle of a 14 day hold in an inpatient behavioral medicine center.,compound,0,neu_vader
+971,971,0.9999885618645936,1.1438135398669949e-05,0.0,1.0,0.0,Anybody else mix alcohol and medication on occasion?,conj,0,neu_vader
+993,993,0.9993030809366864,0.0006969190633088338,0.16399999999999998,0.836,0.0,"I am a 18 year old female, I recently went to a psychiatrist and though I was not diagnosed I was given a mood chart and medication that are mood stabilizers and anti depressants.",conj,0,neu_vader
+1010,1010,0.99969265121175,0.00030734878824941,0.168,0.8320000000000001,0.0,"I know that they can exclude you based on existing psychological conditions and medication, but is it a blanket exclusion or based on case-by-case assessment?",conj,0,neu_vader
+1020,1020,0.9991455709561932,0.0008544290437930762,0.0,1.0,0.0,So I have been off psyche meds for a couple of months.,npadvmod,0,neu_vader
+1021,1021,0.9994791254046149,0.0005208745953694395,0.095,0.8009999999999999,0.10400000000000001,"Today was the second day that I couldn't take my blood pressure medication(the only pill I still take) because I ran out right before a holiday abroad, and I haven't been eating, I have been very irritable, I have been talking a LOT(very passionately as well), my pulse is really high, and I've had a cold sweat here and there.",aux,0,neu_vader
+1024,1024,0.997900152344838,0.002099847655151657,0.105,0.7959999999999999,0.098,"Within the past few months, I have attempted suicide, been sent to a mental hospital, diagnosed with PTSD and Bipolar 2, sought therapy and proper medication, and am progressively doing my best to look up and move forward.",conj,0,neu_vader
+1026,1026,0.9998474084297668,0.00015259157024757918,0.252,0.748,0.0,"Mom told me that my mental disorder and medication is bullshit and I should just get over it, and I called her out on the fact that she battles her own demons.",conj,0,neu_vader
+1040,1040,0.9998615235817891,0.00013847641820545988,0.38299999999999995,0.617,0.0,"This, panic attacks, episodes, consequences for social and professional life, medication side-effects.",compound,0,neu_vader
+1046,1046,0.9999684712081128,3.152879187007695e-05,0.14400000000000002,0.856,0.0,I then shifted doctors and got diagnosed with borderline personality disorder through new tests and new medicines ensued.,conj,0,neu_vader
+1051,1051,0.9849103549845584,0.01508964501543198,0.07400000000000001,0.9259999999999999,0.0,"Hi All,
+
+Being recently diagnosed Bipolar II, and going through the process of trying different medication cocktails, I'm in a tricky spot.",compound,0,neu_vader
+1080,1080,0.9997200393182968,0.0002799606817072697,0.0,1.0,0.0,She suggested that I might need a medication change to maybe lamictal and to talk to my psychiatrist about it.,compound,0,neu_vader
+1120,1120,0.9999695220765684,3.0477923434490187e-05,0.0,1.0,0.0,How do I learn to understand how my medicine affects me and if it's indeed the right medicine before me?,attr,0,neu_vader
+1124,1124,0.9998743878998888,0.0001256121001196372,0.079,0.748,0.17300000000000001,"**I was wondering what medications, if any, people have had success with for anxiety that is NOT a benzodiazepine?",dep,0,neu_vader
+1148,1148,0.9997602441114104,0.0002397558885782583,0.264,0.736,0.0,"She doesn't like therapy and meds and refuses to think anything is wrong, kind of just blames other people instead of her approach to them.",conj,0,neu_vader
+1149,1149,0.9987697143219312,0.0012302856780766402,0.0,1.0,0.0,"Therapy and medications are part of the current program, but don't seem to be enough.",conj,0,neu_vader
+1155,1155,0.9994770115620762,0.0005229884379393514,0.0,0.943,0.057,"Currently, I take 1050 mg Lithium, 200 mg Lamictal, 12.5 mg Ambien CR + occassional 3 mg Melatonin as well as some other minor gastro meds and supplements, just to give an idea of what I'll need to manage.",conj,0,neu_vader
+1168,1168,0.999902053568994,9.794643101001093e-05,0.23,0.77,0.0,"I have noticed that when I'm off medication people act differently towards me, more hostile or perhaps more aggressive.",compound,0,neu_vader
+1181,1181,0.9996445722445768,0.00035542775543882717,0.0,1.0,0.0,"About 3 months ago, she got started on lithium (she's also on lamictal and adderall and a few antipsychotics and antianxiety meds)...",conj,0,neu_vader
+1187,1187,0.9999504950895309,4.95049104798811e-05,0.11699999999999999,0.635,0.248,"Listener 2 provided basic reminders about important things like therapy and medication, without giving advice.",conj,0,neu_vader
+1197,1197,0.9990395649336999,0.0009604350662878547,0.052000000000000005,0.679,0.26899999999999996,"My journey through life has been crazy, but through therapy and medication, I am the most stable and the most consistently happy that I have ever been.",conj,0,neu_vader
+1209,1209,0.9984017391620259,0.0015982608379568745,0.102,0.7909999999999999,0.107,So I decided to try clonazepam with my night time meds (Seroquel)... and now I'm missing a huge chunk of memory.,appos,0,neu_vader
+1212,1212,0.9894322829102872,0.010567717089696409,0.10800000000000001,0.892,0.0,I see my therapist almost every week (she's great) and FINALLY found a decent medication combo that works even though some of the side effects still suck.,compound,0,neu_vader
+1229,1229,0.9946558971294862,0.005344102870504915,0.153,0.847,0.0,"After a long journey of self discovery, including missing for days, hospitalization, compulsion, scratching, miscarrying, stripping, sex, drugs, meditation, and medication, I still struggle with Ambiso on a daily basis.",conj,0,neu_vader
+1232,1232,0.999840289479165,0.00015971052085230286,0.07,0.62,0.31,"Before now I've been pretty damn stable for at least a year, maybe two, thanks to finally figuring out my perfect medication combo (Lamictal and Wellbutrin SR if that matters).",compound,0,neu_vader
+1235,1235,0.9997930130342629,0.00020698696575362726,0.115,0.7829999999999999,0.10099999999999999,"And she sits on a high horse, so the idea that someone else (especially western medicine) helping her is ludicrous.",appos,0,neu_vader
+1240,1240,0.9981467314726246,0.0018532685273717781,0.07200000000000001,0.9279999999999999,0.0,Is this one of the reasons that some (including myself at times) have a hard time with treatment and medication?,conj,0,neu_vader
+1249,1249,0.9997929023102919,0.00020709768969872988,0.0,1.0,0.0,"They gave me names of therapists and meds and stuff, it just seemed way out of line.",conj,0,neu_vader
+1252,1252,0.9966867339690092,0.0033132660309981576,0.14300000000000002,0.857,0.0,"He was diagnosed ~8 years ago, we've been though a lot- hospitalizations, more meds/pdocs than I can list, ECT, financial crises after hypomanic spending sprees, suicide watches, you name it.",conj,0,neu_vader
+1254,1254,0.9999770863889684,2.2913611030356218e-05,0.0,1.0,0.0,Came off meds (Lexapro and Effexor).,ROOT,0,neu_vader
+1258,1258,0.999508311147816,0.0004916888521897708,0.376,0.624,0.0,"So I am suicidal, no meds for a month at least and homeless in three days.",appos,0,neu_vader
+1265,1265,0.9957147604276828,0.004285239572299708,0.0,1.0,0.0,I had a tooth pulled two days ago so I'm on 325mg of Hydros (pain meds) for several days.,appos,0,neu_vader
+1279,1279,0.9996793067877344,0.00032069321227643215,0.057999999999999996,0.807,0.135,"It took me over 10 years to get the correct diagnosis and medication, I don't want to fuck that up.",conj,0,neu_vader
+1281,1281,0.9999687555170628,3.124448295011509e-05,0.0,0.8390000000000001,0.161,Medical marijuana seems to be the only medicine that can undoubtedly relieve my symptoms.,attr,0,neu_vader
+1285,1285,0.9746378205799784,0.025362179420029763,0.0,1.0,0.0,"She had a lifetime of dealing with her mother and her condition/medication and the ups and downs it brought (I don't remember what it actually was), and as little as she thought she knew me at times, she knew more than anyone else ever did.",conj,0,neu_vader
+1295,1295,0.9999449401602084,5.505983979358204e-05,0.0,0.444,0.556,"Like, pre-medication deep.",npadvmod,0,pos_vader
+1297,1297,0.9900608043233552,0.009939195676626704,0.042,0.885,0.073,"I've noticed over the last few years most bipolars I meet know who michiu Kiaku is, they understand quantum mechanics a million times better than laymen, I meet the parents of bipolar kids that have NO IDEA what meds their kid is even on, and if I ask them about bipolar and topics they should have researched seeing as how their kid has it, and they don't know crap.",ccomp,0,neu_vader
+1312,1312,0.9999779560421236,2.2043957865606388e-05,0.0,0.7879999999999999,0.212,The timing and the medication roulette could not be more awful.,compound,0,neu_vader
+1313,1313,0.9846226626392164,0.015377337360792652,0.304,0.608,0.08800000000000001,"I struggle with suicidal thoughts ALOT, I feel worthless, a burden to other people, waste of space shit like that the meds help and I'm back in therapy but the thoughts never seem to go away.",compound,0,neu_vader
+1316,1316,0.9942949407538232,0.005705059246180812,0.10099999999999999,0.7909999999999999,0.10800000000000001,"Sadly I couldn't fill them for about a week, but now that I'm a few weeks in I think I finally may have found my combo, which is amazing cause I lost count after a dozen different meds and this is try 3 for both, though first time together.",npadvmod,0,neu_vader
+1334,1334,0.9999710597640844,2.894023592138544e-05,0.239,0.7609999999999999,0.0,"I have been on anti depressants but not bipolar medication, what is the difference?",attr,0,neu_vader
+1337,1337,0.9990856157618132,0.0009143842381744144,0.0,0.758,0.242,After I got out of the hospital I felt really awesome glad to be home and the medications they gave me seamed to be working (zyprexa=mood stabilizer; zoloft=antidepressants).,conj,0,neu_vader
+1353,1353,0.9993199073177652,0.0006800926822336866,0.077,0.687,0.235,"I'm on the best medication regime I've ever had - just one med, but it's very effective and has almost no side effects for me.",compound,0,neu_vader
+1360,1360,0.9997090488877284,0.00029095111228793867,0.0,0.856,0.14400000000000002,I got a call from the county today who is supposed to help me get on meds long term.,amod,0,neu_vader
+1367,1367,0.98307610963009,0.016923890369914266,0.045,0.871,0.084,"I've never been an alcoholic but have always enjoyed alcohol and have always had a few beers in the fridge to unwind with after work most days but have stopped drinking completely since becoming medicated (Quetiapine), mainly because of how it interacts with and potentiates the meds effects a lot.",compound,0,neu_vader
+1373,1373,0.9995376334437392,0.0004623665562799259,0.077,0.9229999999999999,0.0,"Over the years I have combated this issue with all that I could, using cognitive therapy and medication in tandem  to fight against the invisible force that would hold me hostage in my home.",conj,0,neu_vader
+1384,1384,0.9994513456644808,0.0005486543355167279,0.0,1.0,0.0,"I've been trying to find the right medication combo for... seven years, this August.",compound,0,neu_vader
+1397,1397,0.9999714303942012,2.856960580473927e-05,0.0,1.0,0.0,"What is this medication  
+Why does it hold me back?",attr,0,neu_vader
+1404,1404,0.999871308323327,0.00012869167667544894,0.0,1.0,0.0,"But anyway, here are my meds, can you guys tell me if you think I should see a difference in my mood if I am actually bipolar?",attr,0,neu_vader
+1405,1405,0.9999695473002668,3.0452699739275592e-05,0.0,1.0,0.0,"One question:
+-IF someone was set off with Mania when they were prescribed anti-anxiety (SNRI) medication is that indicative of Bipolar?",npadvmod,0,neu_vader
+1406,1406,0.9999710514653616,2.8948534654731988e-05,0.0,1.0,0.0,I know it's not my other meds because I've been on them before.,attr,0,neu_vader
+1416,1416,0.9929542433011436,0.007045756698859444,0.076,0.86,0.064,"This year, the clinic I was going to dropped my care (maybe because I demanded they mail me medication because I tried picking it up on a day they were closed, then tried demanding gas money, then I proceeded to tell this secretary of a christian non-profit ever fallacy in their operations.)",ccomp,0,neu_vader
+1442,1442,0.9999714206494659,2.8579350525364467e-05,0.071,0.929,0.0,I know that no one can give medical advice here but just wondering about what a manic phase is opposed to medicine side effects?,compound,0,neu_vader
+1450,1450,0.9999801279158494,1.9872084149966724e-05,0.11800000000000001,0.745,0.13699999999999998,"vitamin d and iron replacements and testosterone shots
+
+
+he stopped all my meds 2 days ago.",npadvmod,0,neu_vader
+1452,1452,0.9967600415294166,0.003239958470581145,0.0,0.919,0.081,I've been going through a bunch of medication changes so I was writing these episodes off to that but it's becoming more obvious that it's a reoccurring thing during certain times of the month.,compound,0,neu_vader
+1469,1469,0.9916908639817348,0.008309136018274996,0.159,0.778,0.063,"We've been doing well lately with a couple small exceptions, despite the fact that I've been miserably rapid cycling for close to a month now (uninsured, waiting on treatment, no meds).",npadvmod,0,neu_vader
+1470,1470,0.9995571720253068,0.0004428279746904922,0.179,0.821,0.0,The moral of my story...is I thought it was the medicine to blame.,attr,0,neu_vader
+1472,1472,0.9986842848830312,0.001315715116968833,0.0,1.0,0.0,"The reality is that nobody can diagnose someone through a post on the internet, regardless of a background in psychology or medicine.",conj,0,neu_vader
+1485,1485,0.9965210973910376,0.0034789026089627746,0.0,1.0,0.0,The lithium is the first medication that has really helped me get out of my slump a bit.,attr,0,neu_vader
+1486,1486,0.9996958547880214,0.00030414521199777385,0.0,1.0,0.0,One medication at a time.,ROOT,0,neu_vader
+1487,1487,0.9999930843686922,6.9156313248522736e-06,0.452,0.5479999999999999,0.0,Therapy and medicine failed me.,conj,0,neu_vader
+1490,1490,0.9999289712565488,7.102874345082137e-05,0.441,0.5589999999999999,0.0,All of my medication combos have left me severely depressed.,compound,0,neu_vader
+1521,1521,0.9842778076174922,0.015722192382513187,0.0,0.9129999999999999,0.087,"I have been off meds for 4 months, dealing well with the end of a long term relationship and way more social than in the past.",npadvmod,0,neu_vader
+1525,1525,0.9999594232791968,4.0576720799093175e-05,0.299,0.701,0.0,I need to lose all of this medicine weight!,compound,0,neu_vader
+1526,1526,0.9998416040776136,0.00015839592237295948,0.0,0.73,0.27,5+ years of medicine weight gain and I need it to go!,compound,0,neu_vader
+1548,1548,0.9997352295209574,0.00026477047905057156,0.113,0.69,0.19699999999999998,"However, since I'm stable and doing fine, I'm wondering if it's the meds causing the memory loss.",attr,0,neu_vader
+1550,1550,0.9999503089205424,4.969107945610288e-05,0.0,1.0,0.0,"Not exercise, not meditation, not diet, not staying up all night, not even psychiatric meds.",appos,0,neu_vader
+1560,1560,0.9998960704702892,0.0001039295296967828,0.0,0.687,0.313,I feel like this is a really intense medication to start out on.,attr,0,neu_vader
+1561,1561,0.9999583876747212,4.161232527839998e-05,0.0,1.0,0.0,I am just now beginning medication treatment for bipolar.,compound,0,neu_vader
+1568,1568,0.99988772934878,0.00011227065121395974,0.231,0.5479999999999999,0.222,"I miss hallucinating and going crazy 
+
+I miss being insane...what the fuck is wrong with me...I shouldn't be upset that that I'm normal and happy and everyone is so much happier with me medicated I just don't feel like its me they love and its the meds.",conj,0,neu_vader
+1578,1578,0.9998716055691386,0.00012839443087096124,0.0,0.818,0.182,I'm aware that this depends on the person and medication but I'm interested in hearing about this.,conj,0,neu_vader
+1579,1579,0.986549993680268,0.01345000631973355,0.0,0.9540000000000001,0.046,"* Spotify :  Katie Lee –  [*The Get Well March*] (https://open.spotify.com/track/1K9cACwj3OXIlgSnb1lwXh) (1'54"")
+ 
+&amp;nbsp;
+
+In the days when therapy rather than medication was the vogue the  folk singer [Katie Lee] (https://en.wikipedia.org/wiki/Katie_Lee_(singer))  released two albums; [*Songs of Couch and Consultation*] (https://open.spotify.com/album/1LIJ0eGi7SKHJXaTTkZ1Fk) (1957), and [*Life is Just a Bed of Neuroses*](https://open.spotify.com/album/6NlFKMWoYRYHnUsVs4Z2Y5) (1960).",conj,0,neu_vader
+1584,1584,0.9998801032292656,0.00011989677072409685,0.0,0.892,0.10800000000000001,"I should mention that is was not exclusively sleep aids that would trigger her psychotic episodes, but on several occasions other medicines as well.",conj,0,neu_vader
+1585,1585,0.9997739164157908,0.00022608358419479882,0.063,0.937,0.0,"She was kept at the center for a little over a week, and began taking a low dosage anti-psychotic medicine (maybe anti-manic medicine I can't remember what the doctor said) along with other counselling and treatment.",appos,0,neu_vader
+1589,1589,0.9999697835498104,3.021645019106496e-05,0.095,0.828,0.077,Do they really teach psychiatrists to diagnose disorders like that in meds schools or are psychiatrists just incompetent because nobody evaluate and verify their competence once they finish school?,amod,0,neu_vader
+1609,1609,0.9996618885945252,0.0003381114054568444,0.068,0.932,0.0,"Over the past few years she has been virtually UN medicated because either meds she tried before stopped working, or she could not tolerate the side effects.",advcl,0,neu_vader
+1630,1630,0.99830370988919,0.0016962901108101495,0.0,0.877,0.12300000000000001,"I'm on abilify, klonopin, &amp; stallera, as well as prednisone &amp; a few other meds/chemo for RA.",attr,0,neu_vader
+1632,1632,0.9999902065934124,9.793406588034473e-06,0.138,0.862,0.0,Can anyone describe some medications stories about how they were affected?,compound,0,neu_vader
+1633,1633,0.9998623752413911,0.00013762475860709387,0.14300000000000002,0.857,0.0,His paranoid tendencies greatly subsided after two hospitalizations and the right anti-psychotic medication.,conj,0,neu_vader
+1650,1650,0.9947291833967224,0.005270816603282294,0.067,0.905,0.027999999999999997,"I know I probably repeated myself a few times and that this is probably more of a relationship advice type thread, and I apologize for that - but since this is such a drastic change in his personality from before, I can't help but wonder if it's his medicine?",attr,0,neu_vader
+1654,1654,0.9994369593521208,0.0005630406478781693,0.0,0.6940000000000001,0.306,"I am pretty well medicined, except when it comes to my rare cases of hypomania.",acomp,0,neu_vader
+1661,1661,0.999988997878946,1.1002121057606116e-05,0.0,0.7829999999999999,0.217,"Are there any therapies, workbooks, or medicines you would recommend?",conj,0,neu_vader
+1686,1686,0.9974038615000976,0.002596138499889481,0.064,0.9359999999999999,0.0,I later learned that I had been prescribed far too much Lithium - tell that to the closet of clothes that don't fit right now :P. I still owe my university for my diagnosis and medication.,conj,0,neu_vader
+1697,1697,0.9999669964206068,3.300357940562821e-05,0.688,0.312,0.0,No meds.,ROOT,0,neg_vader
+1700,1700,0.9992975166314824,0.0007024833685285392,0.106,0.784,0.11,Following this meeting I devoured literature on bipolar disorder and the medications I was taking and the wikipedia explanations of manic phases rang true.,conj,0,neu_vader
+1704,1704,0.9999282960557928,7.170394421153513e-05,0.0,0.8220000000000001,0.17800000000000002,And since then I’ve been incredibly careful to stick to my medication regimen and make it my top priority.,compound,0,neu_vader
+1718,1718,0.9727679379768194,0.027232062023179186,0.166,0.8340000000000001,0.0,"The previous visit she made a comment that she wasn't completely convinced I wasn't bipolar but she'd have to look into it further... so as soon as I told her I related to the symptoms of atypical depression almost as much as I did ADD she jumped on that and prescribed me Lamotrigine, which I know is a medication for bipolar disorder.",attr,0,neu_vader
+1747,1747,0.9998722112300572,0.00012778876994505695,0.226,0.774,0.0,"And scared of the ECT scheduled for Friday, of course, which I can no longer medicate-away the fears of (my money, bank card, car keys, meds etc have all been confiscated.)",conj,0,neu_vader
+1752,1752,0.9997525701620279,0.00024742983795437735,0.0,0.726,0.27399999999999997,Therapy and medication only go so far in helping you; Sometimes you have to give yourself a hand.,conj,0,neu_vader
+1756,1756,0.9999835091238162,1.6490876176612586e-05,0.109,0.835,0.055999999999999994,I have been thinking strongly about going onto some new medication and some anti anxiety medication... but there are so many factors that are overwhelming to me.,conj,0,neu_vader
+1768,1768,0.9999726685754484,2.7331424558956306e-05,0.128,0.847,0.025,"For any of you that know anything about blood sugar it was bad, I was having consistent high morning blood sugars no matter what I did to control it (like 400 high) I had no choice but to quit the medication cold turkey.",nmod,0,neu_vader
+1778,1778,0.9992484402134868,0.0007515597865019268,0.0,1.0,0.0,"Within the past year or so, I began to eat at least one to two meals a day again, and then more recently have been working on my medication balance.",compound,0,neu_vader
+1781,1781,0.9999844251398164,1.5574860168656467e-05,0.0,1.0,0.0,"I was wondering;     
+1) how many people have any proper education in psychology, medicine, biochem, neuroscience, statistical analysis etc?",conj,0,neu_vader
+1787,1787,0.99971209085217,0.00028790914782555685,0.21600000000000003,0.784,0.0,I'm sick of this meds dance that I've been in since I was 13.,amod,0,neu_vader
+1788,1788,0.9999843660743246,1.5633925666789843e-05,0.5760000000000001,0.424,0.0,I have had several anxiety attacks and no meds.,conj,0,neg_vader
+1820,1820,0.9994326842191692,0.0005673157808198423,0.0,1.0,0.0,"My therapist said I should ask other people inflicted with BPI and see what they have to say about it, I know for a fact that it is my medication, but is it too much?",attr,0,neu_vader
+1831,1831,0.9999587287830262,4.1271216958131296e-05,0.0,0.932,0.068,"She opened and maxed out several cards, bottomed out and over drafted bank accounts on things that aren't returnable and now I am left scrambling for some money for very basic things like house hold bills and her medicine / therapy.",nmod,0,neu_vader
+1842,1842,0.9897189036044688,0.0102810963955218,0.0,1.0,0.0,"That brings my medication cost to an estimated $250 (estimated by the pharmacist), which could change (read: increase) based on how the insurance company would view a new prescription order from a new doctor or something.",compound,0,neu_vader
+1856,1856,0.9999694089392056,3.059106080668454e-05,0.0,1.0,0.0,I'm calling my doctor tomorrow to ask for an appointment and some heavier meds.,conj,0,neu_vader
+1858,1858,0.9999224665308191,7.753346917753408e-05,0.0,0.912,0.08800000000000001,What did you do when you found out and did the treatment for that physical ailment help your physical and mental state without needing the BP meds any more?,conj,0,neu_vader
+1870,1870,0.9999626476952592,3.735230474084801e-05,0.0,1.0,0.0,It's Friday so I take my meds two hours late because I go to group.,amod,0,neu_vader
+1873,1873,0.9997165420416227,0.0002834579583664756,0.162,0.838,0.0,She even went as far as refusing completely to comply with the doctors medication suggestions.,compound,0,neu_vader
+1912,1912,0.9999205041245524,7.949587545421335e-05,0.055,0.8690000000000001,0.077,"Hi guys,lately I have been pretty stable in my life after being diagnosed with bp1 (getting help,regular psychiatrist meetings and medication) but I feel completely empty and I think to myself that before atleast I could feel things,connect with people and I'm starting to become more and more withdrawn.",conj,0,neu_vader
+1934,1934,0.9999665739053434,3.342609464663429e-05,0.0,1.0,0.0,Pdoc wants to see if tweaking my meds levels things out.,compound,0,neu_vader
+1936,1936,0.9999602929971682,3.9707002846435074e-05,0.0,1.0,0.0,The permanent one is Lamictal which ironically is an anti-seizure medication.,attr,0,neu_vader
+1951,1951,0.9972622606779812,0.0027377393220353306,0.0,1.0,0.0,"I came into this understanding that there will always be some side effects, and that there isn't really a ""perfect"" bipolar medication available yet.",attr,0,neu_vader
+1958,1958,0.9999823049093391,1.7695090648059353e-05,0.0,1.0,0.0,20+ medications later and I'm just done.,npadvmod,0,neu_vader
+1978,1978,0.9997397398609283,0.00026026013905908977,0.10300000000000001,0.897,0.0,At 630 my alarm went off and I took two more 20mg of geodon and all my other meds I usually take at 730.....,conj,0,neu_vader
+2001,2001,0.9910281354704359,0.008971864529561445,0.391,0.609,0.0,"I've been diagnosed with a lot of different things, with severe depression and anxiety, diff therapists, meds, not a lot of help.",conj,0,neu_vader
+2010,2010,0.9999459299909884,5.407000901619902e-05,0.0,1.0,0.0,"I don't know how that is for scale, but it's both too many pills, and not enough medicine.",conj,0,neu_vader
+2014,2014,0.9998717708646572,0.00012822913533417702,0.08900000000000001,0.728,0.182,"Forgetting about my illness and resuming ""normality"" has been the greatest medication I have at the moment and I want it to stay the way it is.",attr,0,neu_vader
+2022,2022,0.9771760397030028,0.022823960296991217,0.0,0.866,0.134,"This, along with the amount that I was drinking, resulted in about 10 stone of weight gain and enough medication to knock out a Horse.",conj,0,neu_vader
+2039,2039,0.9998342601757798,0.00016573982421727893,0.0,1.0,0.0,I haven't been off these meds in &gt;8 years.,npadvmod,0,neu_vader
+2047,2047,0.9983145581803664,0.0016854418196406821,0.0,0.86,0.14,"I have tried a number of things, meds, life-style changes, etc.",conj,0,neu_vader
+2056,2056,0.9999943549594618,5.645040546597413e-06,0.0,0.8759999999999999,0.124,I guess I dont have any real questions besides what can I do to help cope with all this that is not medicine.,attr,0,neu_vader
+2063,2063,0.9996896056931841,0.00031039430680862,0.243,0.667,0.09,I suffer from bipolar disorder (diagnosed) and have been curious to see what type of medication treatments others have been on.,compound,0,neu_vader
+2070,2070,0.9977322445224558,0.002267755477540178,0.0,0.8740000000000001,0.126,I know there are meds that will help me get out of  this funk and back to a more stable state but I'm afraid of going back on antidepressants.,attr,0,neu_vader
+2078,2078,0.9999520275627666,4.797243723386152e-05,0.0,0.588,0.41200000000000003,"Well, I was prescribed medication.",ROOT,0,neu_vader
+2086,2086,0.9960382060787064,0.0039617939212930435,0.142,0.858,0.0,"I also didn't sleep well on it, so that didn't become a regular medication.",attr,0,neu_vader
+2087,2087,0.99987594531567,0.0001240546843112987,0.139,0.602,0.259,"I'd love to hear about any stories, mechanisms, rituals, supplements, or even meds that help you all through anger.",conj,0,neu_vader
+2111,2111,0.999529672774683,0.0004703272253294459,0.0,0.7070000000000001,0.293,"Bipolar ll in remission (no meds and healthy over 3 years) 
+
+I've recently started smoking thinking it would be a nice relaxing way to chill out.",appos,0,neu_vader
+2115,2115,0.99816823873388,0.0018317612661284878,0.063,0.8859999999999999,0.052000000000000005,I reached out to the office of students with disabilities and got someone to take notes for me due to my hands shaking from medication side effects.,compound,0,neu_vader
+2122,2122,0.9998336393617074,0.00016636063827759752,0.0,1.0,0.0,Following jail and court ordered medication (lithium) I have gotten control of my life enough to move forward again.,nmod,0,neu_vader
+2160,2160,0.9998538986313434,0.00014610136866142646,0.0,1.0,0.0,"This was the first time I realized I may be manic, my weekend doctor observed this in me but didn't know if I was bipolar or it was the meds.",attr,0,neu_vader
+2173,2173,0.9982544112526848,0.0017455887473284163,0.0,1.0,0.0,Six months into the relationship she experiences her first mixed episode (several months after a medication step-down) and rips me new ones emotionally and socially.,nmod,0,neu_vader
+2183,2183,0.9995157790352128,0.0004842209647700023,0.276,0.7240000000000001,0.0,"- suicide prevention
+- when is the right/wrong time to ""talk about it""
+- changing medication
+- coercion into therapy (again)
+- communicating through mania
+
+- dealing with my own frustration
+- when not to just ""let it slide""
+- dealing with him blaming me
+- dealing with my guilt about doing the wrong thing sometimes",compound,0,neu_vader
+2191,2191,0.9999628181842874,3.718181569306078e-05,0.231,0.769,0.0,"do you think age, time off drugs(~3 years), drug/alcohol/nicotine abuse, will influence current medication needs?",compound,0,neu_vader
+2200,2200,0.9999423422251345,5.7657774846748315e-05,0.0,1.0,0.0,Is there any kind of alternative treatments besides therapy and medication?,conj,0,neu_vader
+2216,2216,0.9999334908973232,6.650910267408131e-05,0.0,1.0,0.0,"Even if I could find one, I don't have the money for the appointment or meds.",conj,0,neu_vader
+2220,2220,0.9999859137783952,1.408622159058202e-05,0.0,0.815,0.185,"My meds : depakine 500, abilify 5mg, paroxetine 20 
+
+Anyone feels like this ?",ROOT,0,neu_vader
+2222,2222,0.9999414144731908,5.8585526823824876e-05,0.0,0.892,0.10800000000000001,"And this morning, while I was still calm, before I had coffee or my morning meds, I realized I had not showered in 4 days.",conj,0,neu_vader
+2225,2225,0.9904118966555392,0.009588103344474123,0.083,0.8059999999999999,0.11," I have been taking lithium for one year, and although it is the only medication that has had *any* effect in controlling my disease, it has also been the source of great suffering.",attr,0,neu_vader
+2238,2238,0.9998258075791868,0.00017419242083211478,0.193,0.807,0.0,"It seems the right medication, not Jesus, will save me from myself.",oprd,0,neu_vader
+2246,2246,0.9996652713690738,0.00033472863094522284,0.21600000000000003,0.784,0.0,"For bipolar disorder it seems as though everything can effect it, exercise, sleep, nutrition, relationships, stress and what doctors give us, medication.",conj,0,neu_vader
+2247,2247,0.9983319209237782,0.0016680790762050098,0.084,0.9159999999999999,0.0,"No meds on a regular, scheduled basis, except the following as a PRN: clonazepam (Klonopin), Trazadone, or Seroquel 25mg when I need it (on nights I haven't been drinking).",ROOT,0,neu_vader
+2267,2267,0.9998994191782888,0.00010058082170730844,0.256,0.62,0.124,"without therapy and meds, are we just the unlucky chosen to struggle and pretty much be left for dead?",conj,0,neu_vader
+2282,2282,0.999947884262487,5.211573752080087e-05,0.0,1.0,0.0,Anyone have any insight as to how I could expedite the medication process?,compound,0,neu_vader
+2287,2287,0.9979649072138262,0.002035092786182915,0.195,0.805,0.0,"At what point do I need to put into writing exactly what problems I'm having, and explain to a fucking psychiatric clinic what Bipolar disorder is, and how it and my medications have directly affected my sleep to the point of missing doctor's appointments and being late to work, or missing nights of sleep?",conj,0,neu_vader
+2300,2300,0.9999669964206068,3.300357940562821e-05,0.0,1.0,0.0,Bye bye medication.,ROOT,0,neu_vader
+2301,2301,0.999960916772139,3.90832278745815e-05,0.127,0.68,0.193,"I'm terrified of accepting this huge part of me that is just like my mother (ironic because she never stays on her damn meds and I'm currently off-meds, making me more like her than if I would just man up about this, huh?).",acomp,0,neu_vader
+2302,2302,0.9998775109553162,0.0001224890446779099,0.0,0.8759999999999999,0.124,"Life is heavy right now as things begin to go into winter where I'm at, as well as my financial concerns, medication concerns, romantic concerns, and education concerns that have been building up over some time.",compound,0,neu_vader
+2307,2307,0.995526086632105,0.0044739133679004,0.0,1.0,0.0,"I went from INTJ, after a few years of therapy and medication.",conj,0,neu_vader
+2313,2313,0.9999950895833929,4.910416598037911e-06,0.0,0.902,0.098,I want to know if this is just because I am bipolar or my medication?,conj,0,neu_vader
+2314,2314,0.9992484402134868,0.0007515597865019268,0.0,1.0,0.0,"Within the past year or so, I began to eat at least one to two meals a day again, and then more recently have been working on my medication balance.",compound,0,neu_vader
+2318,2318,0.9894730950485136,0.010526904951469672,0.121,0.879,0.0,"I tried out six different therapists and four different medications, including varying doses of Lexapro and Prozac (which gave me a tic that presents during panic attacks).",conj,0,neu_vader
+2357,2357,0.9998991147447968,0.0001008852551940702,0.0,1.0,0.0,"Maybe it isn't the meds, maybe it's hypomania?",attr,0,neu_vader
+2361,2361,0.9999658867871628,3.41132128181356e-05,0.0,1.0,0.0,I'm 20 years old bipolar take 3 diff meds etc.,compound,0,neu_vader
+2365,2365,0.9994439210950326,0.0005560789049693905,0.091,0.475,0.435,"Maybe five solid months of feeling pretty good, little if any genuine medications and most certainly no medicinal routine.",appos,0,neu_vader
+2375,2375,0.9961539671746916,0.003846032825308453,0.0,1.0,0.0,"I've been on a consistent medication regimen for the last 1-2 years, on and off meds for the last 8 years.",compound_npadvmod,0,neu_vader
+2377,2377,0.9999723813727338,2.761862728421177e-05,0.096,0.904,0.0,My girlfriend talked me off my meds because she thinks that it affected my sex drive.,dep,0,neu_vader
+2380,2380,0.999761138682711,0.00023886131729974693,0.27,0.73,0.0,"I guess it's just confusing, because I am not sure what to say to a meds person to take me seriously.",amod,0,neu_vader
+2410,2410,0.9999422294265226,5.777057348157949e-05,0.276,0.7240000000000001,0.0,"Back STory:
+
+I have been one various medicines and dosages for severe depression and anxiety for 7-8 years now, effexor, paxil, ciprolex and now pristiq.",attr,0,neu_vader
+2418,2418,0.9964085706309518,0.003591429369052271,0.35100000000000003,0.649,0.0,My medication journey began in 2010/2011 with a diagnosis of anxiety and depression.,compound,0,neu_vader
+2426,2426,0.999942691724004,5.7308275978371985e-05,0.0,1.0,0.0,Several months and numerous medications have seemed to only inflame the situation...,conj,0,neu_vader
+2433,2433,0.9995514098234746,0.0004485901765053874,0.34600000000000003,0.654,0.0,I hate the medication dance that comes with it.,compound,0,neu_vader
+2446,2446,0.9999745102986785,2.5489701334678456e-05,0.0,0.885,0.115,"I've got BP 2 rapid/ultra-rapid cycling, lithium's the only medication so far to not give me awful side effects... until now.",attr,0,neu_vader
+2472,2472,0.9989004147942182,0.0010995852057817204,0.0,1.0,0.0,"Hey,
+I was diagnosed with BPII about a year ago and underwent several treatments (mostly medication) until I was rediagnosed with rapid cycling.",appos,0,neu_vader
+2479,2479,0.9999464595967108,5.3540403301832643e-05,0.0,1.0,0.0,I cannot afford more doctors and medication.,conj,0,neu_vader
+2483,2483,0.9958671090010304,0.004132890998979723,0.0,0.805,0.195,"Seroquel has by far, with Lithium a close second, the most effective medication I have ever taken.",appos,0,neu_vader
+2486,2486,0.9992002117442476,0.000799788255752374,0.10400000000000001,0.741,0.156,She agreed to pay for the appointment and medication out of pocket.,conj,0,neu_vader
+2492,2492,0.9999497507173922,5.024928259986305e-05,0.535,0.465,0.0,It's always hell switchin meds.,attr,0,neg_vader
+2505,2505,0.9999786278207556,2.137217924547884e-05,0.0,1.0,0.0,"and he said ""I don't have an answer for you"" and prescribed bipolar meds.",conj,0,neu_vader
+2521,2521,0.9999320760349368,6.792396507208628e-05,0.109,0.8909999999999999,0.0,"Hey, I am having problems in deciding what emotion is real, what is bipolar, what is medication induced, and what is caused by booze.",npadvmod,0,neu_vader
+2522,2522,0.9999424688891071,5.753111090571106e-05,0.0,1.0,0.0,"They halted all treatment, medications, contacts.",conj,0,neu_vader
+2524,2524,0.9819877019385528,0.01801229806145177,0.034,0.84,0.126,".. she's (w/ her Dr.) adjusting her meds a little this week, and is in the pms phase of things also ... she's come slightly off the rails, and is ready to send an email to quit her job over what is possibly a trivial issue... how can i best say ""honey you are PMSing and in a med adjustment please wait 48 hours before making serious life choices""?",ccomp,0,neu_vader
+2534,2534,0.9984282663076832,0.0015717336923352745,0.038,0.9279999999999999,0.034,"I've gone to my psychiatrist about it and he just said ""There really aren't any anxiety medications"" and that he wouldn't prescribe Xanax to a teenager when my mother suggested it (although that was when I was 17 and I am 18 right now, I'm not sure if he'd consider that any different).",attr,0,neu_vader
+2540,2540,0.9997355600218292,0.00026443997818819184,0.0,0.721,0.27899999999999997,I returned to therapy and meds last month and it seems like I'm feeling fine for several days now.,conj,0,neu_vader
+2552,2552,0.9991167344602044,0.0008832655397831614,0.16699999999999998,0.7070000000000001,0.126,Then probably a month later I was off my medicines for like 5 days because I was sick of them.,attr,0,neu_vader
+2557,2557,0.9999679757595568,3.202424045769395e-05,0.0,0.741,0.259,Certain meds that go with Bipolar NOS?,ROOT,0,neu_vader
+2563,2563,0.999974163902378,2.5836097632097727e-05,0.0,0.8009999999999999,0.19899999999999998,"I haven't encountered any bad side effects yet, so this might be the medication for me !!!",attr,0,neu_vader
+2565,2565,0.9999257530028844,7.424699711876366e-05,0.0,1.0,0.0,She's extremely medication-sensitive--especially when drowsiness or nausea are listed side effects.,npadvmod,0,neu_vader
+2570,2570,0.999946574052596,5.34259474096697e-05,0.10800000000000001,0.8009999999999999,0.091,"I'm trying my best to stay on track (meds, psychiatrist, psychologist) but my parents say I'm crazy and don't try to fix it at all.",dep,0,neu_vader
+2573,2573,0.9996700066884568,0.00032999331153196266,0.0,1.0,0.0,"i went into a wild psychosis and got a 5150, 10day inpatient, meds, etc, and everything.",conj,0,neu_vader
+2581,2581,0.9984601611510296,0.001539838848965975,0.0,0.9229999999999999,0.077,I am an older female with type 1 who has been getting treatment for several years now and is more or less on a stable meds cocktail.,compound,0,neu_vader
+2593,2593,0.999109175207343,0.0008908247926599994,0.147,0.853,0.0,"Soon, she's going to notice that something is wrong with me, I see doctors a lot, I take meds morning and night.",compound,0,neu_vader
+2596,2596,0.9989031721107192,0.0010968278892700175,0.0,0.8420000000000001,0.158,"Anyways, I am just glad to (hopefully) be getting into the right kind of treatment and medications now.",conj,0,neu_vader
+2597,2597,0.9994830565490872,0.0005169434509279891,0.0,1.0,0.0,He said he usually does a 2 medication combo for bipolar patients.,compound,0,neu_vader
+2600,2600,0.999757064363904,0.0002429356361044106,0.0,1.0,0.0,"It's been a year since my ""official diagnosis"" and medication.",conj,0,neu_vader
+2616,2616,0.9997267825142988,0.0002732174857063126,0.192,0.715,0.094,I was put on an SSRI again (I swear to god those are the most useless medications ever) and welbutrin.,attr,0,neu_vader
+2619,2619,0.9998252678319638,0.00017473216803600474,0.267,0.589,0.14300000000000002,"The more meds the better, just as long as I can't hear myself think..
+
+Fuck dude :/",dep,0,neu_vader
+2621,2621,0.9999951121011474,4.88789884091562e-06,0.099,0.9009999999999999,0.0,"Until I am no longer covered, have this preexisting condition, and can't afford health insurance and thus my psychiatrist and my meds.",conj,0,neu_vader
+2623,2623,0.9999483521052088,5.164789478148493e-05,0.21100000000000002,0.621,0.168,"If I don't know how to act socially, will meds help or hurt?",ROOT,0,neu_vader
+2637,2637,0.9994574372376128,0.0005425627624034089,0.0,1.0,0.0,"When I'm either in a manic or a mixed episode (like I am right now), I sleep anywhere from 5 to 0 hours a day, even when taking sleeping pills and antipsychotic medication.",conj,0,neu_vader
+2651,2651,0.9997251820415683,0.00027481795844847446,0.11900000000000001,0.7759999999999999,0.105,About a year ago I quit taking the medication cold turkey and ended up getting into a huge fight with my parents.,nmod,0,neu_vader
+2656,2656,0.9994399150932098,0.0005600849067926694,0.174,0.826,0.0,I held back tears and finally lost it when I met with the nurse who discussed her diagnosis and the medications she was taking.,conj,0,neu_vader
+2659,2659,0.9996577922391569,0.0003422077608613928,0.0,1.0,0.0,"I met with my first psychiatrist and began my medication regimen, completely unguided by those before me but instead in the expert hands of my doctor.",compound,0,neu_vader
+2660,2660,0.9999649877789708,3.5012221040442714e-05,0.19699999999999998,0.8029999999999999,0.0,"If you have bipolar, you need clinically-tested, proven medication for your illness.",oprd,0,neu_vader
+2665,2665,0.99996905140608,3.094859392873797e-05,0.10300000000000001,0.897,0.0,I really don't want to rely on antipsychotics or benzodiazpenes or self-medication just to sleep.,conj,0,neu_vader
+2666,2666,0.9999449401602084,5.505983979357336e-05,0.0,1.0,0.0,"A Parkinson's medication, and it's addictive.",ROOT,0,neu_vader
+2680,2680,0.9993473270893802,0.0006526729106007285,0.08,0.92,0.0,"This medication, I might add, is so new that I had never heard of it, and that its mechanisms of action aren't well understood.",npadvmod,0,neu_vader
+2685,2685,0.9999692597799028,3.0740220100294395e-05,0.0,0.865,0.135,I'm bipolar II and I'm applying for an undergrad NSERC grant so I can study medication-induced cognitive blunting.,npadvmod,0,neu_vader
+2722,2722,0.9999202575657112,7.974243427837334e-05,0.0,1.0,0.0,I was wondering if it could be the meds.,attr,0,neu_vader
+2731,2731,0.9988813551331556,0.0011186448668486252,0.0,0.774,0.226,"Started a new medicine- Risperidone- and wow, what a difference it is to feel in control.",compound,0,neu_vader
+2745,2745,0.9872443113728662,0.012755688627136656,0.0,1.0,0.0,I was diagnosed with bipolar a few months ago and I've been able to handle the cost of medication psych visits through the university health center.,compound,0,neu_vader
+2749,2749,0.9972697545437266,0.0027302454562783763,0.0,1.0,0.0,"Night 1 I took a half dose so, 10 mg of Belsomra along with my other night time meds: 400 Seroquel, 300 trazodone, 900 mg lithium, 600 mg carbamazepine.",conj,0,neu_vader
+2751,2751,0.9992186742230976,0.0007813257768989649,0.11900000000000001,0.772,0.109,"If i am diagnosed, treated and the medication or whatever effects me in a way that *changes* me, perhaps in a negative way, will this actually make me happier?",conj,0,neu_vader
+2770,2770,0.9996408346983386,0.0003591653016648386,0.19699999999999998,0.7140000000000001,0.08800000000000001,"Everything about this is scary: the diagnosis itself, the medications and their side effects, and the thought of losing my ""ups,"" creativity, and individuality.",conj,0,neu_vader
+2777,2777,0.9992051384334396,0.0007948615665688606,0.0,0.902,0.098,"I see a psychologist and a psychiatrist, who agree that I am textbook type I, and I’m on the road to finding a medication cocktail that works for me.",compound,0,neu_vader
+2778,2778,0.9999215188700852,7.848112991533506e-05,0.086,0.914,0.0,"My psychiatrist thought it was depression, but after several visits and several medications (mainly antidepressants causing me to be hypomanic), he concluded that I am type II.",conj,0,neu_vader
+2782,2782,0.999834071341542,0.00016592865845796104,0.0,1.0,0.0,I know I need either a higher dose (she started me on 25mg on November 20th) or a new medication.,conj,0,neu_vader
+2789,2789,0.9993911626861058,0.0006088373138806713,0.0,0.87,0.13,"well I shouldn't read the rest of my medicine info, or eat hamburgers for my heart.",compound,0,neu_vader
+2794,2794,0.9997574571250556,0.00024254287496162084,0.0,0.7040000000000001,0.29600000000000004,If we're lucky we'd look forward to meds time because that's often our source of relief.,compound,0,neu_vader
+2797,2797,0.9883997644846868,0.01160023551529518,0.0,1.0,0.0,"The meds side effects are a sensitive topic for me, as there are a lot and they have changed who I am over the course of taking them.",amod,0,neu_vader
+2798,2798,0.9709129879549278,0.029087012045071824,0.0,0.883,0.11699999999999999,"A person, who with maybe the right combination of therapy and meds might not be dead or in jail and who might still be remembered as a person (i.e.",conj,0,neu_vader
+2803,2803,0.9982922166963574,0.0017077833036292002,0.134,0.866,0.0,"going for different anxiety meds tomorrow, might even try a different mood stabilizer.",advmod,0,neu_vader
+2808,2808,0.9999109591381083,8.904086190197674e-05,0.098,0.8,0.102,"For clarification, I'm curious to see if anyone after being diagnosed, has chosen no medication treatment, and use alternative options.",compound,0,neu_vader
+2813,2813,0.966253269052346,0.033746730947653375,0.0,0.86,0.14,"I sure have a lot to learn in keeping with my mental health care - mood journals, medication, therapy, education, but I think it's time I had a change of scenery.",conj,0,neu_vader
+2815,2815,0.9999739707850384,2.602921497860308e-05,0.0,1.0,0.0,Could it be my add medication exacerbating symptoms?,attr,0,neu_vader
+2830,2830,0.9995383069428789,0.0004616930571389932,0.171,0.8290000000000001,0.0,What other sort of non medication type things can I do to keep it from getting worse?,compound,0,neu_vader
+2834,2834,0.9999800020449184,1.999795508052281e-05,0.0,0.513,0.48700000000000004,I am currently pretty stable (thanks meds and therapy!),appos,0,neu_vader
+2838,2838,0.9994242983212556,0.000575701678727815,0.0,0.785,0.215,"I have a stable, full-time job that doesn't pay much but I have incredible health insurance that's definitely helped with paying for all my bipolar needs (psychotherapy, pdoc, meds).",appos,0,neu_vader
+2843,2843,0.999577493052424,0.0004225069475933157,0.084,0.9159999999999999,0.0,"We got her into a talk therapist for a couple months and today the psychiatrist confirmed, bipolar type I, medication prescribed, starting low and going slow.",compound,0,neu_vader
+2844,2844,0.999919876537258,8.012346274015071e-05,0.0,1.0,0.0,"She never explained what it was, and immediately prescribed medication.",conj,0,neu_vader
+2853,2853,0.9999851468967564,1.4853103238196842e-05,0.0,1.0,0.0,A medication thing?,compound,0,neu_vader
+2865,2865,0.9931895351268434,0.006810464873174366,0.0,1.0,0.0,I have questions though about some of the 'side effects' I think I'm having as a result of BP and/or the meds.,conj,0,neu_vader
+2880,2880,0.9989441293336488,0.0010558706663542964,0.0,0.8490000000000001,0.151,"During all of the good days I have, I know that it's not due to me getting better, but it's the medication just doing its job.",attr,0,neu_vader
+2882,2882,0.9995406378473428,0.0004593621526672073,0.0,1.0,0.0,Don't repeat episodes of mania/depression indicate to you that it's just the medication working?,attr,0,neu_vader
+2903,2903,0.998774485395207,0.0012255146047888588,0.155,0.845,0.0,"My docs say it's normal considering my mental health, chronic pain, and all the meds I take fore these ailments.",conj,0,neu_vader
+2909,2909,0.9997247060186752,0.00027529398133165696,0.0,0.73,0.27,"I'm not an idiot, I'm aware of how prescribing meds works and yes, I'm aware that I can change docs if I want to, which I already have, that's just common sense surely?",compound,0,neu_vader
+2912,2912,0.9999774484193212,2.255158066078888e-05,0.0,0.6,0.4,"[article][mania][depressed][medication] etc
+Happy mania week for me!",ROOT,0,neu_vader
+2919,2919,0.9999658881221756,3.411187783323419e-05,0.0,1.0,0.0,One thing holding me back is access to medication and the effects trips could have on me.,nmod,0,neu_vader
+2926,2926,0.9999652256034952,3.477439650573483e-05,0.18100000000000002,0.8190000000000001,0.0,Edit: Aaaaaand the mirror door over the medicine cabinet in the bathroom is now broken.,compound,0,neu_vader
+2940,2940,0.9999507549414968,4.9245058486995005e-05,0.0,0.7340000000000001,0.266,I'm still under good treatment with therapy and medication.,conj,0,neu_vader
+2941,2941,0.9999726744293492,2.732557063493537e-05,0.0,1.0,0.0,"[LifProTips](http://www.reddit.com/r/LifeProTips/comments/15zhpd/lpt_having_trouble_affording_your_medication_or/)
+
+[Health Trans Cashcard](http://cashcard.lc.healthtrans.com/Pages/default.aspx)",ROOT,0,neu_vader
+2944,2944,0.9999717225466684,2.827745333084496e-05,0.099,0.9009999999999999,0.0,I have no idea what meds she might be on and whether or not she will find a doctor once she is here.,relcl,0,neu_vader
+2950,2950,0.9999418459788592,5.815402112254419e-05,0.075,0.879,0.047,"I need a way to find a doctor with a cheaper copay (they were like $25 or $35 where I used to live) and keep getting my bipolar (and possibly anxiety) meds too, but I have no idea what I'm doing.",dep,0,neu_vader
+2951,2951,0.9974074914384816,0.0025925085615369626,0.13699999999999998,0.725,0.138,"I also haven't been on a stable medication combo yet, for what it's worth.",compound,0,neu_vader
+2961,2961,0.9997016699083304,0.0002983300916784023,0.0,0.8590000000000001,0.141,It wasn't until a police escort to his psychiatrist appointment was required that he was admitted to psychiatric care for a week and a half and extra meds were added to his routine.,conj,0,neu_vader
+2963,2963,0.9999314598009952,6.854019901678319e-05,0.0,0.8240000000000001,0.17600000000000002,Does anyone get their med refills from their primary care doc (general medicine) instead of a psychiatrist?,appos,0,neu_vader
+2968,2968,0.99997074953042,2.925046956457641e-05,0.0,1.0,0.0,Here's little background about myself and medication.,conj,0,neu_vader
+2970,2970,0.999979169587832,2.083041214973781e-05,0.203,0.7170000000000001,0.08,"I've tried mood stabilizers and antidepressant medications since I was 16 (now 23) and unfortunately, none have assisted in easing my illness.",conj,0,neu_vader
+2973,2973,0.9999668386495923,3.316135040829923e-05,0.162,0.662,0.175,"Plus, I have two teenagers to support, and if I divorce him, I will lose all my health benefits, which will mean no more therapy or meds.",conj,0,neu_vader
+2979,2979,0.9999425812675596,5.7418732447567575e-05,0.306,0.6940000000000001,0.0,"I was diagnosed with OCD, depression, and panic disorder many years ago, and I've been in treatment for those for some time now (meds and psychotherapy).",advcl,0,neu_vader
+2984,2984,0.9999901346495758,9.865350419349446e-06,0.0,0.722,0.278,Has anyone been there and did medication help?,compound,0,neu_vader
+2990,2990,0.9897265915582248,0.010273408441782726,0.0,0.769,0.231,"You also have to know that before being diagnosed, I've always had been against medication amd thought the idea of a ""happy pill"" was pretty absurd.",compound,0,neu_vader
+3008,3008,0.9989012867828152,0.0010987132171894774,0.05,0.862,0.08800000000000001,"What I'm really getting at is that no matter what progress I may make as a person, whatever coping strategies and medication keeps me relatively level headed, as soon as someone notices my scar I know it will bring me back to square one.",conj,0,neu_vader
+3010,3010,0.9999889579297558,1.1042070223186693e-05,0.0,1.0,0.0,Can this be the medicine?,attr,0,neu_vader
+3017,3017,0.9998939503880656,0.0001060496119338832,0.192,0.774,0.034,"I also really hate being bipolar, no matter how much I learn about it, how many techniques I learn on controlling my swings, or how many meds I try or don’t try.",conj,0,neu_vader
+3023,3023,0.9950053287125256,0.004994671287462795,0.057999999999999996,0.782,0.16,"I already know a lot about Bipolar Disorder and the medications used to treat it, but I feel like he gets enough of the clinical stuff from his therapist and psychiatrist.",conj,0,neu_vader
+3033,3033,0.9999025219408462,9.747805917259444e-05,0.0,1.0,0.0,Now I'm back on the medication rollercoaster and nothing feels right anymore.,compound,0,neu_vader
+3037,3037,0.9999830819588936,1.691804110194078e-05,0.0,1.0,0.0,I have zero medication fog too.,compound,0,neu_vader
+3040,3040,0.9998024733016452,0.00019752669834955652,0.414,0.586,0.0,"I mean if a psychiatrist can't help me, if there are no meds that can help me, and I'm too trapped in my own personal hell to help myself, than who can?",attr,0,neu_vader
+3042,3042,0.9999449401602084,5.505983979358204e-05,0.0,1.0,0.0,"Meditation, medication, therapy.",appos,0,neu_vader
+3053,3053,0.9965528649155404,0.003447135084457637,0.0,1.0,0.0,"When I left work the second day they were really understanding (I just said it was a medication problem), and today when I texted my boss.",compound,0,neu_vader
+3055,3055,0.9936830196000208,0.006316980399967082,0.094,0.9059999999999999,0.0,Because it has been so long since I was experiencing the severe swings I didn't have a real baseline to go by to compare my post-medication mood swings to.,compound,0,neu_vader
+3080,3080,0.9995426344298024,0.0004573655701819168,0.095,0.905,0.0,"She is very compliant with her medication regimen, and able to use cognitive exercises to bring herself down from less severe manic episodes.",compound,0,neu_vader
+3094,3094,0.9997574635983068,0.0002425364017078249,0.0,0.7909999999999999,0.209,"So, I'm surprising myself by keeping to my meds schedule.",amod,0,neu_vader
+3097,3097,0.9997406320259036,0.000259367974100283,0.14400000000000002,0.769,0.087,"I have since been medication free for the past 6 months, but still have problems remembering things from the year I was on Abilify.",npadvmod,0,neu_vader
+3100,3100,0.9999582076216996,4.1792378312028055e-05,0.191,0.809,0.0,"Ongoing issues I've been having include memory issues - I've always been forgetful, but I don't know if there is something more wrong with me, or if it's the medication.",attr,0,neu_vader
+3102,3102,0.9989413686715644,0.001058631328450257,0.0,1.0,0.0,"At the age of 22, and 34 medication later- I decided to quit.",compound,0,neu_vader
+3103,3103,0.9997899485414512,0.00021005145856585746,0.29600000000000004,0.7040000000000001,0.0,"I quit smoking, I quit being abusive to myself, I quite medication, I quit everything.",conj,0,neu_vader
+3107,3107,0.9973183008754728,0.002681699124528981,0.226,0.675,0.099,"It seems like his depressive episodes keep getting worse, even though he's been doing the medication trial-and-error dance for a while.",compound,0,neu_vader
+3117,3117,0.9989386249932128,0.0010613750067976064,0.063,0.649,0.28800000000000003,"Well, after an incredibly difficult year of finally seeking treatment, mood episodes, ups and downs, new medications and all out just feeling mental, I am so proud to have been accepted into my chosen Honours Program.",conj,0,neu_vader
+3127,3127,0.9999886727873384,1.1327212649276355e-05,0.0,1.0,0.0,My insurance policy *would* completely cover her therapy and meds ($1000+/month) except she totally blows off filing claims.,conj,0,neu_vader
+3138,3138,0.9995272771285204,0.00047272287147000165,0.0,1.0,0.0,Or at least a medication that has less dramatic side effects.,ROOT,0,neu_vader
+3140,3140,0.9999239869096088,7.601309037872873e-05,0.0,1.0,0.0,"Some brief hypomanic periods I can identify which, in my opinion, were likely medication induced.",attr,0,neu_vader
+3141,3141,0.9995639271524498,0.0004360728475468852,0.0,1.0,0.0,"Extended periods which I now recognize as mixed states which also, in my opinion, were likely medication induced.",npadvmod,0,neu_vader
+3143,3143,0.999880901193854,0.00011909880613835124,0.0,1.0,0.0,"I mean I am not totally on my real medicine dose I need, I'm on seroquel 100 mg (all in one pill) seroquel xr 300 mg, and 100 mg of lamictal.",compound,0,neu_vader
+3150,3150,0.9999665136591168,3.348634087139691e-05,0.10800000000000001,0.701,0.191,The medication side of it here is awful but hopefully I see my ward doctor today.,compound,0,neu_vader
+3153,3153,0.999996353143644,3.6468563589760285e-06,0.0,0.848,0.152,Has anyone else experienced something like this with an antidepressant or other medicine besides anti-anxiety?,conj,0,neu_vader
+3170,3170,0.9999772884904554,2.271150956257567e-05,0.0,0.618,0.382,Are there any super safe medication that is used specifically for mood instability?,attr,0,neu_vader
+3172,3172,0.9999948624853312,5.1375146693273114e-06,0.0,0.5660000000000001,0.434,Some medicine advice/experience please?,ROOT,0,neu_vader
+3173,3173,0.9996810905610816,0.00031890943892510734,0.23800000000000002,0.762,0.0,"My shrink wanted me on depakote for bipolar 2 instead of an ssri or lamictal and I suspected he was wrong, my brother in laws psychiatrist said it's the wrong medication.",attr,0,neu_vader
+3175,3175,0.9999044664420886,9.553355789622165e-05,0.0,1.0,0.0,So we all know our moods and medications can have a big impact on eating habits.,conj,0,neu_vader
+3178,3178,0.99998780319078,1.2196809227937025e-05,0.11900000000000001,0.746,0.134,I have tried therapy and meds for years and I don't know what can help my messed up brain.,conj,0,neu_vader
+3191,3191,0.997423861393157,0.0025761386068467035,0.20800000000000002,0.792,0.0,"I know that my depression is largely the result of current circumstances, but I can't help but feel that it may be slightly medication-related.",npadvmod,0,neu_vader
+3201,3201,0.99977007820792,0.0002299217920833379,0.081,0.809,0.11,"When I brought it up with my doctor she gently reminded me that ""not all meds work at first"" and refused to change them around.",amod,0,neu_vader
+3214,3214,0.9996595192248464,0.00034048077514494107,0.0,0.723,0.27699999999999997,i think most of the positive feeling about my diagnosis and medication is most likely the prozac.,conj,0,neu_vader
+3225,3225,0.999758414088202,0.00024158591181540362,0.0,1.0,0.0,I have to go in there tomorrow and explain to them all of this and probably end up with another medication switch.,compound,0,neu_vader
+3227,3227,0.9999606970797671,3.930292024516308e-05,0.0,1.0,0.0,I think it's time for me to start some therapy and medication again.,conj,0,neu_vader
+3229,3229,0.9999664986937152,3.350130629456809e-05,0.0,1.0,0.0,I've not been prescribed any other meds.,npadvmod,0,neu_vader
+3231,3231,0.938580479153186,0.06141952084682061,0.11,0.89,0.0,"So 2 years ago I was diagnosed as bipolar II after a breakdown that was the high point of 7 years of depression treatment, many medications, many counselors, many and various kinds of doctors etc.",conj,0,neu_vader
+3236,3236,0.99988830593389,0.00011169406609623735,0.0,1.0,0.0,"""Was it the medication?""",attr,0,neu_vader
+3244,3244,0.9998437137922404,0.00015628620776897387,0.0,1.0,0.0,We talked things over and basically she's just told me to find coping strategies and kept my meds the same.,ccomp,0,neu_vader
+3247,3247,0.9996028568701459,0.00039714312983511394,0.11800000000000001,0.838,0.044000000000000004,"and what really scares me is the other symptoms for depakote withdrawal include seizures even if you never had them (coupled with the scary zyprexa muscle spasms this sounds even more fucked)
+
+also of course listed for both meds withdrawal symptom is what it was treating.",compound,0,neu_vader
+3253,3253,0.9986759160842706,0.0013240839157247352,0.0,1.0,0.0,Does a mood stabilizer strictly have to be be part of your meds regime if you're bipolar?,compound,0,neu_vader
+3272,3272,0.9999520275627666,4.797243723386152e-05,0.359,0.6409999999999999,0.0,"Recently, I was perscribed stress reducing medication.",attr,0,neu_vader
+3277,3277,0.999679446230196,0.0003205537698051781,0.426,0.574,0.0,I fucking hate BIG PHARMA and western medicine's view of mental illness.,poss,0,neu_vader
+3303,3303,0.999831370516342,0.00016862948366600192,0.091,0.7090000000000001,0.201,"The meds seem to be helping, and my memory loss is going away, so the meds side effects are getting better.",nmod,0,neu_vader
+3305,3305,0.9999669964206068,3.300357940562821e-05,0.778,0.222,0.0,Fuck meds.,ROOT,0,neg_vader
+3306,3306,0.9999763394696086,2.3660530400409635e-05,0.0,1.0,0.0,"I take meds morning and evening, when do I take them?",compound,0,neu_vader
+3323,3323,0.9997832508130138,0.0002167491869860248,0.0,0.887,0.113,"Either way, she declares that she doesnt need ""fat girl"" meds like that, and will only take her Adderall and Xanax (of which she needs to take an entire bar to go to sleep) that she convinced some GP to prescribe to her.",conj,0,neu_vader
+3329,3329,0.9999675601751712,3.24398248269545e-05,0.0,0.8959999999999999,0.10400000000000001,That they admitted me into ICU for observation and medication and what not.,conj,0,neu_vader
+3330,3330,0.9987328818245936,0.0012671181754139002,0.0,0.87,0.13,I took a four day break from my Vyvanse then added Vistaril to my sleep meds to help with getting sleep.,conj,0,neu_vader
+3332,3332,0.9999001686127345,9.983138727850313e-05,0.0,1.0,0.0,The appointments she'll have to face and all the meds.,conj,0,neu_vader
+3336,3336,0.9986481709804941,0.0013518290195157663,0.22699999999999998,0.584,0.188,"I also suffer from PTSD, would it be a good medication for that?",attr,0,neu_vader
+3338,3338,0.9999775548271724,2.2445172843673262e-05,0.0,0.775,0.225,"Still pretty early in my medication career, so I know there are options.",compound,0,neu_vader
+3340,3340,0.9996763048766056,0.0003236951233979913,0.08,0.563,0.35700000000000004,"All in all, an insane experience, but I'm very glad and relieved that I'm meds'd up.",acomp,0,neu_vader
+3344,3344,0.9998969000997128,0.00010309990028237976,0.225,0.775,0.0,"Given this fact they've sent my counselor numerous emails saying things such as ""Lithium is the wrong medication for my son"" and ""There's no way that I'm actually suffering with this disorder"".",attr,0,neu_vader
+3347,3347,0.999998047558468,1.9524415459290693e-06,0.0,0.737,0.263,So...is Lithium (or other medicine) anything like this?,conj,0,neu_vader
+3351,3351,0.9999893707200084,1.0629279990210956e-05,0.0,1.0,0.0,So I am basically asking is the medicine doing what it should do?,attr,0,neu_vader
+3355,3355,0.999598543542614,0.0004014564573783541,0.048,0.9520000000000001,0.0,"Only one pdoc in my entire city takes my insurance and the earliest he could see me is July, but my meds need serious adjusting and I can't wait that long.",amod,0,neu_vader
+3358,3358,0.9993630047394017,0.0006369952605908152,0.0,0.7240000000000001,0.276,"May consider going to 1mg)
+
+&amp; I should be taking Ambien for insomnia, but I'm a little afraid considering my recent luck regarding medications haha.",compound,0,neu_vader
+3375,3375,0.9997553908021964,0.0002446091978075417,0.0,0.812,0.188,"I have a wonderful psychiatrist that I see when needed, and I've been off all psychiatric medications for **almost a year.",attr,0,neu_vader
+3385,3385,0.9998798458519684,0.00012015414804953879,0.0,1.0,0.0,I was diagnosed bipolar 5 years ago and am now 20 off meds for 2 years because I couldn't stand the side effects.,attr,0,neu_vader
+3395,3395,0.9997960281259359,0.0002039718740759408,0.12300000000000001,0.877,0.0,I'll never be sure if it was the medication or the bipolar that led to..,attr,0,neu_vader
+3402,3402,0.9998346734514888,0.00016532654850240434,0.42200000000000004,0.578,0.0,"the suicide attempts, the mixed episodes, the medication changes, the sleep deprivation.",compound,0,neu_vader
+3410,3410,0.9999937856644072,6.214335580373976e-06,0.212,0.64,0.14800000000000002,"Okay so backstory: 
+Parents and doctor took me off all meds an it's been like 2.5 weeks and ugh fuck all of this.",punct,0,neu_vader
+3419,3419,0.9999656277436432,3.437225636237111e-05,0.0,1.0,0.0,"I have been off meds for about 6 months, and have been diag.",advmod,0,neu_vader
+3426,3426,0.9996321507805096,0.0003678492194973597,0.0,0.948,0.052000000000000005,"I had myself voluntarily committed got out AMA, was prescribed lithium, smoked marijuana and fudged the doses of my meds which led me to ANOTHER psychotic episode and an involuntary hospitalization where they assigned me the meds i'm currently on.",appos,0,neu_vader
+3434,3434,0.9999780275462076,2.197245379566427e-05,0.0,1.0,0.0,I've only recently started therapy and medication.,conj,0,neu_vader
+3435,3435,0.99990231823088,9.768176911167318e-05,0.0,1.0,0.0,Before I was diagnosed and started therapy and meds I had many episodes and didn't realize it.,conj,0,neu_vader
+3437,3437,0.999903160465646,9.683953434261002e-05,0.115,0.769,0.115,Our goal is to raise awareness about mental illness and explore the research and medicine available to treat mood disorders.,conj,0,neu_vader
+3441,3441,0.9976106618161412,0.00238933818387598,0.0,0.746,0.254,"i should feel happy because this was the last powerfull medication to get off of, the previous being clozaril, the most powerful antipsychotic.",attr,0,neu_vader
+3463,3463,0.9931735137463801,0.0068264862536282405,0.0,0.9490000000000001,0.051,"However, I did text to apologize to both of them that I BBQ'd too long and had one too many beers in the sun (left out the medication part)....",compound,0,neu_vader
+3475,3475,0.999993276300495,6.723699491680367e-06,0.0,1.0,0.0,Any medicine changes?,compound,0,neu_vader
+3478,3478,0.9989169215149248,0.0010830784850904011,0.105,0.895,0.0,"(The last 20 months medication free)
+
+I know the risks of combining psychoactive substances and mental illness are nothing new, but is it common at all to be misdiagnosed as bipolar II?",npadvmod,0,neu_vader
+3480,3480,0.9999321173112674,6.78826887302976e-05,0.0,0.865,0.135,That I'm ready to go to regular therapy and be put on whatever meds the docotrs say.,pcomp,0,neu_vader
+3486,3486,0.9998145404227068,0.00018545957729239955,0.10099999999999999,0.698,0.20199999999999999,kind of serious question...i know too many meds blunts your creativity.,npadvmod,0,neu_vader
+3487,3487,0.9999175157868052,8.2484213176512e-05,0.0,1.0,0.0,She's been on her meds the whole time.,advmod,0,neu_vader
+3494,3494,0.9946706998991356,0.0053293001008468295,0.115,0.654,0.23199999999999998,"I'm finally feeling fed up of feeling just okay, and I want to see if I can get on less or no medication with a doctors approval, don't worry ;) I'm not just going to stop taking them suddenly as I know what that can do.",conj,0,neu_vader
+3504,3504,0.9999394274379618,6.057256202612479e-05,0.0,1.0,0.0,"School starts soon, meds.",npadvmod,0,neu_vader
+3505,3505,0.999966501141648,3.3498858368279345e-05,0.259,0.741,0.0,"Class is too hard, meds.",npadvmod,0,neu_vader
+3506,3506,0.9999449401602084,5.505983979358204e-05,0.0,1.0,0.0,"Unemployed, meds.",ROOT,0,neu_vader
+3510,3510,0.9999803413176184,1.9658682380838606e-05,0.0,1.0,0.0,So basically my medication M.D.,compound,0,neu_vader
+3511,3511,0.9992364254553756,0.0007635745446402589,0.0,0.8270000000000001,0.17300000000000001,"As a meds solution, we tripled my Pristiq (to 150mg, a very unusual dosage).",amod,0,neu_vader
+3512,3512,0.9993076789188982,0.00069232108110978,0.231,0.769,0.0,"So long story short:
+
+* We **dumped Abilify**- always a troublesome medication for me.",appos,0,neu_vader
+3515,3515,0.9991290927877008,0.0008709072122848228,0.10300000000000001,0.682,0.215,I am in treatment and taking an awesome cocktail of meds- it just doesn't feel fair.,punct,0,neu_vader
+3517,3517,0.9996007947662214,0.0003992052337645184,0.0,0.8909999999999999,0.109,"During a full assessment for ADHD (which, I guess, I do definitely have) the doctor who was seeing me asked if I could provide a full medication record.",compound,0,neu_vader
+3518,3518,0.9999713102195558,2.868978044696822e-05,0.239,0.7609999999999999,0.0,"When I gave her my full medication history, she immediately started suspecting bipolar disorder (probably type 2?)",compound,0,neu_vader
+3519,3519,0.9998382484626991,0.00016175153728960437,0.079,0.7440000000000001,0.177,"Things like, ""medication x gave me intense anxiety and heart palpitations"" or ""medication y caused me to become more depressedthan usual"".",compound,0,neu_vader
+3521,3521,0.9998342174714656,0.00016578252853315646,0.0,1.0,0.0,"I was also prescribed lamotrigine for treatment-resistant depression...and it's the only medication that HAS consistently ""worked"".",attr,0,neu_vader
+3525,3525,0.9959682501707472,0.0040317498292420095,0.0,0.852,0.14800000000000002,There's so much advice out there suggesting that a combination of therapy and medication helps the most.,conj,0,neu_vader
+3526,3526,0.9999842228630534,1.5777136948972956e-05,0.0,1.0,0.0,The medication part is obvious but what are you supposed to get out of therapy?,compound,0,neu_vader
+3542,3542,0.9999669964206068,3.300357940562821e-05,0.0,1.0,0.0,medication.,ROOT,0,neu_vader
+3548,3548,0.9999669964206068,3.300357940562821e-05,0.688,0.312,0.0,No meds.,ROOT,0,neg_vader
+3549,3549,0.999939610117608,6.038988238300346e-05,0.0,0.41700000000000004,0.583,it's the best medicine.,attr,0,pos_vader
+3558,3558,0.9999907240348708,9.275965127237283e-06,0.265,0.735,0.0,I don't know if it's just meds or if it's me trying to fuck myself over so I'll lose my job.,attr,0,neu_vader
+3566,3566,0.9997772114697172,0.00022278853027121918,0.0,1.0,0.0,"I realized it might be the meds, so I googled it.",attr,0,neu_vader
+3568,3568,0.9999712180924828,2.8781907509120045e-05,0.162,0.838,0.0,I was wondering if anyone has any thoughts or experience with ADD medication and bipolar disorder.,amod,0,neu_vader
+3571,3571,0.9989223553957032,0.0010776446042840963,0.0,0.8270000000000001,0.17300000000000001,After working with medication doses I have noticed a huge change in my life.,compound,0,neu_vader
+3573,3573,0.9945340124021472,0.005465987597867809,0.07200000000000001,0.9279999999999999,0.0,"It was brought on by the mixture of bipolar meds (Do not take Tegretol if you are not healthy, just my experience) and painrelief meds I started just over a month before.",npadvmod,0,neu_vader
+3623,3623,0.9999565772288436,4.3422771165036734e-05,0.0,0.789,0.21100000000000002,Alcohol becomes my new medication but it only calms me so much.,attr,0,neu_vader
+3625,3625,0.9965508315339741,0.0034491684660381263,0.0,1.0,0.0,We've been experiencing a long/cold Spring and at first I thought that was it since I'm fed up with it but now I'm thinking it' the meds.,ccomp,0,neu_vader
+3629,3629,0.9995151624408309,0.0004848375591622372,0.165,0.835,0.0,"I'm a 22 year old student, I've suffered with depression for years, have been on Prozac for about a year or a year and a half, I was off meds for a while before that and had been on Lexapro for a while previously.",attr,0,neu_vader
+3634,3634,0.9996360772765192,0.0003639227234834962,0.046,0.9540000000000001,0.0,"I am on my parent's insurance, they pay my bills for the most part since I can't work anymore, and they very much control everything to do with my psychiatrist and medications.",conj,0,neu_vader
+3640,3640,0.9998310139484468,0.00016898605155732255,0.0,0.828,0.172,"Interestingly, my doc has given me 3 choices of starting medications - lithium, lamotrigine, and abilify.",compound,0,neu_vader
+3643,3643,0.9246813498447524,0.07531865015525799,0.081,0.843,0.077,"Somewhat against my original wishes, and without meaningfully informed consent, I began taking Latuda, a newer atypical antipsychotic, acquiescing to the treatment only after a voice in my head (belonging to, I shit you not, the immortal extraterrestrial vampire Virgin Mary, and by the way, also the occult basis behind V in Alan Moore's *V for Vendetta*) told me that the pills were ""power medicine"" and would level up my defenses against Aleister Crowley's malign army of sorcerers, who counted my ex-girlfriend among their number.",attr,0,neu_vader
+3657,3657,0.9986785507192356,0.0013214492807639721,0.271,0.7290000000000001,0.0,"She told me that due to my frequent and debilitating panic attacks, my suicidality, my bipolar disorder, and my unmanaged psych meds, I should be in the hospital.",conj,0,neu_vader
+3665,3665,0.990106176007872,0.009893823992118436,0.247,0.753,0.0,"I resent medication/drugs as a whole, because of seeing my mother abuse them for so long, so I am generally not a medication-happy person.",dep_npadvmod,0,neu_vader
+3668,3668,0.9992992532524044,0.0007007467475856013,0.0,0.69,0.31,"The best medication in my opinion, and this is such a grey area, medical marijuana.",ROOT,0,neu_vader
+3669,3669,0.9997686794976758,0.0002313205023416743,0.0,1.0,0.0,Anyways with all that being said I've been off all pharmaceutical medications for the passed 9 months.,attr,0,neu_vader
+3670,3670,0.9999669964206068,3.300357940562561e-05,0.0,1.0,0.0,https://realmedication.wordpress.com/2015/08/13/my-take-on-bi-polar-1-and-bi-polar-2/,npadvmod,0,neu_vader
+3676,3676,0.9993696176598096,0.0006303823402014497,0.045,0.841,0.114,"Edit: In short, just express yourself as honest as possible, you could give me anything to what your last episode was like, how it made you feel, what went through your thought process, the meds you take or lack there of, anything to give me perspective.",dep,0,neu_vader
+3680,3680,0.9997135860086036,0.0002864139913791372,0.11800000000000001,0.75,0.133,"I hate my mood swings, meds every day...I'm not as sharp as I used to be, but, oh well.",npadvmod,0,neu_vader
+3684,3684,0.9999079150985136,9.208490150201519e-05,0.047,0.675,0.27899999999999997,"There are probably some great medications to help people with depression, you can ask your doctor about that... but if you can hold out things do get better and it's up to you to decide what's best for you.",attr,0,neu_vader
+3690,3690,0.9996849590907896,0.00031504090921277884,0.0,0.83,0.17,I ended up calling 911 from a payphone in my boxers and a Great Excape hoody because I came off my meds early and abruptly.,npadvmod,0,neu_vader
+3700,3700,0.9999372529834331,6.274701658132511e-05,0.0,0.87,0.13,I shoved every emotion or retort down and brought him my medicine box with it's cute little AM/PM boxes for the week.,compound,0,neu_vader
+3708,3708,0.9952146416820276,0.004785358317980004,0.0,0.8859999999999999,0.114,""", medication adjustments--my entire human experience takes place against the context of my brain's ""special"" responses to its ""special spice"" brain chemistry.",compound,0,neu_vader
+3709,3709,0.9999861555445392,1.3844455455051434e-05,0.467,0.5329999999999999,0.0,"Actually, fuck western medicine guys.",compound,0,neu_vader
+3712,3712,0.9999834195150654,1.6580484925109122e-05,0.159,0.841,0.0,I've also taken hydroxzine which is my daily anxiety medicine.,attr,0,neu_vader
+3724,3724,0.9991161907575528,0.0008838092424638,0.106,0.836,0.057999999999999996,"I'm normally a very rational person, but right now I want to quit the meds cold turkey because it doesn't feel like they're doing anything.",nmod,0,neu_vader
+3725,3725,0.9998138986033308,0.00018610139665609806,0.0,1.0,0.0,"I have gone two my meds Dr maybe five times,.and my tharapist for a year now.",compound,0,neu_vader
+3742,3742,0.997312993145536,0.002687006854482496,0.0,1.0,0.0,"I went to go see a new therapist today, and while he really wants to put me on medication, he offered electroshock therapy as a non-medication option.",compound,0,neu_vader
+3746,3746,0.9993600990574923,0.0006399009425262224,0.0,1.0,0.0,"After being off my meds for over a month, I finally saw my pdoc today.",attr,0,neu_vader
+3766,3766,0.999992512397684,7.487602309096651e-06,0.0,0.885,0.115,"I just want to know if this is common, medicine related, whatever.",npadvmod,0,neu_vader
+3767,3767,0.9999382875350818,6.171246490653091e-05,0.0,0.644,0.35600000000000004,"Now that that rambling is done, share your positive meds stories with me!",compound,0,neu_vader
+3772,3772,0.9814091739605866,0.01859082603940145,0.066,0.882,0.051,"Just wondering, because I have often heard of people with Bipolar disorder going well into their 20s and sometimes 30s without ever getting a definitive diagnosis, or getting a diagnosis and spending years working out a medication combination that works for them.",compound,0,neu_vader
+3777,3777,0.99772237752471,0.0022776224752758607,0.237,0.763,0.0,I told my family about my depression and the medication I was taking both of which I had been hiding from them for years.,conj,0,neu_vader
+3787,3787,0.9999636066473684,3.6393352632924396e-05,0.0,1.0,0.0,"My meds I think have finally started to really work, and I was just put on Adderall.",ROOT,0,neu_vader
+3789,3789,0.9960834892746924,0.003916510725320551,0.0,0.897,0.10300000000000001,"I don't remember what exactly happened, it was all a blue of emotional brain and new meds.",conj,0,neu_vader
+3800,3800,0.9996462832586012,0.00035371674140288837,0.22,0.687,0.09300000000000001,"The thing I hate the most about Bipolar is not the immense pain, or all the meds I have to take, or the social isolation.",dep,0,neu_vader
+3812,3812,0.999947128844797,5.2871155216060574e-05,0.0,1.0,0.0,"Beyond that, after starting the medicine things were just off.",compound,0,neu_vader
+3817,3817,0.9996026744936104,0.0003973255064063303,0.32,0.68,0.0,"I started to think I was wrong about it being the medicine, I started to think I was a bad person.",attr,0,neu_vader
+3819,3819,0.9998974958310148,0.00010250416900374696,0.23800000000000002,0.6559999999999999,0.106,I've been trying so hard to concentrate and have added an anti-psychotic which has helped my panic attacks but no matter how much better I've gotten with therapy and meds it doesn't seem to help my work performance.,conj,0,neu_vader
+3832,3832,0.9999393977111084,6.060228887904976e-05,0.157,0.843,0.0,And an unrelated question: Is ones medication an indicator of how severe ones bi-polar is?,ccomp,0,neu_vader
+3851,3851,0.9997686182660128,0.00023138173397704067,0.0,1.0,0.0,the other meds for years.,ROOT,0,neu_vader
+3855,3855,0.9999580878581584,4.191214185260279e-05,0.0,0.861,0.139,"Including diet, fitness, health, meditating, massage, meds to talk to my doc about, whatever.",ROOT,0,neu_vader
+3880,3880,0.9987326566311308,0.0012673433688509762,0.248,0.71,0.042,"Here are some of the highlights from our conversations:
+
+- She was apparently depressed once (though never diagnosed) and thought her way out of it, so I should do the same;
+
+- I don't 'seem like I have bipolar disorder', so my psychiatrist is wrong;
+
+- I've had to change medications a lot - mostly before I was diagnosed with bipolar disorder, so we were trying to treat the wrong thing - so all psychotropic drugs are obviously a scam perpetrated by Big Pharma;
+
+- There are 'proven' natural remedies for bipolar disorder;
+
+- Similarly, bipolar disorder is 'caused by a lack of vitamins and minerals';
+
+- My suicide attempts were not genuine or something(???)",dative,0,neu_vader
+3896,3896,0.9999914525336489,8.54746634927341e-06,0.0,0.8220000000000001,0.17800000000000002,Is there medicine that keeps me on my high and keeps me focused.,attr,0,neu_vader
+3903,3903,0.9993454436800242,0.0006545563199769774,0.26899999999999996,0.731,0.0,"It's called the Scar Hypothesis- basically it says that over time hospitalization, depression, manic episodes, medication, psychotherapy, and painful events can so fundamentally change a person even after the depression is gone.",conj,0,neu_vader
+3912,3912,0.9998651661718342,0.00013483382818180574,0.0,1.0,0.0,Any one else have to go through a medication reaction?,compound,0,neu_vader
+3914,3914,0.9999433742183012,5.662578170019846e-05,0.467,0.5329999999999999,0.0,"Geodon was bad for me, a really bad medicine for me.",attr,0,neu_vader
+3915,3915,0.9994105319228158,0.000589468077166319,0.0,1.0,0.0,"i very recently went through a medicine change (add abilify to (seroquel, cymbalta, lamictol)) that threw me into mania.",compound,0,neu_vader
+3922,3922,0.9999116670511292,8.833294887493226e-05,0.0,0.863,0.13699999999999998,"Recently, I started doing research into doctors and medicines and things I can do to help overcome and control bipolar.",conj,0,neu_vader
+3934,3934,0.9999755806755604,2.441932442388999e-05,0.0,1.0,0.0,Went off my meds two weeks ago.,npadvmod,0,neu_vader
+3939,3939,0.9999528099316126,4.719006837131276e-05,0.0,1.0,0.0,"What medications have you found come with the least side effects, and what side effects are they?",attr,0,neu_vader
+3957,3957,0.9999395078545346,6.0492145470035916e-05,0.08800000000000001,0.912,0.0,So I know that no one here can give med advice or advise any medication use but I have a HYPOTHETICAL question.,compound,0,neu_vader
+3958,3958,0.9999025328774576,9.74671225569386e-05,0.175,0.718,0.10800000000000001,I'm starting to wonder if my motivation for anything has just completely died or if its the meds.,advcl,0,neu_vader
+3967,3967,0.9997573535052641,0.00024264649475106543,0.0,0.737,0.263,"Auras, crawly feelings under the skin, feeling boxed in.. 
+Oh how I LOVE how my Mirena IUD and my medication interact.",conj,0,neu_vader
+3975,3975,0.9997681633484926,0.0002318366515118917,0.0,0.9129999999999999,0.087,It was the only medication I've been on in my life that did what it was supposed to without any immediately depressing side effects.,attr,0,neu_vader
+3984,3984,0.9997762905719236,0.0002237094280820661,0.0,0.873,0.127,"Even with good health insurance, I can't afford the constant doctor visits, tests, and meds (that don't seem to do jack shit).",conj,0,neu_vader
+4011,4011,0.9999116882850934,8.831171491808029e-05,0.251,0.7490000000000001,0.0,I can't afford my therapist or my meds anymore and that sucks because I've never been this depressed in my entire life.,conj,0,neu_vader
+4103,4103,0.9997781946942086,0.00022180530579828965,0.105,0.895,0.0,"I know it's not really possible to manage bipolar yourself, the real remedy to the illness is medication to balance the chemicals in your brain.",attr,0,neu_vader
+4110,4110,0.9971787101614936,0.002821289838496564,0.0,0.818,0.182,"God bless the NHS) and a formal diagnosis, and more information about what exactly that entails, medication and how to deal with my troll brain.",conj,0,neu_vader
+4128,4128,0.9999829694880268,1.7030511971826392e-05,0.161,0.8390000000000001,0.0,So I refused all medication cause I didn't even know what they were treating me for.,compound,0,neu_vader
+4145,4145,0.9999549584021578,4.504159783396123e-05,0.348,0.652,0.0,"Main post here:
+
+http://www.reddit.com/r/bipolar/comments/39un5n/bipolar_ii_medications_almost_killed_me_and_will/
+
+New Diagnosis:
+
+Multiple Organ Failure due to Lithium toxicity (even at low doses), severe additional damage to Kidneys due to Topomax.",appos,0,neu_vader
+4146,4146,0.9996260630568048,0.00037393694318316845,0.436,0.564,0.0,A crisis team psychiatrist is coming over in the next hour to discuss meds/treatment plan after a failed suicide attempt and extreme trauma as a result.,amod,0,neu_vader
+4174,4174,0.9983823499531238,0.0016176500468687714,0.0,1.0,0.0,"edit: It is a combination of insurance, out-of-network psych/therapist visits, and meds.",conj,0,neu_vader
+4190,4190,0.969942284457416,0.030057715542588313,0.0,0.88,0.12,"Well, firstly I am in the process of seeking medication help, but there are limitations due to my current residence in order for me to get a psychiatric evaluation.",compound,0,neu_vader
+4194,4194,0.9998572069664772,0.00014279303350467627,0.0,1.0,0.0,"We work together to discuss doses, medications etc.",conj,0,neu_vader
+4199,4199,0.9999940095400416,5.990459967276844e-06,0.0,1.0,0.0,I have been OFF my meds (Seraquel XR and Wellbutrin) since *maayybeee* around March?,dep,0,neu_vader
+4207,4207,0.9996734926318246,0.00032650736817609803,0.266,0.7340000000000001,0.0,I was recently fired from my job as I missed too much time dealing with medication changes and now unemployment says that I cannot work due to my medical issues.,compound,0,neu_vader
+4213,4213,0.9997629014284268,0.0002370985715737409,0.0,0.769,0.231,"During the pregnancy I went medication free, besides 100mg of Seroquel at night.",npadvmod,0,neu_vader
+4223,4223,0.9997313106956008,0.0002686893043947869,0.213,0.787,0.0,"He's gone through hell and back over the last few years getting through the initial diagnosis, medication, etc.",conj,0,neu_vader
+4224,4224,0.9978954009389026,0.002104599061089597,0.0,1.0,0.0,I'll see a thread asking people what medications they're on and a lot of people say they're on antidepressants.,dep,0,neu_vader
+4230,4230,0.998780747543879,0.0012192524561021464,0.187,0.813,0.0,"I've been without meds for about four months now, so the ""just coming off meds"" hell isn't really a thing right now.",nmod,0,neu_vader
+4234,4234,0.9881498992198758,0.011850100780140071,0.061,0.831,0.10800000000000001,"Therapy is allowing her to finally see why she has been behaving the way she has, and she is coming to terms with her illness and that therapy and meds are a lifelong commitment she has to make to stay stable.",conj,0,neu_vader
+4235,4235,0.999857500495292,0.00014249950471374896,0.0,1.0,0.0,"""But it's ancient Chinese medicine that may be a possible treatment.""",attr,0,neu_vader
+4262,4262,0.999944018203996,5.598179602243809e-05,0.0,1.0,0.0,now that she's hypomanic she wants to go off her meds(lithium 900mg).,compound,0,neu_vader
+4265,4265,0.9999344037954644,6.559620454266693e-05,0.153,0.847,0.0,i don't know if it's the medication that's not working or if it's just not strong enough.,attr,0,neu_vader
+4303,4303,0.9996407793458024,0.00035922065420724447,0.076,0.867,0.057,"My Dr told me to look for any signs of hypomania to help him figure out the correct diagnosis and meds, but I'm not sure if this qualifies or not.",conj,0,neu_vader
+4308,4308,0.9790407025599059,0.020959297440100253,0.0,0.7490000000000001,0.251,"With meditation and medication my mind has calm down a lot, (most of the time), my headaches have reduce a lot, I'm feeling overall better.",conj,0,neu_vader
+4312,4312,0.9999486967305335,5.130326946032345e-05,0.225,0.775,0.0,Aside from medication woes I've found myself getting manic more often.,compound,0,neu_vader
+4331,4331,0.9996135356755022,0.00038646432451653945,0.2,0.8,0.0,"Been off meds for a while, preparing to go back on them when BAM, up all night every night, using drugs again, doing stupid impulsive things and absolutely broke.",advmod,0,neu_vader
+4333,4333,0.9999828857559402,1.7114244060812635e-05,0.19699999999999998,0.8029999999999999,0.0,So has anyone else had trouble with allergra or other allergy meds?,conj,0,neu_vader
+4334,4334,0.9999294337298408,7.056627014872414e-05,0.27,0.73,0.0,**TL;DR: My mom has bi-polar disorder and abuses medications and I don't know how to react towards how she acts.,conj,0,neu_vader
+4346,4346,0.9996658282271798,0.0003341717728059833,0.313,0.687,0.0,"The worst is, I don't have access to a therapist and meds.",conj,0,neu_vader
+4348,4348,0.9860688035184012,0.013931196481613294,0.0,0.915,0.085,"Got diagnosed about 2 years ago, went through a few months of finding the medication mix that works for me, managed to hold down a job for a year and have one successful semester of college under my belt, things are starting to look up again.",compound,0,neu_vader
+4376,4376,0.9999767783392249,2.322166076794139e-05,0.0,1.0,0.0,"Read: insurance, meds paid for [or at least assistance] etc.)",conj,0,neu_vader
+4380,4380,0.9998659123515092,0.00013408764850417976,0.26,0.6609999999999999,0.079,"I’ve been wishing that I have never said anything to my pain specialist, that I never got “help” aka forced medications.",ROOT,0,neu_vader
+4390,4390,0.9983979079542846,0.0016020920457029651,0.0,0.732,0.268,A while back I made a post of how I started feeling better because of my medication cocktail.,compound,0,neu_vader
+4404,4404,0.9990429170481724,0.0009570829518318963,0.0,1.0,0.0,Though the pdoc said I should be on a mood stableizer and a daily antianxiety medication which I should get through a pdoc.,conj,0,neu_vader
+4430,4430,0.9991462065934976,0.0008537934064883829,0.071,0.838,0.091,"How many of you guys, possibly due to the amount of information youve been presented with/read/studied related to your illness and other associated factors, interactions have found yourselves either being hypervigilant of symptoms ('oh god im having cardiac arrest') or you spend far too much time like me, carastrophising all the myriad ways your moods, meds, substances, insomnia, stress and the like could set you up fpr chronic diseases A-Z?",conj,0,neu_vader
+4431,4431,0.9999667489173996,3.325108258618142e-05,0.268,0.732,0.0,"No meds yet, if anyone is wonderinkg.",ROOT,0,neu_vader
+4435,4435,0.999979729794074,2.0270205923185605e-05,0.0,1.0,0.0,"Went off my meds during pregnancy, and then started them back up after I gave birth almost three months ago.",npadvmod,0,neu_vader
+4448,4448,0.8627502873781819,0.1372497126218177,0.07400000000000001,0.828,0.098,Right my question my wife and I have an absolutely wonderful sex life BUT when mania hit I long for another woman I just cannot get it out of my mind the touch feel smell of another woman almost overwhelms me to date I have managed to keep it to a bit of online flirting but lately I have had to have had to have HRT as well as all my other meds now I am finding it more and more difficult to just leave things at flirting.,npadvmod,0,neu_vader
+4458,4458,0.9998135798744449,0.0001864201255689793,0.0,1.0,0.0,I'm kind of new to this whole medication thing.,compound,0,neu_vader
+4461,4461,0.99970315274113,0.0002968472588561837,0.305,0.695,0.0,"I found it even more difficult, I had no imagination, I'm thinking it was the medication.",attr,0,neu_vader
+4482,4482,0.9972905971167184,0.002709402883276461,0.166,0.747,0.086,"She's been battling this seriously for the last couple of years, and has made some terrific improvements over the last couple months but due to some medication adjustments she's been really struggling the last couple of weeks.",compound,0,neu_vader
+4484,4484,0.9988640844033122,0.0011359155966951266,0.0,1.0,0.0,"I talked to the doctor about it and explained why I don't use my insurance and how I spend about $300+ a month for psych appointments, therapy, and medication.",conj,0,neu_vader
+4495,4495,0.9999115680466729,8.843195331123905e-05,0.11699999999999999,0.883,0.0,I am wanting to have children eventually and am wondering if anyone else has had the same issue with being on bipolar and anxiety meds stopping their period.,attr,0,neu_vader
+4496,4496,0.9990127868477324,0.0009872131522843557,0.0,1.0,0.0,"About a week ago, I slipped up and forgot to take my meds one night.",amod,0,neu_vader
+4500,4500,0.999385220463658,0.0006147795363502865,0.086,0.8170000000000001,0.09699999999999999,"I'm worried that everything is out of control, and I'm at the mercy of my moods, my meds, and my spotty mental healthcare.",npadvmod,0,neu_vader
+4505,4505,0.999499503091394,0.0005004969086029393,0.10400000000000001,0.759,0.13699999999999998,"Other than the dreams, I am really not having other severe side effects; this has been the only medication that I have been on in years that has practically eliminated the depression.",attr,0,neu_vader
+4533,4533,0.999650528749994,0.0003494712500068289,0.11699999999999999,0.682,0.201,Other days I feel like he thinks I'm gross from gaining all kinds of weight from my meds+ birth of our child.,amod,0,neu_vader
+4536,4536,0.9885256561942076,0.011474343805795841,0.0,1.0,0.0,"So now he's out of the hospital, new meds, and seeing a therapist again.",attr,0,neu_vader
+4542,4542,0.9999507193322456,4.9280667758419125e-05,0.0,1.0,0.0,"If I don't, we can't afford pdoc visits every month plus meds.",conj,0,neu_vader
+4546,4546,0.9989419452359672,0.001058054764031944,0.09300000000000001,0.816,0.09,I was just diagnosed as bipolar about two years ago (though I'd suffered with it through antidepressants and anti-anxiety medications for twenty years before that) and the symptoms are much improved.,conj,0,neu_vader
+4555,4555,0.9986776039419336,0.00132239605807398,0.0,0.669,0.331,"I took my overweight-from-meds body out in the rain and hail and triumphed over 13.1 miles of beautiful, slippy-slidey mud trails.",compound,0,neu_vader
+4583,4583,0.999720020193828,0.00027997980617412997,0.245,0.755,0.0,I'm currently emerging from a meds-induced depressive state (fuc-king Ris-per-dal).,npadvmod,0,neu_vader
+4595,4595,0.9997435606300871,0.0002564393699139288,0.0,1.0,0.0,I've been on hundreds of different medicine cocktails in my life.,compound,0,neu_vader
+4596,4596,0.9999521725510484,4.7827448953723794e-05,0.0,1.0,0.0,"I don't have insurance anymore, making my shrink visits and meds very expenxise.",conj,0,neu_vader
+4597,4597,0.999954037530308,4.596246968527695e-05,0.316,0.684,0.0,"With everything going on, depression, meds, money, our engagement...",conj,0,neu_vader
+4604,4604,0.9998322712020448,0.00016772879796708498,0.10800000000000001,0.637,0.255,I have a friend that was pretty recently diagnosed with bipolar disorder while hospitalized (this summer) and has been prescribed meds.,conj,0,neu_vader
+4611,4611,0.9967799101257622,0.003220089874221698,0.0,1.0,0.0,"I took my old SSRI and my current one, a lot of caffeine and some cold meds.",conj,0,neu_vader
+4621,4621,0.999779323614005,0.00022067638601052769,0.204,0.7959999999999999,0.0,"Here are the reasons why: I've deluded myself into believing they mock me for seeking extra treatment (CBT, DBT, medication therapy), they've remained ignorant about my homosexuality, and I've been a complete failure my whole life.",compound,0,neu_vader
+4624,4624,0.9986511035645128,0.0013488964355015019,0.0,0.884,0.11599999999999999,"As I mentioned earlier, I've also done mindfulness, medication, and CBT which have all worked to a certain extent.",conj,0,neu_vader
+4631,4631,0.9998226852797052,0.00017731472030069304,0.0,0.8420000000000001,0.158,"my goal for the longest time is to be well functioning on as few meds as i can be, and so far mission accomplished i almost think i never needed half these drugs.",advcl,0,neu_vader
+4641,4641,0.9999718468150364,2.8153184972930296e-05,0.0,1.0,0.0,About 8 months ago I switched doctors and medicine.,conj,0,neu_vader
+4686,4686,0.9999851004863516,1.489951365298486e-05,0.10400000000000001,0.785,0.111,"I don't know what to think; on one hand, if I do have some disorder, there is an option for treatment and things can get better for me (when done properly, of course; medications that aren't right for me will be awful, which is what happened to my mother.)",appos,0,neu_vader
+4687,4687,0.9949420316509359,0.005057968349054243,0.0,0.6579999999999999,0.342,"The past two years have been a huge journey of acceptance, proper medication, recovery, and stability and then POOF, this wonderful dream girl shows up in my life!",conj,0,neu_vader
+4693,4693,0.9999887598086225,1.1240191355634552e-05,0.35100000000000003,0.649,0.0,.....tl;dr mixed episodes and no meds might be driving me beyond mad.,conj,0,neu_vader
+4704,4704,0.9999479281485378,5.207185147563192e-05,0.161,0.7140000000000001,0.125,Its not my meds it's my god damn endocrine system and she knows it.,dep,0,neu_vader
+4709,4709,0.9965527337039336,0.003447266296076844,0.0,1.0,0.0,"I know a lot about Bipolar, medications, routines, symptoms of episodes to watch out for.",conj,0,neu_vader
+4738,4738,0.9987865067304595,0.0012134932695486806,0.0,0.8320000000000001,0.168,"Since I finally had something in my life that I was determined not to lose (people don't always stick around that long), I decided t give meds a try again.",dative,0,neu_vader
+4754,4754,0.9998993701483057,0.00010062985168354316,0.0,1.0,0.0,I also thought that it was the meds that were making me feel slow/dull.,attr,0,neu_vader
+4756,4756,0.9999891693201652,1.083067985476138e-05,0.0,1.0,0.0,Or is this not medication related?,npadvmod,0,neu_vader
+4759,4759,0.99978085455014,0.00021914544984247711,0.0,1.0,0.0,It's probably my meds so there's not a lot I can do until they stabilize (they just changed yet again 2 weeks ago).,attr,0,neu_vader
+4763,4763,0.9995531343227207,0.00044686567726169774,0.10099999999999999,0.746,0.153,Instead we had a really amazing conversation about people are so closed minded these days about mental illness and medication and all that.,conj,0,neu_vader
+4770,4770,0.999917836871866,8.216312813799597e-05,0.0,0.861,0.139,I had become very stiff and shakey and the medicine seemed to be doing little to help.,conj,0,neu_vader
+4773,4773,0.999964767730282,3.523226973562945e-05,0.0,0.762,0.23800000000000002,"I need advice, possible other medications and even just comfort.",conj,0,neu_vader
+4794,4794,0.9999078503201764,9.214967983923728e-05,0.0,0.715,0.285,Doing very well with CBT and medication.,conj,0,neu_vader
+4803,4803,0.9952156611145732,0.004784338885428546,0.0,0.858,0.142,"After six years of relative stability on the medication and after asking my psychiatrist multiple times if there was any chance of going medication free, I've decided that it's time to give it a shot.",npadvmod,0,neu_vader
+4804,4804,0.9996612585526021,0.00033874144740021333,0.0,1.0,0.0,"I've been trying to make myself go and do things besides sit and watch tv, my pdoc told me there was only so much medication could do (crazy right, out of a pdoc?).",attr,0,neu_vader
+4810,4810,0.9998696900333676,0.0001303099666442803,0.0,1.0,0.0,"I just tried to talk to my parents about it, and Dad is really anti-medication.",attr,0,neu_vader
+4816,4816,0.99997550287547,2.4497124535049895e-05,0.172,0.687,0.141,"What the fuck do I do about this, like what medications/other coping mechanisms have worked for you?",amod,0,neu_vader
+4829,4829,0.9998932444188507,0.00010675558114553671,0.10400000000000001,0.8959999999999999,0.0,"My mother keeps telling my grandparents I refuse to go to work, I'm on FMLA to get through my medication changes.",compound,0,neu_vader
+4830,4830,0.9972272939105244,0.0027727060894870664,0.138,0.862,0.0,Because of this he disregards anything that the traditional western medicine world brings to the table.,compound,0,neu_vader
+4847,4847,0.9988756511498738,0.001124348850135849,0.134,0.83,0.036000000000000004,"Reference Article: [Link](http://www.medscape.org/viewarticle/457153)
+
+Relevent sections:
+
+&gt;However, the least cognitively impairing of the anticonvulsants appears to be lamotrigine, which has good evidence for utility in bipolar disorder (especially in bipolar depression), and gabapentin, which has been frequently used in bipolar disorder but has little evidence of efficacy in bipolar disorder.",appos,0,neu_vader
+4848,4848,0.9999760459623268,2.3954037661283426e-05,0.0,1.0,0.0,"Further research: [Link](http://www.medscape.com/viewarticle/590267_3)
+
+Relevant Section:
+
+&gt;Mood and Bipolar Disorders.",appos,0,neu_vader
+4851,4851,0.9999855026789752,1.4497321026039416e-05,0.0,1.0,0.0,Even if it's not medicine side effect related.,compound,0,neu_vader
+4857,4857,0.9999341424019964,6.585759801166428e-05,0.0,1.0,0.0,Is this normal for seroquel and/or meds in general?,conj,0,neu_vader
+4872,4872,0.9998470567713268,0.00015294322865255306,0.0,0.49,0.51,"We used a cheerio and a medicine cup, haha.",compound,0,pos_vader
+4903,4903,0.994997142186998,0.005002857813019149,0.062,0.868,0.07,With this year and a half of being off medication I have smoked weed on occasion  and while sometimes anxious for the most part I do not have any problems at all anymore.,attr,0,neu_vader
+4952,4952,0.9999239724345592,7.602756543430007e-05,0.0,1.0,0.0,A little over two months ago I went off all the meds I was on.,npadvmod,0,neu_vader
+4974,4974,0.9991536971242658,0.0008463028757436105,0.0,0.6859999999999999,0.314,This is a great medicine for me but it doesn't go the distance because I'm still pretty scattered.,attr,0,neu_vader
+4977,4977,0.9999879136718409,1.2086328154942995e-05,0.778,0.222,0.0,Bad medicine.,ROOT,0,neg_vader
+4979,4979,0.9994729304009082,0.0005270695990823418,0.0,1.0,0.0,I'm going back soon for a full assessment and diagnosis and to get meds.,conj,0,neu_vader
+4985,4985,0.9999674263551068,3.257364489124736e-05,0.0,1.0,0.0,Maybe even other medications.,ROOT,0,neu_vader
+4995,4995,0.9998990306969532,0.00010096930306368759,0.114,0.6409999999999999,0.245,But I wasn't sure if that would be the best medication for my symptoms.,attr,0,neu_vader
