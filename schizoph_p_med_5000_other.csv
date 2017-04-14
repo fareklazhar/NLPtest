@@ -1,0 +1,821 @@
+,Unnamed: 0,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,post,dict,identifier,sentiment
+10,10,0.999877882326744,0.00012211767325025086,0.025,0.7659999999999999,0.209,"So I finally got a smart phone. I was looking for apps that can help with stuff. For example, I looked around at mood/sleep trackers and medication calendar/ reminders, maybe something that can help with anxiety. But I dont really know where to start. It's a bit overwhelming. So I was wondering if anyone had any suggestions for helpful apps? Any suggestions would be much appreciated.",['conj'],0,neu_vader
+13,13,0.9950334022904828,0.004966597709518296,0.061,0.8859999999999999,0.053,I'm considering asking the Early Intervention in Psychosis team tomorrow (whom I see weekly) about getting me meds to help my avolition and poor attention span. I can't work for longer than 20 minutes at a time and can't complete my counselling sessions without a break splitting it in two segments...,['ccomp'],0,neu_vader
+41,41,0.9998894093021801,0.00011059069783476133,0.16699999999999998,0.698,0.135," I'm wondering if anyone from experience or from just knowledge knows which hospitals are better than others in NY (I don't know if I could go to one in another state). I'm seriously considering going to one. I need a sort of plan in case things do not improve for me.  I can't go to the local p-ward. I don't see myself  getting better  in just a week or two. Plus they told me that I would be sent to state if I ended back there anyways.  
+
+I haven't been to a *""psychiatric only""* hospital since I was a child 13 and I've had to work hard to paint over the memories of that trauma. I've had crappy p-ward stays  but my last few were actually awesome and I could see myself making good use out of time spent recovering in a better suited facility. Especially if it has grounds to walk on and a good staff and more things to do than a p-ward.
+
+Are there hospitals in NY that have Nice grounds to walk on and best therapy? I don't want to be in a heavily locked down ward or confined to a room. I don't want to feel like I made a mistake and then get treated bad or neglected or hurt. I could see myself hurting myself really bad. I would really freak out and end up nowhere. 
+
+Yeah I'm asking for help because I don't know what to do.  I need to hear that it would be ok if I did this because I really need help and have no one or even a doctor or any meds. I would be willing to drive to the hospital or take a bus or something. This option is really might be the last thing between me and disaster. I wish I could talk to someone about what's the matter. This loneliness is destroying me. 
+  ",['conj'],0,neu_vader
+49,49,0.2207386897293868,0.7792613102706464,0.147,0.7190000000000001,0.134,"I'd like to preface this by saying that I'm not schizophrenic, so if I say anything that comes across as stupid or intolerant, please understand that it's out of a real lack of understanding, and not prejudice.
+
+
+So I have this really good friend who comes from a somewhat broken home, as a result she has spent a ton of time at my house or going on family vacations with us. She's more like a sister to me now. She's always dealt with severe ADHD and depression to some extent, but other than being a little spacey, she seemed pretty mentally grounded. There have been some incidents that worry me, were were camping one time and she left the RV to go outside. She didn't come back for a while so we went looking and found her sitting on a swing, she had this wide eyed stare and was extremely unresponsive to words, we tried rousing her by nudging her a little bit, but it was to no avail, it was like she had been hypnotized. After almost an hour, she started responding to us somewhat coherently, we took her back and put her to bed, but she had very little recollection of what had happened. She seemed better after that, and there were no more episodes like that. After a year or so things got worse, she spiraled pretty deep into depression that characterized itself by this complete lack of any emotion and she attempted to slit her wrists a few times, I thought that she just went into depressive phases, but she described it as a compulsion to hurt herself, like some power or entity was exerting their will over her. She had smoked some pot with me on a couple of occasions, and what I initially recognized as the paranoia of someone who had never smoked quickly spiraled out of control. She ran terrified away from me and my brother, with the look of a caged animal in her eyes, she crawled underneath the foundation of my house and was screaming for god to save her. We got her out and calmed her down, but I remember her sobbing like a helpless child who just experienced something terrifying. I resolved not to let her smoke after that. Right now she's been hospitalized for almost a week after she had another compulsion to kill herself, felt as if she could not fight against it anymore, and asked her family to take her to the hospital. She's being held there for a week, psychoanalysis is my guess, and is not allowed to see anyone but family.
+
+
+I want to know how I can help make her feel more comfortable and happy, I've noticed in the last few months how destructive her battle with mental illness has been to her self esteem. She feels guilty about it I think, she is often apologetic about the way she feels and thinks, she seems to view herself as defective or wrong in some way. I tell her that she should never have to apologize for how she feels, but I don't know if I'm getting through to her. I can't imagine that being examined by doctors for a whole week I'd going to make her feel much like a human, and I just want to know what I can do for her other than just continue to be a friend to her and not to treat her like some kind of oddity. I just hate seeing her destroyed by her own feelings, and then on top of that destroyed by other people and their expectations, their unquestioning acceptance of what they perceive, their conviction that they or somebody else knows best.
+
+
+On some limited level I think I can relate, I've done a lot of drugs, in particular LSD and psilocybin, altered states of consciousness and neurochemistry have always interested me. I view the brain as nothing more than a complex machine made of neurons, synaptic pathways, powered by an array of chemicals, and tuned in always to the stimuli around us that are filtered through the nervous system and sensory organs. Introduce a minute amount of some novel psychoactive chemical, and watch the reality around you crumble. This leaves me with the view that there is nothing wrong with having a different experience of ""objective reality"" which I'm not sure I even believe in, but that mostly what my friend suffers from is the isolating experience of perceiving or thinking differently from others. Although I see that some of the psychological phenomenon that she experiences are scary to her in their own right, and that is not to be ignored. Whatever she needs, be that medication or psychotherapy, I hope she gets, and I hope it helps her. I just hate to see her treated differently, although I recognize that suicidal people do have to treated differently to some extent, I can't stand to see her made to feel like less of a valuable or loved person because of how isolating her experience is. To her sense of self worth and happiness destroyed, because of the arrogant and single minded postulations of others, that because they don't experience life in a strictly comparable way to the majority, they are labeled as crazy or sick. I understand that in psychopathology that a disorder is only viewed as that because it inhibits leading a happy or functional life. But at the same time I feel that much of that dysfunction comes from the typical view of someone who experiences reality differently, and that because that persons experience differs from theirs it frightens them. /end somewhat incoherent rant.
+
+
+I see a psychologist too, and I can relate very much to feeling isolated from others, sometimes for reasons that are the same as hers, as well as some reasons that are my own. I know what it's like to feel like less of a person because of who you are, I can even relate to not perceiving reality the same as others most of the time, but I did a lot of, and still do, drugs sometimes. I'm not a psychologist, I just want to help my friend.",['attr'],0,neu_vader
+65,65,0.998441044437774,0.0015589555622262895,0.129,0.8290000000000001,0.043,"Hello, as a child I experienced many episodes and delusions which she thought I was just playing even though I wasn't. She still is not accepting my diagnosis and tried to get me off meds. Is this normal behavior? Is she scared?",['conj'],0,neu_vader
+76,76,0.9941375442447656,0.005862455755238574,0.1,0.9,0.0,"i take 2MG of risperidone at night and i also take 2MG of bentropine for the side effects of the risperidone. now the risperidone has helped a lot with thevoices, but my paranoia and halucinations have gotten worse. is this normal? and have any of you guys taken risperidone and have gone through this. i see my doctor tomorrow, so he'll which medications. but is this normal for risperidone?  ",['advcl'],0,neu_vader
+86,86,0.9999808301561968,1.9169843811817388e-05,0.305,0.654,0.040999999999999995,"Okay. I changed so many doctors and everyone said different things. My first and third doctor said schizophrenia and heavy depression. Second and third said OCD and heavy depression. Fourth said anxiety disorder and heavy depression. Fifth only gave me heavy depression, OCD and schizophrenia medicine without saying what is wrong with me.
+
+I have some of the sympthoms like hallucinations, delusions, disorganized speech, extreme paranoia etc. But, those can be explained with different reasons too, i think. 
+
+In short, what the fuck is wrong with me?
+",['conj'],0,neu_vader
+94,94,0.9999669964206068,3.300357940562561e-05,0.0,1.0,0.0,,[],0,neu_vader
+101,101,0.9999662722321452,3.372776783927108e-05,0.138,0.735,0.127,"If you are reading this, which I bet you are, stop telling me and my family that I am mentally ill when I'm not.
+I hate this, everyone is working against me and saying I'm ""schizophrenic"" when I'm not! I don't know who they are but they've made doctors tell everyone I know I'm mentally I'll when I'm not. Is this happening to the people of this forum as well? They will probably take down this post because I'm exposing their sick agenda, but if this has happened to any of you please help me!
+
+They are following me, telling my family to work against me, I think they have mind controlled them. What do I do, I don't want to kill myself but its the only way out. I hate you scumfucks what do you want from me? 
+Telling everyone I'm mental fuck up its all lies I'm not! That's what they're doing guys help me
+
+They have made the doctor try and give me their mind control medicine and made family make me take it. I don't want to be the next mindless robot they create why are you doing this leave us alone. The mind control medicine let's them into my brain and they know all my thoughts and they communicate with me through my brain saying they are doing this to make me kill myself I don't want to let them win 
+
+How did you stop them spreading this lies saying you have ""schizophrenia""",['ROOT'],0,neu_vader
+110,110,0.9999669964206068,3.300357940562561e-05,0.0,1.0,0.0,http://www.medscape.com/viewarticle/849865,['ROOT'],0,neu_vader
+146,146,0.997192110189528,0.002807889810474951,0.127,0.818,0.055999999999999994,"*This is for reference only. Diagnoses can only be made by professionals qualified and experienced in mental health. Please see a doctor or mental health professional if you think you experience any of the symptoms here.*
+
+From the current **Diagnostic and Statistical Manual of Mental Disorders, 5th Edition** (DSM-5):
+
+**Schizophrenia 295.90 (F20.9)**
+
+A. Two (or more) of the following, each present for a significant portion of time during a 1-month period (or less if successfully treated). At least one of these must be (1), (2), or (3):
+
+    1. Delusions.
+    2. Hallucinations.
+    3. Disorganized speech (eg, frequent derailment or incoherence)
+    4. Grossly disorganized or catatonic behavior.
+    5. Negative symptoms (ie, diminished emotional expression or avolition).
+
+B. For a significant portion of the time since the onset of the disturbance, level of functioning in one or more major areas, such as work, interpersonal relationships, or self-care, is markedly below the level achieved prior to the onset (or when the onset is in childhood or adolescence, there is failure to achieve expected level of interpersonal, academic, or occupational functioning).
+
+C. Continuous signs of the disturbance persist for at least 6 months. This 6-month period must include at least 1 month of symptoms (or less, if successfully treated) that meet Criterion A (ie, active phase symptoms) and may include periods of prodomal or residual symptoms. During these prodromal or residual periods, the signs of the disturbances may be manifested by only negative symptoms or by two or more symptoms listed in Criterion A present in an attenuated form (eg, odd beliefs, unusual perceptual experiences).
+
+D. Schizoaffective disorder and depressive or bipolar disorder with psychotic features have been ruled out because either 1) no major depressive or manic episodes have occurred concurrently with the active-phase symptoms, or 2) if mood episodes have occurred during active-phase symptoms, they have been present for a minority of the total duration of the active and residual periods of the illness.
+
+E. The disturbance is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication) or another medical condition.
+
+F. If there is a history of autism spectrum disorder or a communication disorder of childhood onset, the additional diagnosis of schizophrenia is made only if prominent delusions or hallucinations, in addition to the other required symptoms of schizophrenia, are also present for at least 1 month (or less if successfully treated).
+
+",['conj'],0,neu_vader
+151,151,5.24867671075489e-05,0.999947513232926,0.129,0.805,0.066,"My sister and I recently had a pretty deep heart to heart where she confessed she believes she may have schizophrenia. She is 29. She says she thinks she's had it most her life however her hallucinations really got out of control when she was around 15 years old. She has auditory, visual, and occasionally textile hallucinations. As a child our mother says she was always talking to imaginary friends. She remembers seeing weird things on rare occasion but around 15 it got out of control. She started failing all her classes, sleeping all the time she wasn't at school, had no friends, and ate only candy bars and soda (she lost a lot of weight as she only had one a day). She started to talk about seeing ghosts and would scare the crap out of me. Eventually she became very suicidal and was hospitalized twice in a few months for extended amounts of time. She was eventually was diagnosed as bipolar and released from the hospital. She took lithium for less than two months. She was supposed to get follow up care but my mother never did that for her. 
+
+Fast forward to 14 years later and we are now adults. My sister has not talked about these ghosts she used to see since she was 16. I assumed they were hallucinations brought on by bipolar psychosis and that she no longer sees them. She is a normal stay at home mom of two kids. She lives a normal life now with no doctors or medication. You would never know this about her. But she did confess to me that she still sees them. All the time every day. They never went away but when she was 16 she simply stopped talking about them because she didn't like how no one believed her. She said she also stopped interacting with them which made the ""ghosts"" less abundant and less aggressive. These days if she sees them she does not look at them. If they talk to her she ignores them. She finds that when she talks to them they come around more and get more aggressive and demand more of her attention. 
+When she was younger she was convinced they were spirits. Some lost souls, some demons, some she called judgers. But as an adult she is now atheist and believes they are hallucinations brought on my schizophrenia. She isn't absolutely convinced this is the case though because she says they sometimes know information she had no way of knowing. 
+
+Her hallucinations are almost completely of these ""ghosts"". She says most of them look human, some with deformities or injuries. She says that though they look human it's obvious they aren't because look duller than the world around them. The light in the room doesn't reflect off them. Sometimes they glow. They sort of hover in the air a few inches off the ground. Sometimes they are not human at all but monsters or beasts. These ones usually give her a sense of terror. Some are judgers but she doesn't see those any more. I'll explain judgers later. Most of the ghosts will try to talk to her. They love to talk about themselves (they all have a story of how they lived and died). They will also talk to each other but she can't hear those conversations. She says she can always tell who is talking because the sound will come from their direction. She says she can still hear them just find even if she is at a concert or loud place. They are more populous in big cities. Scary ones are often at parks. She says they are assigned by someone to be where they are and will stay in that place (like house, park, store, ect). She says trying to avoid them when they pop up by leaving the room does not work because if they think you are avoiding them they follow. Sometimes in public they will be preoccupied with something like looking in a store window and won't acknowledge her at all. She says sometimes they can be assigned to follows specific person. She says they will stay around for a few hours to a few weeks. She can talk to them by thought and they will speak back. She can ask them questions and they will answer her or go ask another ""ghost"" for the answer. She says they were often wrong about the questions she would ask ""like winning lotto"" but a few times seemed to know things. They can also show her images in her mind of certain situations or whatever if they want to show her something that happened. She says they can touch her but not the environment. When they touch her it feels cold. They can walk through her. If she touches them her hand goes right through. They never tell her to do bad things or hurt people or herself. They do not criticize here. On rare occasion they will criticize the things people around her say. 
+
+She told me that now she completely ignores them and it makes the occurrences of seeing them a lot less. She doesn't talk to them any more or about them because it makes them show up more and be more aggressive about getting her attention. She says sometimes they can be incredibly beautiful or absolutely terrifying. She still sees them on a daily or weekly basis but now it's usually from a distance and the grocery store or standing on the side of the road she is driving down. Rarely they are in her house or close enough to touch. She does not believe they can hurt her or anyone else.
+
+She says she is not paranoid and does not think anyone is out to get her. Only once has she ever heard a voice where there wasn't a visual ghost attached to it. Twice years ago her reflection disappeared in the mirror and was replaced with something else. Sometimes the ghosts can shoot ribbons of light out of their hands and seem more important. Sometimes the ghosts are just orbs of light that still communicate with her. She says she never feels like media like books or news papers or movies or radio are sending her special messages. Her environment and real people around her never change or anything like that. The hallucinations are strictly with these ""ghosts"".
+ 
+The judgers I mentioned before looked like grim reapers and almost always showed up in pairs. One good, one bad. The bad one wore a black robe and the good had a gold robe. They showed up places like hospitals or car accidents or around people my sister thought were going to die soon. They talked to each other but never her. Their faces look like those decorative porcelain masks and they can take them off. After they remove their face a judgment is made to determine who gets the soul. The winners face would smile and the losers face would cry. 
+
+Like I said, when my sister hit puberty and these hallucinations grew she was convinced she was seeing spirits and demons. She thought she was special. Now, 14 years later she thinks it's much more likely she is schizophrenic. I believe completely she sees these things and feel bad I thought she was lying when were were kids and then chalked it up to psychosis. She hasn't talked about it in so long I honestly thought it was over. But my sister refuses to get help because she doesn't want to be locked up, drugged, or loose her kids. And like I said she lives a completely normal life with random annoyances.  
+
+Also, she can't watch shows like the walking dead as she becomes legit paranoid that a zombie plague is coming. That's the only real paranoia she has.  So what do those of you think? Does she sound like she may have schizophrenia? 
+
+TL;DR my sister sees dead people. ",['conj'],0,neu_vader
+163,163,0.9999798895843268,2.0110415691230345e-05,0.225,0.628,0.147,"Hi guys, I have schizoaffective disorder and I take 800mg seroquel per day. I've gained weight steadily since I started taking it. Now I weigh close to 300 lbs and I need to get off this shit before it kills me. Are there any good antipsychotic meds that don't cause weight gain? Because I'm growing tits.
+
+Thanks!",['attr'],0,neu_vader
+173,173,0.9988248801064672,0.0011751198935460447,0.081,0.722,0.19699999999999998,"So Iv been wondering, what are your experiences with the plant? Does it effect you negatively? Positively? Has it improved/worsened your condition? Has anyone used a mainly CBD strain? (Which apparently is a great anti psychosis medication) ",['attr'],0,neu_vader
+182,182,0.9999910219668032,8.978033209972708e-06,0.193,0.684,0.12300000000000001,What are some promising medications currently being researched for schizophrenia? Anything against cognitive symptoms? And negative symptoms?,['nsubjpass'],0,neu_vader
+185,185,0.4702842960928584,0.5297157039071582,0.14800000000000002,0.7979999999999999,0.054000000000000006,"I am a 22 year old female. I'm a paranoid schizophrenic and well, I have no idea how to cope. I don't take meds and I don't go to therapy anymore. Reasons being is I don't have the money to and don't have insurance at the moment. In January I'm considering submitting myself to a type of ward. I haven't chosen one yet still researching but everyday my PS gets worse. I don't see this world as real. I have almost fully detached myself from this world and it being REAL. I hear voices, tried suicide many times but they were not successful either because I was stopped or rescued, I can't keep jobs, I have other realities, every night I feel like multiple people will take over my conscious one at a time. One in particular cries and screams out for me to write down what they say and to make the truth known. That's all I really remember. But I can't move I just lay there listening or stand there in the mirror talking to the me ""inside"" if that makes sense. There are prob 4 different people who take over my conscious at night. Doesn't happen every night though. Prob 3-4 times a week. I struggle with depression and extreme anxiety. Along with so much more, but I'm wondering if anyone else has any techniques that really work with helping them cope. Esp if not meds or therapy are involved at the time. This is my first post so I'm sorry if its rough.",['nsubjpass'],0,neu_vader
+197,197,0.9999214078124454,7.859218756748697e-05,0.1,0.865,0.035,"The last time I went to see my pdoc I told him I still had sexual problems on 10mg Abilify and he said he would lower the abilify the next time I saw him...
+
+Is anyone else on only 5mg Abilify for psychosis or schizophrenia?
+
+Abilify 10mg is currently the only medication I take for psychosis but like I said my pdoc said he would lower the dose next time I saw him so I was just wondering is it common for people to be on only 5mg or lower then 10mg for psychosis/schizophrenia?",['attr'],0,neu_vader
+198,198,0.9847404552446702,0.015259544755343324,0.08,0.8029999999999999,0.11699999999999999,"ive known for a couple years something has been wrong, last year she was in the hospital for just over two weeks. they diagnosed her bipolar 1 with paranoia. i went on and deployed where i currently am stuck for now. a few months ago she had a full mental break and never told anyone. apparently she has been having halucinations personality swings, paranoia, mood swings the whole nine and never told any one. i finally got her to go back into the hospital and now they are telling us pending a few treatments and some false hope we are looking at schizophrenia and im terrified. ive seen what it does o relationships and ive read the horrer stories, we have two small children and i dont know what to expect or how to cope if anyone can tell me anything please do. although i do have one silver lining, from what ive read getting someone who has been diagnosed to admit they are sick and to want/know they need medication and help is a huge first step and it is something she miraculously came to terms with this visit. but i also understand that this may change and there are huge flips and episodes even with said help and medication. so please any advice for what i can do to help her and save my family at the same time.. im desperate.
+EDIT: yes spelling and grammar is shit, im in the middle east and due to all this stress dont sleep at this point im happy to be able to get to this page and type a semi coherent message.",['conj'],0,neu_vader
+202,202,0.01228328679895204,0.9877167132010656,0.05,0.868,0.08199999999999999,"I have noticed within the timeline of my own experience, that taking medication for mental illness may alleviate the symptoms temporarily, and depending upon what medication, it may even benefit the individual cognitively. The purpose of my theory and practice, is to help individuals suffering from a mental illness, learn that antipsychotics and/or mood stabilizers, only due 50 percent of the work towards recovery. The other 50 percent is solely in the hands of the individual's behavior, including perceptions and thoughts. To prove this theory, it is known that delusional thinking is one of the main contributing factors to schizophrenia. It is also known that while the individual has gained some insights into the working of his own mind, he cannot none the less revert back to that old delusional thought process. I have noticed this fact within my own experience, and have armed myself with constructive behavior. Now how may we define constructive behavior, we can define it as thus: the word constructive denotes the process of developing or advancing something. The word behavior denotes: the aggregate of responses to internal and external stimuli. In a word I am defining behavior modification. It is the process of conditioning behavior. I have also noticed within my own experience that constructive behavior, or behavior modification, can alleviate some of the negative symptoms such as cognitive deficits within mental illness. I have also noticed that some (I hope I'm not offending anyone.) will complain of being inhibited to make the positive action of modifying thier behavior to improve their quality of life. Now while in some cases this may be true, but for the majority of us, it is a matter of self perception and/or self deception. Never the less, it is important that we keep a journal to analyze our behavior, in an effort to gain insight into the workings of our own mind. I hope I have been of service. Adios! ",['pcomp'],0,neu_vader
+209,209,0.9901478177125432,0.00985218228746896,0.127,0.759,0.114,"I know this isn't about schizophrenia.  This is a fellow sufferer of a mental health problems.  I have been posting here a bit, because my boyfriend is a paranoid schizophrenic.  
+
+I understand that BPD is a multi-symptom. I am 36, I was misdiagnosed as Bipolar when I was 18. I finally found a doctor when I was 27 who realized I am just an energetic smiley person.
+She diagnosed me Major Depressive Disorder, General Anxiety, Insomnia, Body Dysmorphic, Eating Disorder not otherwise specified, and Panic Disorder with Agoraphobia. I was so happy to have someone see that I was not bi-polar. She gave me 300mg of Wellbutrin, 1mg of klonopinx3, 10mg of ambien, and 100mg of trazadone.
+Did any of you disregard any of your ailments, and tied them into the BPD diagnosis? I am now taking the above medicine, along with 225mg of Effexor. We are charging that to Pristiq (same medicine, cleaner isomer).
+Just like all sufferers, the criteria that I fit.. it is like a description of me. The ones I do not fit, are actually the opposite of me.
+
+Also, the boyfriend and I are considering writing a blog about life together.  The ups and the downs.  I hope it would give people some hope, and help.  People can see how 2 very different people, with different ailments deal with the same things.  Is this something anyone would be interested in?",['appos'],0,neu_vader
+213,213,0.9627720514291834,0.03722794857083133,0.12,0.8490000000000001,0.031,"Whenever it gets close to a full moon I start having a rough time with my symptoms. It becomes harder to sleep and my thoughts race. I even hear a couple of voices at night. If it weren't for my medication things would be a lot worse. I've read that the moon tends to have an effect on people, particularly when it's full. There tend to be more accidents around this time and hospitals report more disturbances from psychiatric wards. 
+
+I wanted to ask you all whether you have increased problems around the full moon. If this is an odd question I apologize. I'm not quite all together right now. ",['compound'],0,neu_vader
+217,217,0.7711469125741941,0.22885308742582397,0.109,0.7509999999999999,0.14,"My sister has been acting a bit off for a couple of years, but recently has become increasingly detached from reality. She refuses treatment, medication, and support, and thinks everyone in our family is against her. We live in a state (one of four) where we cannot have a court ordered outpatient treatment and because they have determined she is not suicidal we cannot institutionalize her.
+
+Today she has been texting me all day about government agents following her around and the government wanting to do experiments on her. She wants money and to have a bank account but i have given her money before and she loses it always and has fantastical stories about where it went. 
+
+I am lost, I am in tears, I do not know what to say or do to help her because she seems to reject everything. 
+
+How can I encourage her to go to therapy or support groups without it backfiring or causing too much stress that makes her episodes more severe. 
+",['conj'],0,neu_vader
+227,227,0.9805412042219662,0.01945879577802965,0.064,0.769,0.16699999999999998,"My family is trying to interfere with his treatment because they don't understand what the medication is doing and I need help advocating for my cousin. If it is schizoaffective disorder what help is a benzo? They keep freaking out that he doesn't need an antianxiety medication because he's manic vs depressed. They won't do any research but just demand they are right and are trying to move him from the psych ward of the hospital. Is it prescribed to help with medication compliance? I need some research-based information. Is there a way into pscyINFO without being a student at a university? Any help is much appreciated, thanks!",['compound'],0,neu_vader
+277,277,0.9812013106816392,0.0187986893183434,0.102,0.818,0.08,"Are normal people scared of hallucinating? Or scared they might start hearing voices? Am I not normal? For a long time now I've known I'm not what society would consider normal, but am I schizophrenic? I haven't heard any voices or seen anything out of the ordinary...(that I can recall)  But I do have an almost never ending fear of.. Something. Demons. Monsters...satan. I feel them watching me, and waiting for the moment when I have my guard down the most to attack. I can feel them behind me when I walk down a hallway or up stairs... When I'm in bed.. It makes my skin crawl just thinking about it. This effects me at night most of all. I can't sleep without a light on, and even then sometimes I go through stages of insomnia.
+When I was younger I read a lot, and each character I read about was added to the list of imaginary people watching me and judging everything that I did. I had to be perfect, because they were watching and I didn't want to disappoint them. I couldn't even fart without shame. I don't feel the characters watching me anymore, but the demons... They are always there. And I'm just waiting for the voices to come next... And the hallucinations... I live in fear. I also get very disturbing thoughts and images in my head, and I can't block them out. I sometimes wonder if the demons want me to think that way... 
+I have an anxiety disorder, I take blood pressure medicine and anti-anxiety/ depression medicine. But I haven't really seen the effects yet. It hasn't helped with the demons at all. Does anyone else feel like this? I can't be the only one. 
+",['conj'],0,neu_vader
+283,283,0.9996103192244564,0.00038968077552989247,0.0,0.804,0.196,I heard that Abilify is very good for managing cognitive deficits associated with schizophrenia. Is it true? What are some other meds that are known to alleviate cognitive deficits?,['attr'],0,neu_vader
+285,285,0.4250519869489008,0.5749480130510973,0.094,0.816,0.08900000000000001,"Sorry if this is in the wrong subreddit.  Apologies if so. 
+
+Last night a friend of mine from another continent phoned out of the blue.  After pleasantries, she revealed she's been having a tough time because she is ""going mad"" (in the English sense) because some things have been happening to her:
+
+* she can psychically (though totally unintentionally!) flip others into their Jungian ""shadow selves"".  For this reason all her friends have begun to shun her -- they're afraid of her ability.
+* related to this she is psychically controlling events, and drawing people (and sometimes cars) psychically to herself.  Her proof of this is that people stare at her strangely as they pass and feel the connection.  Cars with important license plates cut her off in traffic.
+* she accidentally meditated for two hours, where she lost all pieces of herself
+* because of this she believes she might be the second coming of christ.  She joked (?) that the fact that she's 33 has significance.
+* she is convinced that everyone at her daughter's school is making snide comments to her, and about her behind her back.  This would be because one of the people who's minds she controlled was a teacher at the school, and is now turning everyone against her.  
+* incidentally: she phoned be because she had a dream that I'd abandoned her too, and she worried that she had ""gotten to me"" through her dream.  
+* she was convinced she was the subject of a pagan curse so burned so much sage in the house her husband thought she'd been hot boxing.
+* she checked herself into hospital because she was sure she was controlling her childrens' minds and felt she was a danger to them psychically.  Her son had begun having ""adult dreams"" and her daughter has been suffering from increased anxiety (over previous levels) since this began.  The hospital gave her some anti-anxiety meds and sent her home after a few hours.
+* she has cut off all her ""therapists"" because she's not sure who she can trust.
+
+All of this apparently started a couple of months ago when two things happened at once:
+
+* she began confronting issues of long-term sexual abuse as a child. 
+* her daughter decided she did not like her teacher at school, and the previously wonderful school wasn't helpful in solving the problem.  My friend felt betrayed, I think.
+
+The hospitalisation was 2 weeks ago.  She's calmer now (anti-anxiety meds!) but still believes in her psychic powers, and that there's no one on her side, and that the whole school is talking about her.
+
+This woman was, previously, extremely well grounded.  She was a touchstone for me and all her friends of a reasoned approach to life.  And now this!  So --- does this sound schizophrenic?  And if so, she's definitely not getting help, and she sounds like she's losing it!  And I'm on a different continent.  What can I DO?!  Or should I do anything?  Am I over reacting?
+
+Sorry again for posting here if this isn't the correct spot.
+
+Thank you!
+(editing for formatting)",['npadvmod'],0,neu_vader
+288,288,0.9972010120031426,0.0027989879968429105,0.11599999999999999,0.8320000000000001,0.052000000000000005,"Firstly, I have an appt tommorrow morning with a therapist so I'm already on my way to getting help.  
+
+I was just wondering if anyone has any experiences doing sports while medicated?  In case I end up having to see a psychiatrist.  I'm 28 btw.
+
+I do BJJ, and I really do not want to be so medicated that I can't do the thing I'm living for, a life of working and medication and nothing else is not a life I have the slightest intention of living, that's not life, that's existence.  Same for living with the paranoia.   
+
+My symptoms are mostly just extreme anxiety and paranoia.  It feels like everyone hates me and laughs about me behind my back, and even still I don't feel that it's just in my head.  They have reasons to talk shit, and they're the type of people that do.  I have a bit of a temper and unfortunately it's come out a bit at work.  
+
+",['conj'],0,neu_vader
+313,313,0.999989476466452,1.0523533530468707e-05,0.086,0.731,0.183,I have some problems with attention due to my schizophrenia. Are there any meds available which could treat this? Do pdocs usually prescribe anything to treat this?,['attr'],0,neu_vader
+314,314,0.8438519598134687,0.15614804018649936,0.08900000000000001,0.805,0.106,"I just got home from a coffee with my friend. I've known her for almost a year now and she always seemed very happy, full of energy and excited for a lot of things.
+
+Well we were just talking and I could see she was not okay. She seemed very tired and kind of down. And I just asked some questions about how she feels and what's wrong and so on.
+
+She told me she doesn't care about herself, just about others and that she doesn't want to affect others in a bad way. She said that she feels tired and she went to the capital city of where we live the day before and I know she loves that city and is going to study there, but today she told me she didn't even want to go there and that she's not really excited to study there in fall.
+
+She also said she is closing in herself.. like she doesn't want to meet new people and be with people but she doesn't want to be alone and wants to be with someone (eg. me) - that's what she told me. Then she said she just feels like she wants to be in her room, get rid of all the mirrors in her room and just lay down all day.
+
+I am very concerned for her and I told her if she could imagine all she said written down, how would it feel. She said she doesn't know, to me it feels very depressing and depressed though.
+
+Also she should be going to Italy next week and she spent so much time talking to me about how she loves Rome and wants to spend a weekend there and so on and so on, and she got the trip as a Christmas present and was really excited and happy that she's gonna go there, but today she told me she's like Meh, not really that excited for it.
+
+Before I had to leave I asked what fullfills her or her days and she said nothing and I asked how long has she been feeling like this and she said since around/after Christmas and that it should be over in like 2 months. I asked how was she so sure and she said it has happened in the past always like that.
+
+While we were sitting down she also said she feels as if there are two parts in her, like two minds (not exactly) and that one part doesn't care about the other one and doesn't care about the things she does. And she went on about this for a while and then said that these two parts together don't mean anything. I told her that I don't really have two parts where one would feel careless about stuff I do and that I feel united and I recognize my actions completely with different feelings but in my one mind. She then told me But I am normal, everyone is like this, or not? And at that point I got a feeling like shit, I might be crazy..
+
+Anyways to end it off when I got to know her after a few months we slept at my friends house together in one room (just the two of us). Before going to sleep she took some drugs(something like diazepam IIRC) and when we went to sleep I fell asleep but then she touched and I couldn't sleep and after a while she just sat up from the bed and started looking around the room. And I was like hey what's up, what is there? And she didn't respond, so I touched her on her arm and asked okay? And she just started shouting that he's in the room and that she wants him to go away and that she's scared, so I just held her and turned on the lights.. it went on for a while and she was really scared and after she seemed conscious she told me to turn off the lights but she still looked around the room as if there was someone with us. I was staring at her from 10 cm in her face and her eyes just went across the room, stopped a little bit away from me and just stared, like I even weren't there. Then we spoke about it and she told this happens to her every night but she can't talk about it too much, but just told me she is scared before sleeping and that he's there always. It's like the thing would hurt her and make her hurt herself if she told me more. That's all I know.
+
+The medication (diazepam, I remember lexaurin as well) wasn't prescribed for her, but her mother works in a hospital and got it for her from her friend for her anxiety. (She gets anxious, or mainly used to get a lot)
+
+
+Can anyone here tell me what can I do for her? I feel like she needs to see a doctor, but she refuses to go because she is scared she would get restricted in a lot of ways and that she would be like marked with having some disease and that she wouldn't fit in in school or camps and such",['nsubjpass'],0,neu_vader
+328,328,0.8171062485374028,0.18289375146259307,0.08199999999999999,0.826,0.092,"Because my mental disability is demonized by society, because I'm not trusted solely because of it, because people have been raised to associate schizophrenia with fucked up horror films. Because I grew up loving Batman, and I grew into an adult realizing that Batman was beating the shit out of people like me, and that people like me were turned into nihilistic villains hellbent on causing as much chaos as possible.
+Because my parents don't understand me, and never will. Because I'm schizophrenic, my identity as a transgender woman is called into question, because I am schizophrenic, I am dependent on the federal government's Social Security to support me since nobody will hire me.
+
+There is nothing going well for me except for the handful of friends I've retained over the years, and the medication I am prescribed. I am dependent on my psychiatrist to fill my medication prescriptions on time &amp; without feeling ambitious and wanting to experiment with my well-being. And all of this, all of this is deemed socially acceptable.
+
+The only thing I have are my meds, parents, and my handful of friends. Each thing is something I'll forever cherish, but who can say what the future holds for me? I'm not in control of my own destiny.","['compound', 'attr']",0,neu_vader
+365,365,0.9994857997516541,0.0005142002483312383,0.11900000000000001,0.8,0.081,"I have a close friend who has been diagnosed with schizophrenia this past year.  I think they still haven't found the right meds but she continues to go to the doctor and is doing everything she should to feel better.   Lately she has been becoming more and more withdrawn.  I don't know if its the negative symptoms or the meds.  I want to keep in touch and let her know I'm there for her but she's getting harder and harder to get in touch with.    
+  
+I text her about once a day to say hello. I have asked if it's ok to come over sometime for a few minutes.  She says her family doesn't really like company.  She isn't just withdrawing from me. She has stopped really communicating with everyone. She gets up and goes to work then comes home and goes back to bed.    
+  
+I don't think she is depressed. I've asked and she assures me she isn't.  She has always been very open about that sort of thing with me so I do believe her. I did a little reading on the negative symptoms of schizophrenia and I wonder if maybe that's what she's dealing with right now.  
+  
+So my question is can I help?  Should I back off and give her some space? Should I talk to her family about coming over one day for half an hour or something so she doesn't have to get up or do anything?  
+  
+If you've ever dealt with the negative symptoms like lack of motivation and difficulty making decisions could anyone make you feel better? What did they do?",['conj'],0,neu_vader
+371,371,0.17615273303824805,0.8238472669617465,0.10099999999999999,0.8440000000000001,0.055,"i'm cross-posting this in a couple of places because i'm a little desperate and not sure what to do.
+
+a bit of background: 
+i am getting worried about my friend and housemate. he came to Australia from Turkey about 5 years ago and we've known each other most of that time. he doesn't have any family here, and I am his closest friend in the country. he's in his early 30s.
+
+he has always had some ""new age"" spiritual beliefs - he has used LSD quite often for at least 10 years and smokes marijuana daily. a few months ago he went to India and Nepal and went to a lot of ""psychedelic parties"" there, he came back talking about other dimensions and mind-reading and so on. this is not too unusual for him, as he's had unusual spiritual beliefs ever since I've known him.
+
+lately: 
+over the last few weeks, I've noticed his mental state declining. he has not returned to his job for at least a month, he sits at home all day smoking marijuana and reading about conspiracy theories on the internet. he's becoming more and more into these theories, and less attached to reality. about 2 weeks ago he came into my room crying because he was experiencing paranoia and thought that people were trying to hurt him/read his mind. he told me that ""they"" were controlling the world, and that the apocalypse would come that night. I took him to the hospital when he became more agitated, but they couldn't keep him there against his will as he wasn't threatening violence or self-harm.
+
+over the last couple of weeks he's become obsessed with biblical and conspiracy theories. he tells me he is the ""sun god"" and he has been sent to gather his tribe before the apocalypse. a lot of talk about Mayans, aliens, Noah's ark, pyramids and unseen dimensions. he gets very upset when I tell him I won't leave the city to prepare for the apocalypse, and seems genuinely worried for my well-being.
+
+He sees a psychologist occasionally for stress, but as far as I know he has not been diagnosed with any kind of disorder or prescribed any medication. I suspect he is not sharing his beliefs with his therapist.
+I don't think he in planning on hurting himself or anyone else, but I am very worried for his mental state as he becomes more and more delusional. I have chat-logs with him demonstrating some of his condition. Any advice would be much appreciated.
+
+Thank you",['conj'],0,neu_vader
+381,381,0.9923288101985714,0.0076711898014318654,0.067,0.823,0.11,"I'm happy to see this subreddit pick up, but its becoming concerning that there are currently ten different topics on the front page basically asking to be diagnosed.
+
+
+Diagnosing yourself can be dangerous. With the internet being as popular as it is, more and more mental illnesses seem to be arising.  It is good for us to discuss symptoms, but it we have to remember that telling someone they ""sound"" like they have schizophrenia can be harmful to them. Only a doctor can diagnose this. 
+
+I originally signed up to this topic to discuss how to deal with a diagnosis that was given to me after a long, drawn out process involving doctors, hospitilizations, and medical testing.  Ways to cope with every day life and our symptoms and medication discussion. 
+
+
+I've noticed a moderator has posted a topic similar to this, as well, and I think that we, as a community, should gather together and make sure to push those wondering about their symptoms to speaking with a doctor before diagnosing themselves right up.  The FAQ needs to be updated, as well, and maybe we could add a few other links to NAMI and other various outlets (I am on my phone, currently, so if anyone has any good links, please share!) so that those looking for answers about their current state have a more professional answer. 
+
+So, in closing, I ask that all of you, before you go on to say someone ""sounds"" like they may have schizophrenia, tell them, instead, that only a doctor can give them the help that they need. This includes minors who say that they do not want to tell their parents. I hate to sound harsh, but this is something that really needs to be taken more seriously.
+
+",['compound'],0,neu_vader
+399,399,0.9650236924727772,0.034976307527210586,0.051,0.91,0.039,"My brother is currently residing in Europe therefore, he will have a disability hearing over the phone exactly a month from now. He has been rejected once 2 years ago and one of the main reasons, believe it or not, was his age…""too young"". 
+What kinds of questions should we expect besides what meds he's on, what his issues are? Do you think they will do some 'tests' over the phone? Any help/tips are welcome !",['pcomp'],0,neu_vader
+400,400,0.9999978897814509,2.1102185401467117e-06,0.19,0.6559999999999999,0.154,Please help. I am currently in school but I am freaking out. I feel like someone's coming to kill me or that the earth is going to swallow me. I have until 2:05 until I get out and I don't know what to do to calm myself down. I'm having bad anxiety and my medicine give me restless leg syndrome so I feel as if I will explode. EVERYONES staring and watching. Help me please. I need some tips on how to stay sane until I get out of here!,['conj'],0,neu_vader
+408,408,0.9826137064363142,0.017386293563679264,0.175,0.72,0.105,"Anyone ever felt this way?
+
+In high school I was a cheerleader... you know, friendly, social, happy. Went off to my dream college to study aerospace engineering, my truest passion (satellites!). I was always very motivated. 
+
+It just feels like my whole personality was turned upside down in the course of a month. I started to hear voices. At first not much noticeable, but it got worse and worse. My grades declined, my hygiene went down, every relationship I have was strained. I could not function.
+
+After about a month I attempted suicide - partially due to hallucinations. I had no idea I was sick. The first few months of treatment are a huge blur in my mind, but I was in inpatient for over 2 months. The diagnosis was like a slap in the face. Schizophrenia? Let me be honest here. I was so ignorant on this disease. When I thought of it, I thought of people in strait jackets and shit. (I know, I'm sorry, I am no longer that ignorant obviously...) but at the time it was horrifying to me because I didn't understand it. 
+
+I understand it now and after months of treatment and medicine changes I am able to live a normal life. My SO is my caretaker and I have my bad days. I dropped out of college for the semester I had the break, but I'm going back to it. At a different university. My SO got into grad school and I decided to transfer to where he was. We now have our own home together with our little puppy and things are good. But they are different.
+
+I am still having such a hard time accepting myself and this diagnosis. But I know I am sick. I couldn't see it at first because I had very low insight. I was very disconnected from reality.
+
+How do you cope with accepting yourself?",['conj'],0,neu_vader
+409,409,0.9918648875899456,0.008135112410042528,0.073,0.826,0.10099999999999999,"My son is currently in the diagnosis process for what I'm pretty sure will be schizophrenia (paranoid). We've had a visit with a therapist and are waiting to hear back from the psychiatrist for an official evaluation and diagnosis. He's clearly having auditory hallucinations (although he isn't convinced yet) and some significant paranoia. 
+
+We will work through it. I'll be here for him for whatever he needs, no matter what. 
+
+My question - for those here that have gone through this process, either as a patient or a parent - how long did you have to wait until you had a diagnosis and meds? I'm so worried that I'm losing more and more of him as each day passes. 
+
+
+EDIT: thank you, everyone, for replying. His symptoms seem to be decreasing as we wait for the psychiatrist appt, and I'm hoping it's a temporary psychosis brought on by how much pot he was smoking. ",['conj'],0,neu_vader
+445,445,0.9943730421258106,0.0056269578741973,0.131,0.794,0.075,"He said he was talking with another coworker and they agreed that I've been looking sad lately. But it makes sense because I just lost a friend of mine this past week that I lived with in foster care(she was my foster-sister). I'm sad about that, but I didn't think that I *looked* sad. 
+
+Either way, I think me looking sad has more to do with my medication change from Clozapine at night to in the morning. So I'm more sedated at work than I've been previously. So that combined with my friend that's now gone and still hearing voices when working.. I guess I looked like I needed to talk or something.
+
+It'd be nice to talk. I haven't seen my therapist in over a month now.. I haven't been talking to anyone about my symptoms or ""delusions"" and I'm falling down the rabbit hole. 
+
+It'd be nice to talk to someone about what all is going on in my head. Intrusive thoughts. Conspiracy worries. Spy stuff. 
+
+But it'd be too heavy to expect a coworker to carry for me.
+
+He seems really sweet. I wonder if he'd be understanding and listen to my troubles?
+
+Or would that be bad for work? My boss knows I'm schizophrenic, I've worked here nearly 3 years, stopped for most of this year, but got back to work because I needed the money. My boss doesn't understand what schizophrenia is, he just knows I've had to miss tons of work due to being in the hospital for it and he knows I cut myself because my arms are heavily scarred. 
+
+I don't know what I'm going on about...
+
+TLDR: Should I tell my friend/coworker that I'm Schizophrenic? ",['compound'],0,neu_vader
+460,460,0.9990183625551284,0.0009816374448553327,0.172,0.754,0.07400000000000001,I'm feeling pretty crumby again. It's been 1 month since I was hospitalized for my schizophrenia's suicidal thoughts coupled with strong delusions. I had my latuda dose doubled while in there (I also take clozaril). 1 month later now... today I was suddenly hit by my symptoms again. I just feel so broken at a time when I should be looking for jobs and finishing up my computer science master's degree! Broken broken broken.... I feel as if I'll never break the med working --&gt; not working --&gt; increase meds cycle. I just don't know how I can live with this!!! ,['compound'],0,neu_vader
+467,467,0.999153281037836,0.0008467189621523701,0.111,0.805,0.084,"Hi. I've been hanging around reddit for a while now and this is going to be my first post to this subreddit. Maybe because I've got a smaller chance of hearing the usual ""you should go see a doctor"" and maybe have someone react with experince in the field.
+
+Around my 16ish I started changing. I guess it all started with a very vivid imagination as a kid (""there are aliens and they want to take me and watch me sleep""), no friends whatsoever and not much trust in other human beings. I think it started with me being confused and feeling like something's missing. That feeling never went away.
+
+Fast forward to now. I'm linked to other versions of me in different worlds. We're being hunted by bleak creatures, for sport. The first one of us to go down lived in a beautiful swamp. We all experienced the death of our part. This ""us"" got bitten in half by something gigantic with sharp teeth. And a very bleak appearance. It was traumatizing to experience someone's dead who's closer than a brother. A part of me died and hasn't returned. 
+
+I'm not entirely real and I doubt anyone is. Most of the people around me are programmed, they go back into non-existence when I lose contact with them. I feel trapped.
+
+I hear scratching at the door, sniffing in my ear. I hear footsteps. I'm terrified of them. When I hear something at the door, I don't have the guts to throw open the door and confront the source. In theory, it's in my head and there's no source. I don't want to find out. I'll wait until the sounds are gone.
+
+I'm plugged into my mp3 player when I'm alone. When I go to sleep, it's playing. When I wake up, it's playing. I can't hear anything else.
+
+There's something inside of my head that's sometimes helping me, sometimes breaking me down like I'm firewood and it's the fire. I know things before possible being able to know them. It saved my life a few times. And it laughs at me when I fail. It speaks to me. Not with words. We don't think in words. We think in images, sounds, smells, memories, dreams... 
+It told me to stick a screwdriver inside of my head and how delightful it would feel. I really wanted to stick the screwdriver inside of my brain. It seemed like better than chocolate. I didn't because of logic. But what will stop me when I am totally convinced I am not real? you can't kill something that's not real.
+
+Maybe then I will wake up for real, step up from a bed and be applauded by some sort of watchers, because I passed a test or something. That's what the thing inside of my head made me see/feel/experience?
+
+I know what's real and what's not. To some  extent. I live by logic. I'm going to a psychologist, sort of. They're requesting my data at the hospital and previous psychologists to see what conclusion-thingie_for_data the need to give me. Because I am totally sane and came to them for candy they call meds, I guess. I've got no trust in them. But hey, if I'm declared unfit for society, I an atleast get some sort of fund.
+
+Oh, by the way, does it count when you don't really care about humans as individuals and got grand ideas how to save the human race which are being put down by other humans I speak to? I believe we're doomed to die and turn to a horrible society steered by money and no one wants to do something about it because everyone only thinks about themselves? It makes me really pissed about it, because we will be nothing 100 years from now. No one will remember us. So why not kill ourselves / make rules for procreation in order to thin out the human population so we can survive as a species? We're not real in the end, as far as we're real now.
+
+I gotta go do stuff. I'm forgetting I need to do things and I gotta go now. Sorry for the book.",['oprd'],0,neu_vader
+488,488,0.9987276062163556,0.0012723937836269573,0.036000000000000004,0.851,0.113,"I was recently diagnosed with Paranoid Schizophrenia. Since then, I have had absolutely zero ambition or motivation. Is this something other people have experienced? Is it related to the diagnosis? ....any advice?
+
+Edit: I'm also on Risperdol. Anyone know if that's a side affect? Is there a better medication that has worked for you?",['attr'],0,neu_vader
+492,492,0.9703018563171296,0.029698143682875693,0.016,0.8320000000000001,0.152,"I work at a residential treatment facility which is an alternative to hospitalization/medication. We're anti-pharmacology, trying our hardest to revolutionize the harmful psychiatric/pharmacological practices in place today. We operate on the principle that basic respect and a positive psychosocial environment can work as well as or better than neuroleptics, without the fucked up side effects. See any research by Loren Mosher, or literature by Robert Whittaker for more info.
+
+Right now we have three residents. For most of the winter so far they have all been isolating in their rooms. It's like pulling teeth trying to get them involved in any kind of community activity. Does anyone have any insight as to how I could better connect with them and draw them out into the community? It's difficult for us to offer services or support when they are unwilling to communicate.",['relcl'],0,neu_vader
+502,502,0.99900178262865,0.0009982173713588825,0.12300000000000001,0.64,0.237,"The sun grows dark and chaos comes again, but I got it beat. Sunshine all around, folks!
+
+Clozapine is a GAME CHANGER! I'm doing OK! I started about 2 1/2 weeks ago on it and I'm PERFECT. I'm happy. NO symptoms whatsoever, just makes me super tired after taking it, but it's worth it, it's absolutely fucking worth it because the sleepiness wears off and then I'm normal. 
+
+I don't care if I have to get my blood drawn every week while on it, it's *amazing*. 
+
+I feel strongly that I don't even have Schizophrenia, like it was a fluke and I'm normal now. But don't fret! I know that is simply the medication makin' magic and if I go off I'll be trapped in the chaos once again. 
+
+I don't MISS my voices like I always do, I'm aware of how awful they were and I'm *relieved* to have the peace that lives in my head. 
+
+My headspace is my own and it's absolutely lovely. Thinkin' my own thoughts and all that freedom-type activities!
+
+
+
+",['compound'],0,neu_vader
+503,503,0.9947771020788851,0.005222897921118482,0.243,0.615,0.142,"This is a miserable life with nothing but pain and sadness. I'm trying to believe I can come out on top, though, it only ever gets worse. I'm now worried I may have this condition due to my mercury fillings. &amp; its not as if I could ever afford to have them removed. I'm on a detox with my naturapath for a few weeks.. I just want something to actually work :/ I can imagine myself growing old and living in agony. Praying to die. What good is Pharmaceutical medication if all it does is exacerbate my weakness, my fatigue etc. What? Okay.. So it makes my thoughts slower (personal experience) so WHAT. If they don't help me actually get out of BED in the morning, if they don't help me clean my HOUSE, then they are useless in my eyes. I'm sick of this shit. Everyone treating me like I'm ""special"" or treading on eggshells in my presence. Family members telling me I DON'T have schizophrenia and telling me I'm using it as an EXCUSE!!! Some excuse, huh? Yeah.. Get fuck all money from the Government, you better believe I WANT to work and live a comfortable life with money. Why would I choose this lifestyle? Afraid to go outside? No energy to take a shower? Fuck this :/ +I know you guys don't need the negativity, we all need support and positivity.. I just am so mad right now.+",['attr'],0,neu_vader
+504,504,0.8594923232090788,0.1405076767909336,0.0,0.917,0.083,"I thought I'd ask something here, since I'm finding this subreddit **extremely** helpful with regards to knowing what other people experience and how they cope etc. Anyway...
+
+The dialogues I experience are mostly distant- sort of as if they're coming from outside or from a different room (depends on the day), but sometimes, especially when I'm relaxed- usually in bed- I'll get a few words or phrases or fractions of sentences as if I was wearing earphones- as if someone was speaking *right* beside me. Most of the time it's pretty unintelligible so it's more of a novelty, but it seems such a separate aspect from the dialogues I'm used to hearing (I've been off meds for quite a while- I'm ""used"" to my normal ""tribunal"", but I don't think they're getting worse...). It does occur more frequently on some nights. My question is, has anyone else had any experience with this sort of thing? Is it just a normal thing that happens to people even if they don't have schizophrenia? It doesn't really affect me that much- I'm just curious, and Google isn't being very helpful....",['attr'],0,neu_vader
+505,505,0.3247332244331119,0.675266775566874,0.177,0.746,0.077,"hello. I am feeling very alone now so here I am, shame people require socialization or I could stay hidden. I recently had a very bad reaction to haldol a medication that made me normal even a bit sharp for the first time in my life, four months of clarity tasks became easy. I then hit the wall flipped out lost my job became compulsive couldnt sit still, didnt realize it was the medication until I was on my knees two days crying to gid to make it stop, a god im not sure even exists. About the time I was ready to end the pain and madnes myself I rushed to the emergency one step ahead of taking matters into my own hands.....all this background so you can understand my question. its been almost two months and im off haldol but my mInd feels like it was damaged not physicaly not even really mentaly, ive always had mental issues but I have a feeling of emotion hurt like I lost a part of myself. a step away from death made me realize things im still struggling to put into words. has anyone else felt this kind of bizzar loss? thanx for taking the time to read this long winded post.",['attr'],0,neu_vader
+524,524,0.9960840781954796,0.0039159218045176575,0.158,0.745,0.09699999999999999,"I've not posted here in a while because I've been doing pretty okay, not great not bad, about a 6-7/10 though. But I do have one big problem that I can't get over and that's pretty bad memory loss, I'd say it's gone from mild to moderate pretty fast (a few months) I'm not sure if this is related to schizophrenia, meds or some other health problem (definitely not aging because I'm not old enough for dementia). I'm currently on 150-200mg of seroquel. I get confused pretty regularly, but not soo often, I've forgotten things I've literally JUST done about 2 seconds ago (confirmed by family members), I'm forgetting what to write right now actually, I just don't know really what's going on or happening, but yet I do, it's literally like things will just not hold up in my head, I do something forget it, do something else forget it, It feels like I'm forgetting everything. Someone will tell me to do something and I'll forget they ever even told me to do that a few mins later. 
+
+The worst part though Is I just generally feel really confused and as if I'm forgetful in the moment about everything... Can anyone tell me why this is? Is it schizophrenia, med related? Or something else?
+
+I feel it's a lot more than mild forgetfulness, I just know I'm forgetting things really bad because other people are telling me in the moment, and confusion is really bothering me, i feel like I just can't remember most shit. 
+
+Anyone help? ",['conj'],0,neu_vader
+530,530,0.9155596846856872,0.08444031531432197,0.11599999999999999,0.8079999999999999,0.076,"Im having a particularly bad night, for a while I believed I was the only hope for a new wave of revolutionists who were going to overthrow the machine that everyone lives their whole lives on and it kills them. Like a literal machine, with claws and teeth and fire. The revolutionists are still out there calling for me to save them, but I know its not real. But it feels so real. Im 17 my name is Cole . I was diagnosed as schizophrenic a few weeks ago, for the past two years doctors refused to diagnose me and just kept me zonked on antipsychotics (seroquel) but im seeing a new doctor and he finally diagnosed me, he took me off all of my meds besides my antidepressants so he can see what im like with no meds. I told my dad, and he was mad at me and told me to go to sleep and thought I wanted attention and/or meds. Im in my room listening to Joey bada$$'s mix tape with my dogs and lizards. They're screaming for my help and im so on edge. Please someone , I just don't want to feel so alonehttp://i.imgur.com/IQj1fBM.gif",['conj'],0,neu_vader
+545,545,0.9220303817369316,0.07796961826305204,0.114,0.866,0.02,"Hey there,
+
+I am asking this on behalf of my brother. He is diagnosed with psychosis and bi-polar disorder. He is from Germany but living in Torrance, LA now.
+
+He's had very big problems in getting Clozapine prescribed, because of the severe side-effects it can have. The only place where he was able to aquire a one week dosis was a clinic in SF on a business trip and this was also tied with him being held there for over 16 hours because ""he couldn't live on his own any more"" and even faced the threat of being locked away against his own will.
+
+Does anyone here maybe know of a psychatrist who would still subscribe this?
+
+The problem is that both Olanzapine and Quetiapine have heavy side-effects for him and Clozapine is the only medication he really took well up to now.",['attr'],0,neu_vader
+550,550,0.9998847728036728,0.00011522719630794229,0.10400000000000001,0.8959999999999999,0.0,I feel as though I'm a psychopath I don't feel love or any emotion anymore maybe it's the meds the doctor has me on I can't seem to put a finger on it. Anybody else have this issue??,['attr'],0,neu_vader
+552,552,0.9923305566797016,0.007669443320316147,0.039,0.823,0.138,"Doing some research for university, came across using psycho-education as a form of medication adherence for people taking neuroleptics or, sufferers of schizophrenia. Would be interested if anyone could give me anymore info on this from their own experiences such as; what the sessions might involve, how long they last, how many they had, did they find them effective, were your families involved etc. any responses would be appreciated as i really dont know too much about it :)",['compound'],0,neu_vader
+568,568,0.9849757276164022,0.015024272383606044,0.10300000000000001,0.8079999999999999,0.08900000000000001,"Hi, r/schizophrenia! I want to start out this post saying that I have only been diagnosed with anxiety and depression (though right now I'm not really depressed, but I have had fatigue and motivation issues for a few weeks). I am not any medications daily to treat my depression or my anxiety. I'm on trazodone to sleep, Atarax/Vistaril (replaced my xanax I'd been on for years, but I hate it because it gives me vivid nightmares and makes me paranoid so I only take it when absolutely necessary which has been once in the past two months.) I take sumatriptan when needed for my migraines and I'm also on butturbur to help curb my migraines as well. I googled my hallucination symptoms and it's directed me to this board as well as a few other communities for schizophrenia. Anyways, starting a few weeks ago I noticed I was hallucinating somewhat regularly. The first time I noticed it was when I was driving home from doing laundry at my parents house. I saw a small white dog run across the street onto a residential street. I immediately pulled over to look for the dog with my brights on, I was terrified it would get hit since it was dark. I couldn't find it so I shrugged and pulled back onto the main street to go home. I saw the dog run across the street the next three times at each residential street. It was almost like it was the same 'animation' as I saw it the first time. I realized it was probably never there in the first place.      
+
+Two weeks ago on my day off I was also hallucinating pretty much all day. I was seeing little black bugs crawling all over me and my bed and the walls. I'd immediately brush them off or go to move or smack them and they'd disappear.     
+
+Today I've got like snow in my vision, the kind of static you would get if you turned an old TV to an unused station and you'd get that static snow on the TV. I also feel incredibly anxious for no reason and paranoid. I have to drive across town again today to do laundry and meet up with my family for dinner and I just have this dread in the pit of my stomach. I'm afraid if I go out I'm going to get in a car wreck.        
+
+Other symptoms: general tiredness, not really wanting to do anything, noises and sound seems to be amplified (I got a cheese stick and they're all stuck together in perforated plastic and when I ripped it free from the others it made a loud noise that made me jump.) 
+
+So I have no idea if this is a fleeting thing or if I should call my doctor. I'm actually almost afraid to call my doctor because I don't want her to laugh at me, for lack of a better term. I don't have a psychiatrist or a therapist or anything because I can't afford it. ",['attr'],0,neu_vader
+584,584,0.9998283113185892,0.00017168868141008566,0.265,0.589,0.146,"Any thoughts on this wonderful pharmaceutical?  I've been taking it for 5 months.  I was literally suffering from psychosis, uncontrollable anger and delusions.  It worked immediately and I am thoroughly satisfied.  If you're suffering from psychosis I am behooved to suggest it.  5 months no side-effects, all smiles.
+
+I had previously mentioned Buspirone, an anti-anxiety medication that didn't work for me, it amplified an overwhelming and negative urge to commit suicide.  
+
+Suicide can be chemically induced, it's just sh*tty.  I'm not suicidal so it was quite an unpleasant experience.  I was also suffering from horrible nightmares after I started taking it as well. 
+
+
+Looking for work now.  God speed.",['appos'],0,neu_vader
+612,612,0.8259661331343975,0.17403386686559072,0.11699999999999999,0.723,0.16,"Before I begin, I want to say I love him very much and have had a couple of amazingly intense relationships with people with schizophrenia throughout my life. So I mean no ill will toward anyone, but i hate my brother for the monster he has become.
+
+We are both in our 30's now and we were best friends when we wee kids. We would play games like crash up derby with hot wheels and a favorite was one where he had a stuffed animal named Etone and we would make up silly stories about him and I would make Etone talk. It was silly, but we loved it and I miss my brother very much. The man I see now looks like him, but Ive almost accepted he is gone, and there is a shell pretending to be him. Its the only way I can cope anymore. 
+
+Until he was diagnosed at 0, he was a really good guy. You know the type that would give the shirt off his back and actually he was a bit of a pushover, but a good guy nonetheless. But then he was diagnosed with paranoid schizophrenia and the medication he was on was good for about 5 years, but then it stopped working. Everything has been bad since then.
+
+He has been in and out of jail since then. Last time he went because he wanted to see what the inside of our other brother looked like, so he tried chasing him with a knife. Luckily for them both a cop was driving by and took him to jail. He is just getting worse and he lives with our mom. She confided in me recently she sleeps with her bedroom door locked because she is scared of him. She will be 60 next year. I want him gone, but she refuses to listen to anyone and Im scared of what he will do next. 
+
+I dont really expect an answer, and Im not trying to discourage anyone here. But I tried, I really did but he doesnt want help and I hate him for it. My brother is gone and I hate him for leaving. 
+
+",['conj'],0,neu_vader
+626,626,0.9868440209124556,0.013155979087548855,0.115,0.8190000000000001,0.066,"Hello guys.  My mother has been living with schizophrenia for about 20 years or so. When I was still living with her, she was sort of fine, she managed to keep her symptoms under control and we lived normally together. as a family  At some point her medication changed and so did she. When I was 16, she had some psychotic episode, threatened to harm me and my sister and attacked my dad.  My parents split and dad took custody of me and my sister.  Mom lived with my grandma for a couple of years until she passed.  Meanwhile, my mom isn't capable of working with her arthritis, so she recieved SSI disability.  
+
+After grandma died, she lived on her own for a bit, but she felt the need to spend everything she had on useless things.  It became a problem when she started missing her rent.  Her sisters and my dad had to help pay that off.  Eventually, she went to live her sister in Texas.  She was fine for the first year or so. She lost weight, became active, but had no social life. Again, her medication was altered. Recently (as of 4/5 moths ago) she's had delusions that someone was going to kill her, take her heart and other organs.  It became so bad for mom that she had a psychotic breakdown and called 911 on her sister claiming she was going to take her organs.
+
+That's where we are today. She's currently hospitalized.  I am 21, living in NY with my dad and sister.  My dad won't let her live with us (there's a court order too). My aunts (mom's sister) can no longer keep my mom in her home. I do work (as a waiter), but I have my tuition to pay and such.  One of my aunts has mentioned assisted living.  Another said to find her an apartment and I should live with her, but I don't know if I can because honestly I'm too afraid to live with her. 
+
+I just wanted to share this because hopefully someone here can help me out because I feel so overwhelmed about what to do for my mom.",['nsubjpass'],0,neu_vader
+643,643,0.9997589967623474,0.00024100323765250322,0.043,0.84,0.11699999999999999,"Well I've been hearing voices since last year and I've been to a psychiatrist and the meds he prescribed helped. I haven't heard anything for about 6 months but recent it's been coming back, maybe once or twice a week. But somehow I am truly convinced that masturbating causes bad luck to myself. If I do do it I have to do it twice. Is it related to schizophrenia.
+More info: I've mainly experienced hearing voices only when I'm trying to sleep. It takes me about 2 hours to get to sleep. There were a few instances where I heard voices in the day when I was wide awake.",['conj'],0,neu_vader
+662,662,0.8371305364725011,0.16286946352751486,0.11199999999999999,0.821,0.067,"have you guys ever felt that desperation you know the one where you are the only person in the world that can truly understand you and your experiences, how everyone always peers inside the room that is you and takes small pieces of information out of that room and compares it to their experiences, kind of like comparing an apple to an orange and they completely misunderstand the point you are trying to make, for example while you read this you will project your own ideas into this because that's the only way people seem to understand things, that desperation then becomes depression, and its like oil to a flame, and everything just goes to shit delusions rise, hallucinations worsen, the placebo of the sanctuary ( medication) no longer works unless its in high doses you know what i mean( kind of like when you drink alcohol and one beer is not enough so you end up drinking and drinking until you go numb and forget who you are but you never truly forget who you are its always there like your shadow just waiting for you to notice it), soon after nothing seems real, you know its a dream and you lose the will to go on, you make excuses and argue with yourself about meaning. ",['appos'],0,neu_vader
+679,679,0.9960750002810432,0.003924999718960777,0.133,0.815,0.052000000000000005,"For those diagnosed with schizophrenia or other forms of psychosis, does one usually have to take their medications for their entire life? Or is there a rule in psychiatry that, after x psychosis-free years one can discontinue medication?
+
+
+The reason why I'm asking is that most anti-psychotic medications have been proven to cause diabetes, increased risk of heart attack, etc., and I don't want to take additional risks. But then again, I don't want to be psychotic, which is, often, even worse.
+
+
+So how soon can one usually discontinue one's medication WITH doctor's approval?","['nsubjpass', 'compound']",0,neu_vader
+684,684,0.9793838187016066,0.02061618129841042,0.151,0.774,0.075,"Here on reddit and in myself I've seen cognitive impairment problems. For myself, I experience minor memory problems that my doctor says may be due to my illness or the medication.
+
+What I find interesting is the DSM-V doesn't mention cognitive impairments as a symptom of schizophrenia. Yet it is talked about as a symptom. Why the discrepancy?
+
+&gt;Two (or more) of the following, each present for a significant portion of time during a 1-month period (or less if successfully treated). At least one of these should include 1–3.
+
+&gt;1.Delusions
+2. Hallucinations
+3. Disorganized speech
+4. Grossly disorganized or catatonic behavior
+5. Negative symptoms (i.e., diminished emotional expression or avolition)
+
+",['conj'],0,neu_vader
+705,705,0.8513287549770123,0.1486712450229822,0.13699999999999998,0.763,0.1,"Hey. My older brother was diagnosed with Schizophrenia when he was 21 (and I was 19). He's been through some tough times, but is a tough guy and a survivor. As a therapeutic exercise, he's been writing about his experiences for a few years. The result is a book called 'Big Hearts, Broken Minds'. The book tells the story of how he fell in-love on a psychiatric ward, whilst detailing the horrors of medication addiction and severe mental illness.  
+
+Due to the personal nature of the content, he wouldn't let me, or anyone read it until it was published on Kindle. This means that it hasn't been proof-read, and contains a few typos and misspellings etc - but, I feel that this adds to the authenticity of the reading experience. This is an adult book - there are graphic descriptions of sex, obscene language, as well as disturbing events.
+
+Reading the book has given me a unique opportunity to understand better what it's like to have a serious mental illness. I suppose that this is a plug for his book, but I truly believe that it's worth reading. 
+
+[Amazon Kindle Link] (http://www.amazon.co.uk/gp/product/B00DHSBNBW/ref=oh_d__o01_details_o01__i00?ie=UTF8&amp;psc=1  )    
+
+edit: Maybe I should mention that he wishes to remain anonymous, so is using a 'pen-name'. Which is why I'm using a throwaway for this, as he could be traced through my 'real' account. ",['compound'],0,neu_vader
+711,711,0.3228685921830751,0.677131407816909,0.10099999999999999,0.794,0.105,"Hello everyone! I'm new here and live with an undiagnosed/misdiagnosed ""disorder"". I am not looking for a diagnosis (not on here lol) and do not believe i have schizophrenia. I am posting here because i can relate to what many of you struggle with. That being said, here is my history:
+
+As  a child, i was always in my own world. Memories of my childhood is very spotty and distant. I can recall being very imaginative and creative and spacing out until things looked different. I had very extreme emotions (unecessary outbursts of anger mostly) and struggled with depression. 
+
+Jump to middle school and high school:
+I began withdrawing socially. Being around people would make me very uncomfortable and i would always feel detached and paranoid (it was hell whenever people laughed.) I slept in class and my grades never came back up throughout the rest of high school. I began using marijuana at 15(it has induced ""episodes"" only twice and i never used regularly until after high school.). Now it helps me to be comfortable in my mind (i do not recommend it as medication esp. if you are psychotic!!!) 
+
+At 17, i became depressed and believed i was the laughingstock of the entire world. I started drinking after getting sent to continuation and that made my mental state spiral into a place i can't remember very much. 
+
+This is when things got bad. I began having these nights where i would stay up all night imagining stories in my head. I will not get into detail lol. Everything kept spiraling until one point when i didn't want to live anymore. After my second suicide attempt, i was finally hospitalized.
+
+In the ER, i don't remember much other than rambling. My dad said he couldn't understand me (this was never brought up to any doctors because my parents weren't aware what this was) and that i would talk in circles. After getting put into the mental hospital, they put me on respiridol and celexa (anti-depressant). The respirdol turned me into a zombie that would echo the end of my sentences. The other one sort of blunted the emotion i was feeling (i stopped them after six months and felt free again)
+
+Having a job has been hard. At mcdonalds (19 years old) i thought everyone was against me because of my skin color and heard everyone talking about me. It wasn't until i looked back that it may have possibly been in my head.
+
+I remember being diagnosed with ""major depressive disorder"". Sorry if there isn't enough info it's very hard to remember. Let's jump forward to right now.
+
+Now i am 22. I am a musician who plays blues guitar. Now, depression was definitely what i went through before but now it's different. I will make it clear that i have used psychedelic drugs (had a bad experience on mushrooms with delusions and auditory hallucinations that i'm sure was full-blown psychosis but it didn't last more than a few days so it's safe to say it was drug-induced). I am not worried about that because it has been a long time since then.
+
+Having those experiences actually helped me become aware. What worries me now is that i have weird, inappropriate moods that switch on a dime like when i was a boy. I feel that people use code to talk shit about me and that even my best friends are talking shit about me. I feel that everyone is racist (which isn't far from the truth). I also have minor auditory disturbances (hearing crowds of whispers/jungle noises and hearing words where actual noises are like air conditioning and cars passing by) but honestly i think those are pretty cool. Some visual disturbances as well like if i stare everything changes (gets blurry/warps) and that has happened way before using any psychedelics. I am worried because i haven't been this way for a long time and it can't be from drugs because it has been a very long time since i have used
+
+My therapist suggested schizoaffective and she hasn't been responding to me about my concerns lately. What's your opinion? Please do not play psychiatrist and try to diagnose. I just want to know if anyone can relate to this. I am only aware of these things when looking back, not as they happen. Marijuana doesn't seem to make things worse unless i am already aggravated. Sorry about the long post just want someone to relate no diagnosis and i am not looking to self-diagnose. Self-diangosers make me want to punch them in the face. Sorry again for the long post. Tis is only a glimpse of it if you have questions feel free to ask i will clarify to the best of my ability. And if you mention drugs please feel free to fuck off because i was this way before knowing anything about getting high. And sometimes it isn't until i smoke that i see things clearly but i am different than everyone else. I probably didn't paint a good picture so please let me know if you meed clarification. Currently i am sober and at baseline.",['compound'],0,neu_vader
+722,722,0.6497554458999354,0.3502445541000792,0.10400000000000001,0.83,0.066,"My son was diagnosed withe psychosis, The dr also used the word schizophrenia.  This was approximately 90 days ago.  The onset he new something was wrong - My wife and him went to get help - They 'pinked' slipped him and put him in the hospital for 1 week.  After release, there is the most likely standard non - compliance to med, reluctance to go to therapy.  Since then there are no meds being taken and no counseling.  He is 24.  At this point The devil is in the back yard, he has left the house in 60 days, sees stuff in the bathroom, talks to self in room and cries.  It is predominately regarding religious subjects.  I have noticed the event subject is related to what he is reading or engaged at the time.  My wife an I have no idea what to do.
+
+Options,  WE heard probate, but this seems to effectively turn him over to the state.
+Conversation goes no where.  It immediately goes into a self deprecating, Im crazy and making everything up, leave me alone, Im not talking about it.   At 24 its not as if this can be forced.
+
+This is my first post.
+From those who have this - What could f your parents said to you that might have made sense to get some help?
+
+Amyone else been through Probate to force this issue of help?
+
+Does the disease progress.  My concern is he was 'pink' slipped they told us that he was a harm to him self, or otheres.  I see no reason why this would have changed.  He has not been physical but that is my current thought.  - I hat to say it but I put a knife under my pillow last night.  I truly do not know what to do.
+
+Currently he is in the backyard burning his clothing and belongings with a bible
+",['attr'],0,neu_vader
+740,740,0.03322920528418091,0.966770794715802,0.17300000000000001,0.7709999999999999,0.055999999999999994,"I have paranoid schizophrenia with depression/anxiety.  I understand it to be a pretty common affliction for an ex drug user (predominately pot but a variety of others from time to time).
+
+I've had two what I would call manic psychotic episodes. The first, was around the time of a messy break up with my first partner. I believed she'd cheated on me and, eventually, that she'd become some sort of crack whore. I manipulated this in my mind to be of benefit to me. Essentially I felt cuckolded, embarrassed and that my social standing was gravely damaged.
+
+After hospitalisation and medication, I got depressed and went back to drug use pretty quickly. I developed delusions of reference over this time also.
+
+These delusions of reference, largely related to my sexuality, which was very confused for a time.
+
+My second psychosis was mostly fuelled by stimulants. It involved a lot of end of the world themes, along with delusions of grandeur. I was hyper-sexual over this period of time. And hurt a lot of peoples feelings through indiscretion.
+
+What can I understand about myself from those experiences...
+
+I am a narcissist at heart. Not that uncommon among my friends. The loss of my ex was destructive to narcissistic supply which collapsed what I considered to be mine. In this tiny space I had left, things twisted and as a reaction to the pressure I had to elate myself in an attempt to compensate.
+
+My delusions of reference? Again quite narcissistic, self centred view of the world.
+
+My second psychosis? Yet again an evolution of narcissism to a point of believing literally I was the centre of the universe.
+
+And with that, I feel quite detached from reality a lot of the time. I've done things I regret, but at the time didn't have the capacity to comprehend the consequences. I was some what an automaton, driven by base instinctions of preservation and operating using a distorted view of social ideals (that from subsisting in a stoner/drug culture where people did very little except think highly of themselves)",['conj'],0,neu_vader
+763,763,0.999638802995092,0.0003611970049001755,0.065,0.773,0.162,"This is my late night contemplation on an app I'd like and may build myself to help deal with Schizophrenia/schizoaffective symptoms. 
+
+**I haven't found anything quite like it so far, but if you know of one, please let me know!**
+
+**Suggestions on what needs to be added/done/taken away are most welcome!**
+
+
+Areas to address:
+
+--paranoia/delusions/hallucinations - tips on how to manage and address
+
+--avolition/lack of motivation/interest - tips on self care, reminders for gentle exercise &amp; sunshine etc, reminders to shower, eat &amp; drink water etc, other methods to tackle it
+
+-- medication tracker
+
+--mood/symptom tracker
+
+--tab with connection to fitbrains/lumosity/chess/sudoku/crosswords to address cognitive difficulties 
+
+--in built chat to connect with other users when you need help/someone to talk to asap
+
+-- emergency help tab with connections to crisis services 
+
+-- appointment tracker ie doctors/therapy etc 
+
+Name is pending, although I have one idea. App would be free &amp; available on web, android &amp; iOS. ",['compound'],0,neu_vader
+765,765,0.9629702426072504,0.03702975739273396,0.115,0.775,0.11,"So I am an 18 year old male and I have used drugs heavily since a young age. I stopped using hard drugs in January, but still smoke marijuana. In January I was using the fake weed substitute Diablo very heavily and I had intense periods of derealization, hallucinations, fear, thinking I was somewhere else, and thinking I had gone insane and my family was trying to snap me out if a trance that was my life. I went to a mental hospital, got off drugs and things seemed to calm down, but I couldn't shake the feeling of unreality. I mostly got better but used dextromethorphan and weed one night and started thinking I was in the hospital repeating and overdose, I could hear the EKG and felt the shock paddles.
+ I have also developed a very strange headache that has not gone away in over 3 weeks.  It feels like pressure in my head behind my face, it also seems to be felt in my hand at times, causing it to tingle and make it feel like there is blood or liquid on my hands. I take 25mg of seroquel in the morning and 225mg of seroquel at night as well as some other unrelated meds.
+ Recently it seems like the fear and paranoia has come back and I find myself getting more and more worried about it again. It also seems like I am hearing strange sounds either way off in the distance or unintelligible so I can't make out what it is. It doesn't seem real, like I remember hearing it but I don't remember what the sound was. 
+ I have also been having incredibly vivid dreams, and dreaming that I am hallucinating and hearing strange very vivid messages in my dreams.
+ I have gone to hospitals, doctors, and psychiatrists and they all don't think I have schizophrenia or if they do they aren't telling me. 
+ I don't know what to do and it is getting very anxiety producing to the point now that I am even writing this, I just don't know what to do.",['conj'],0,neu_vader
+772,772,0.9997136936898086,0.00028630631018017853,0.096,0.882,0.022000000000000002,"Lately I've noticed that some of my ADHD symptoms have been coming back (I was predominantly inattentive), so I've been thinking about going back to my psychiatrist and asking if I can go back on medication for that also but the only problem is that the stimulant medication was the only meds that worked for me and as you know, stimulants can cause psychosis. Could I technically try the stimulants out again to see if they might work without causes psychosis or am I just putting my health at even more risk? I don't even know if she'll prescribe because of the schizophrenia, but it's causing problems with keeping attention on school stuff that I have to get back into.
+
+Has anyone ever had experience with being on ADHD (stimulant) medication and having a mental illness like schizophrenia, or even bipolar?","['conj', 'attr']",0,neu_vader
+808,808,0.38877182618275097,0.6112281738172527,0.14300000000000002,0.7240000000000001,0.133,"So my fiancé and I were regular smokers before the onset of his schizophrenia. We are three months past his diagnosis and he still is attaching to smoking weed. He has limited himself to waiting until after 6pm before he can smoke any because the ""come down"" makes him more than irritable. How do I show him that others things can be fun and make him happy besides smoking? He had NO symptoms during the day (now that his medications are straightened out) but smoking causes him to be more delusional (as in the tv and music is speaking specifically to him) and hear some of the voices again, so I'm not sure it's a great trade off. I know he's a grown man and it is technically his decision to smoke or not, but how can I help show him other things to make him happy? What are some calming techniques you have used when angry or anxious? 
+
+TL;DR: Trying to help my fiancé find ways to be calm and relaxed during stressful situations without wanting to smoke trees. What do you do to calm yourself when angry or stressed?",['nsubjpass'],0,neu_vader
+813,813,0.9999786252668468,2.1374733138247785e-05,0.0,0.853,0.147,I'm on 350mg of clozapine and am completely free of symptoms. I'm patiently waiting to gradually have my meds reduced and am hoping to one day be completely off meds and not have any symptoms. Has anyone experienced this?,['attr'],0,neu_vader
+824,824,0.9984790483974254,0.00152095160257506,0.152,0.848,0.0,"I'm not any medication at the moment, much too scared to be on anti-psychotics. But I've been having odd tics. Blinking a lot, really impulsive, and spasms or twitching in my neck/head. ",['attr'],0,neu_vader
+828,828,0.9671747581778152,0.03282524182216542,0.04,0.8170000000000001,0.14300000000000002,"A while back I started taking invega and it worked until it didn't. flash forward a couple years, 2 other medications, and a new doctor and I'm back on it but at a higher dose and this time in shot form once a month. I get my fourth shot soon. 
+Anyway for the most part I'm steady and a lot happier. It's done a lot for the negative symptoms. However every once in a while at night right before I go to sleep I'll hear people talking/laughing/crying. I can tell it's not real and tune it out pretty well but I just wanted to know if Invega is any good. Does it have lasting potential? It's still pretty new and for as expensive as it is, well I don't want to try to wean myself off something if I can't afford it should I not have insurance in the future. 
+What's your experience with it?",['conj'],0,neu_vader
+837,837,0.9999745540089924,2.544599099840046e-05,0.22899999999999998,0.588,0.183,"I have schizophrenia but without any positive symptoms, my negative ones are significant though. I struggle to meet and communicate with people, no friends other than family, no motivation, hypersensitive, brain fog... I recently read that otc Pepcid (famotidine) was effective for treating them but I find that its side effects are that it reduces cognitive abilities and causes mild delirium so I stopped as it is unpleasant. Can anyone give me some tips or meds recommendations for reducing neg symptoms? Thanks
+
+",['amod'],0,neu_vader
+839,839,7.273488255956997e-05,0.9999272651174272,0.162,0.725,0.114,"I'm sure this'll evolve into a giant wall of text as its 2:30 in the morning and I'm on my computer to keep my attention away from the scary shit I pretend exists. So early apology. 
+
+I'm undiagnosed something, I don't have the money for a doctor or medication, and I'm really too full of myself to degrade my own image to ask for advice from people that know me.
+It's pathetic, I know. And I should go ask people, I know. But I won't. 
+
+I don't know why I'm doing this and I'm honestly scared shitless that somehow I'm actually lying and someone is going to find out and report me and they'll lock me away. I really, really hope this doesn't bite me in the ass. Maybe I'm just sick of being in a constant state of panic and paranoia.
+
+I'm doing this not for gratification or some weird recognition but for honest to goodness on advice on how to handle my problem. And to vent.
+I've been through my hero-complex, my victim complex, and now I'm finally able to see myself for just how bad I'm getting. Everything I put in this post is half to get it out of my book and half to give you any information I can to help me out.
+
+I guess I should start with a backstory before I get to anything else.
+
+So it all started back in July 2008. I was 17 and a junior in high school. I was a pretty popular guy. You could call me a class clown, because I didn't take anything too seriously and I was pretty much friends with everyone. I was raised to be a good dude. Then, on July 1st, 2008 my best friend committed suicide. His mom had died of cancer several years before, his dad was a deadbeat, and his older brother who took care of him was really abusive. My mom died in 2005 and we were both into music so we clicked really quick and we were pretty much inseparable from the moment we met on. I was really close to the dude, and it just hit me with a massive pile of guilt about how I didn't see it and I wasn't there and a whole slew of other terrible things. Which brought on the repressed depression from my mom's death on august 15th, 2005. It didn't help that school officials came after me to get all of his friends and notify them of what happened. 
+
+I had a girlfriend at the time and it was really just a relationship of physical attraction, so I came to her for some kind of support and she just tried to do what horny teenage girls with no life skills tried to do, and so we had this teary argument and broke up.
+
+So I'm sitting on top of a pile of guilt and depression and I just broke up with a really sweet girl and my junior summer was going really, really badly. 
+
+I don't have much in the way of family, which I'll address later on, but for about a month I was pretty much alone, and extremely depressed and mad at myself for the shit I let happen to people that mattered.
+
+Not in your slick black hair, emo-band-shirt cry to a diary type depressed, but as a young man reflecting on serious preventable mistakes type depressed. 
+
+Then starting on August 17th, 2008 lasting until August 21st, 2008 I had the most awkward thing happen to me. It started out as a sort of all-female choir group that would at random times during the day very quietly sing to no apparent rhythm for between 20 minutes to several hours.
+
+On August 19th, 2008, I had an agonizing migraine. I mean crippling to the point where I could not stand, the slightest amount of light made me want to vomit and I was physically incapable of any kind effort to do anything. This migraine started at approximately 6:00 PM and lasted until I fell asleep at some time after 10:00. 
+
+After I had this migraine, as well as the strange noise issue, I started a journal because I was legitimately worried I was either going to die, or my mental health would be dramatically impacted.
+
+During the month of august, and I didn't write this down in the journal, I began talking with the girl I'd begin dating, starting December 2, 2008.
+
+September 2008 saw no real painful symptoms, but I did start having incredibly vivid dreams, some of them were pleasant, and some of them were grotesquely violent.
+
+I've written down a few that I felt were profound or deserved note.
+
+Dream 1: I'm an older man in what felt like a warehouse for making leather supplies for either Nazi Germany, or for a resistance during Nazi era France. There's a commotion and my coworkers and I flee to hide, but I don't make it out, I hide beneath a table as several men search for my coworkers and I. 
+
+During the part of the dream I felt the most overwhelming sense of abhorrent horror I woke up physically crying. The dream ended as they dragged me out and shot me with a pistol of an unknown calibre through the neck. I physically felt penetration and awoke moments later in sweat and cried when I realized it was a dream. I am a man and rarely ever cry, especially over dreams.
+
+Dream 2: I am myself with my brother and tens of other people that I do not know. We are all standing at night, starless sky, in a massive field of green grass, on a small decline. At first I scan the area and see some type of encampment, I am drawn to it. My brother is scared but I reassure him that we are doing the right thing. We arrive, I don't remember witnessing our actual travel to the area. It appears to be a government complex. They line up civilians and have us perform strange tasks, like putting our hands in a bucket of water with a low electrical current, or standing on a launch pad that sends us up 15-20 feet in the air. I remember the slight pain of the electrical current, but absolutely no pain from the launch pad. I actually remember excitement as I lifted into the air.
+
+After completing the tasks they assigned me, I remember looking for my brother, who was nowhere to be found. Then I was looking at an incredibly fast aircraft dock in a larger blimp like aircraft in the sky, both of which had a green coloring, as I watched these aircraft I felt this feeling of complete and utter serenity. It was the most at peace I have ever felt and sometimes when I'm incredibly deep in a terrifying episode I will recall the dream and be far more at peace.
+
+Dream 3: I'm myself, though a young child, early elementary school years. There's a man down the staircase in my old elementary school building and he is in some unknown way bad. He appears as what I could best describe as a diluted Beetlejuice from the Keaton movie. Similar clothes, but a much old face and body type. I am the only one able to stand up to him, and I have some secret device in my pocket that will allow me to thwart him. I am unusually brave as I stare down the man, and he attempts to strike me up with a deal. I do not know what the deal was, nor if he holds true. I woke up feeling confident but had this terrible fear of the dark for the remainder of that night. I turned on all the lights in the house but couldn't shake the odd fear.
+
+There's a total of 6 dreams that I wrote down, but those three seem to high-light the themes present in all dreams.
+
+October 2008 saw the return of the choir and a difficulty focusing on things. 
+
+November 2008 saw a similar pattern.
+
+My current girlfriend, (And likely lifemate) began dating December 2, 2008. I did not tell her of any of the mental symptoms at this point. I figured they were just byproducts of depression. The month felt far more stressful than usual.
+
+January 2009 was an awful month. I began hearing muffled voices constantly, but they seemed to come from within I'd say 5 feet of myself, leading to sleepless nights and extreme paranoia. I told my dad about the voices and he told me that he was diagnosed with schizophrenia when he was 26, but that my mom had been diagnosed as Bipolar when she was 17. 
+
+It turns out my mother started drinking at 17 due to bad home life and her bipolar disorder. She died on August 15th, at 8:37 PM due to a heart condition associated with alcoholism.
+
+Genuinely terrified of the future and really bummed out, I carried on.
+
+The Rest of 2009 has a lot of footnotes but to save time I will condense it as best as possible.
+Actually, I think I'm writing to descriptive now to be productive. I'm going to condense the next few years up to 2013 as best as I can.
+
+- Girlfriend and I hit off swimmingly, but a new issue developed in early March; crowds became a huge problem. When I was in a crowd of people, the voices would get louder and faces would become malformed and terrifying. I dropped out of high school my senior year. It seriously made me sad.
+
+- Early June I began seeing people in the dark, for about a split second or two. They didn't move or speak at all, they were occasionally in peripheral vision, and when I'd glance at them they'd disappear, or I'd look right at them but they'd distort out of my view.
+
+- Late November I tell my girlfriend about schizophrenia, she tells me we'll work through it. I considered breaking up with her out of self pity. Decided against it.
+
+2010 saw crowds become terrifying. I starting thinking that I could read minds when I was in a crowd, and that everyone in a crowd wanted to, in some way or another, read my mind. I also became convinced that my vivid dreams were actually visions of actual ghosts.
+
+In late 2010 I began seeing people and things for extended periods of time. Occasionally they'll move to face me. Usually just average people, but I have seen, in the dark some kind of scaly thing with strange eyes. Regular talks with my Girlfriend's superstitious mom leads me to believe I can see the dead and demons. 
+
+In early 2011 I develop a hallucination named Josef Skeller, who goes by Mr. Skeller. Going along with the early mentioned belief, I begin doing weird things at the advice of Mr. Skeller. Girlfriend is kind of convinced by coincidences and her mom that I can talk to the dead.
+
+You can probably see the downhill pattern forming by now. 
+
+By the end of 2011, I begin seeing horribly deformed / mutilated hallucinations, start hearing voices in full effect, and begin having night terror that leave me paralyzed upon waking up for several minutes. Pleasant dreams become less and less prevalent. Talk to dad about beliefs, he tells me I can't speak to the dead and that I need to man up and remind myself that I have a disease any time I feel a god complex.
+
+I tried to argue but he brought up a really valid argument ""Go talk to your mom if you don't like what I'm saying.""
+
+I was butthurt but he was completely right.
+
+By 2012, I'm trying desperately to overcome night terrors, can usually talk myself out of a stupor. Sat down my girlfriend and told her that when I'm going off the deep end she needs to completely control the situation or it'll get worse, et cetera. She does a pretty good job being the boss when I go crazy. 
+
+2012 is a good year to highlight because I feel like I made a LOT of progress. I stopped listening to my Skeller hallucination, which was a lot harder than it sounds and I've been able to be in a group of friends if I'm fairly intoxicated, which, while not the best thing ever, is a huge step up from not being able to walk down the street without being scared for my life.
+I also stopped believe I could talk to the dead / fight demons / read minds. Although I do get these episodes where it gets awful for everyone involved. 
+
+By the end of 2012, I was on a high note.
+
+But then 2013 kicks in and I start working at a new place and I just get overwhelmingly afraid that my coworkers, who I get along great with, are trying to get me fired, or get with my girlfriend or whatever.
+And on a lower note than that, I'm starting to realize that my girlfriend is losing patience with me.
+
+I've also started having episodes where I feel like I'm not a part of my life, I'm just casually looking in through the eyes of me. Like someone else has the reins and I'm just along for the ride. 
+
+And I'm slowly losing patience too. I'm starting to see people as pure annoying. A lady took too long to checkout? I hope she dies.
+Toddler is asking too many questions? I hope he grows up alone.
+
+Those kinds of thoughts, and I fully mean them, in my head. I have to catch myself and really go ""Hey man, what are you becoming?!""
+
+I'm still writing my journal, and I think maybe I need to keep writing it for good, if only to reflect on my more crazy moments.
+Some of my friends said that people would be really interested reading it, even if it's a LOT of gibberish.
+I guess now would be a good time to start asking questions.
+
+1.) Has anyone dealt with these episodes where you're in second person? Where it feels like someone else is controlling you? How do you get your life back?
+
+2.) How on earth do can I stop the anathema of groups? Just the thought of something I used to love now makes my stomach drop and it's starting to affect my social life. None of my friends outside of a handful of very close people know that I have some type of mental illness, and I don't want to drive them away.  Is there any way to just suck it up and deal with large groups? I miss society..
+
+3.) Is there anything I can do to stop the faces in the darkness? Closing my eyes sometimes works, but sometimes I'll open them and have a torn-up mutilated face you know, 2 inches from mine. Doesn't really help the sleep schedule.
+
+4.) Is there anything I can do to reduce the severity of night terrors? I wake up feeling sore from them nowadays and I just want a good night sleep.
+
+5.) Am I the only person to have an imaginary friend like Skeller? That's the aspect that confuses me the most as most people don't suffer that type of hallucination. He's recurring and consistent, and has a made up story out of my imagination. Insistent, and has a snide personality unlike my own.
+
+6.) Does it get worse? I'm 22, and I've been dealing with a gradually worse and worse affliction since I was 17 years old. My biggest fear right now, besides the crazy fears, is that it's going to continue to get worse until I just completely lose the guy I was at one point. That'd be the worst thing that could happen. If there was nothing left.",['conj'],0,neu_vader
+841,841,0.3944554460691981,0.605544553930796,0.158,0.7809999999999999,0.062,"Since I was in middle school (I'm in college now) my sister started having really strong panic attacks. She didn't show any signs of it beforehand, it was like it was activated when she finished high school. But basically in these panic attacks she believes that people are out to get her, shooting her with beams in her heart, trying to rape her etc. Sometimes she would have these freak outs everyday and they can last a really long time.
+
+I can't say my parents haven't done anything, they have tried many pills to stop the attacks but the current pills pretty much make her ""empty,"" more specifically, you could say they only mute her without actually doing anything to ""help"" or ""fix"" her. She may live with this for the rest of her life but as a family we don't know what to do about it. She's 26 still living at home, basically after high school just stayed and progressively became more insane.
+
+TL;DR: sister has schizo for as long as I can remember, family can't take it anymore but won't do anything about it. If anyone has experienced therapy, hospitilization, medications, that have helped you please give me advice because I hate visiting home now and as cold as it may seem it feels as though she died when she started having episodes because as a person she is broken. 
+
+On another note, I have an undiagnosed brother who hasn't spoken for about the same time as my sister lost it. Before he stopped functioning, he became obsessed with aliens and alternative healing (magnets, amulets, etc.) which seemed fine but one day he wouldn't stop laughing and that progressed to not talking and then living at home leeching off my parents at 25.
+
+My parents don't know what to do, I don't know what to. I know this may not be the absolute best place to post this but idk. Lastly, I'm truly sorry if I offended anyone with how I view my siblings but when you live with people in such a condition for so long, it just feels like they die as people and become a huge burden and a problem. When I was young experiencing all of this for the first time, I just grew an absolute hatred of her because of the attacks, the screaming especially. I just wanted a normal family and life but I don't know what to do, my other sister is ""normal"" in the same sense I am but she moved away and stays away because of these problems, though she is 28 so It's normal and my other two siblings should have graduated college already and living on their own. I wrote all of this as she was screaming to my mom about all of it so yeah. It's so difficult for me to talk about this I'm not even going to reread this. 
+
+actual TL;DR: anyone who is living well while having schizo in them or in family, how do you do it? because it's something that a lot of people can't do...",['conj'],0,neu_vader
+859,859,0.9867901512666968,0.01320984873329223,0.0,0.892,0.10800000000000001,"My SO's therapist is really trying to push him to talk to a psychiatrist about the Abilify IM shot. Both of us are really off-put by the idea of a number of reasons (newness, it seems like the new pharma-rep push, the concentration of medication in the bloodstream over the month, how he'll be able to sleep if the medication isn't being taken nightly, if it'll make him a zombie like the seroquel did, etc), and the information I've been reading from clinical trials hasn't really done anything to convince me otherwise.
+
+I was wondering if anyone here is/was on this and if they could share their experience or answers some questions about their own experience for me.
+
+Thanks in advance...",['nsubjpass'],0,neu_vader
+862,862,0.9993193035007628,0.0006806964992451504,0.27,0.73,0.0,"[this article](http://www.nytimes.com/2014/09/14/opinion/sunday/nicholas-kristof-the-way-to-beat-poverty.html) made me wonder about the healthcare system here and how disadvantaged groups can learn and become more aware of the various factors that contribute to post-traumatic stress disorder, anxiety, depression, and schizophrenia.
+
+
+Have any of you ever had trouble affording treatment or medication for this or other issues?",['conj'],0,neu_vader
+864,864,0.9905067994645164,0.009493200535480882,0.121,0.743,0.136,"My friends and I have this friend who we believe to be schizophrenic. He claims he is sure he doesn't have it, but he hasn't been tested, his dad has severe schizophrenia to where he has to be in a mental institution and his grandmother on his dads side also had it. At first we all thought he was a little cooky but hes very nice and we all enjoy being around him so hes become one of the main people in our friend group. Recently, however things have been happening that are worrisome to me and the rest of my friends. 
+
+
+
+My friends and I have known each other for years, and because of that we have some shared stories. Recently whenever we bring them up or just have a one on one conversation about something that happened to just two of us or a few of us but not this other friend he gets very emotional, sometimes to tears and will make up a story about something that happened between him and his other long lost friend who's name he doesn't remember. Its a new friend each time. We can be joking around and he will make a joke along with us, if it doesn't get the reaction he expects he will start clinching his jaw and mouthing things like ""no, no, stupid"" while shaking his head. This has never really bothered us because we know hes a little different and everything but we still all like him. However, in the past week some really out of the ordinary things have happened. 
+
+
+We went out to eat at a Chinese takeout place after we got some ice cream. Everyone was eating their food except him, no one really noticed and I was talking to my friend next to me about something that had happened earlier that day. My friend noticed he hadn't eaten anything so he says ""Hey ____ are you not hungry or anything? You haven't even opened your food."" Just a genuine and honest question, but he turns to my friend with his head down at the table and gritting his teeth, clearly angry says ""Do you think I'm fucking oblivious? I'm not an idiot."" Everyone at the table looked over to see what was wrong because that was nothing to be mad about. In an instant he completely changes his demeanor, puts on a smile and says ""oh I'm just not hungry!"" We get back to our place and he came over for a few hours to hang out. We asked what had happened since we were in the privacy of our own home, he said ""I'm done lying to you guys."" We've never thought he was lying to us or doing wrong by us except for his stories. Before we had gone to get ice cream I had been reading the picture of Manny Pacquiao with the quotes about how he submitted to all of Mayweathers demands for the boxing match and his friend asked him why, Manny replies ""That's what we do in our country, give them everything they want before an execution."" He said we we asked to go get ice cream shortly after he was scared the whole time thinking that we were taking him somewhere to beat him up or kill him because I had told everyone about the picture. We've known him for almost 6 months now so he has no reason to think that. But things are getting progressively weirder, he will leave our apartment and stand just around the corner trying to listen to us then speed off when he hears the door open, or wait below my friends open window to see what he can hear. I'm just really hoping for some advice in how to deal with this, we all like him but we are genuinely scared for what he might do because he thinks we are going to kill him or something. 
+
+
+Sorry for the novel but there's been a lot going on. TL;DR, possibly schizophrenic friend thinks we are going to hurt him and is acting in ways that scare us because of it. Thanks in advance for any replies
+
+EDIT: The reason his dad is so bad is because he never got any help or medication, we are just afraid that something is boiling inside of him that he cant help but will get worse if he doesn't get any professional help. We are afraid to bring it up out of fear of making him mad again because hes pretty unpredictable when he gets angry. The last story he told us about his dad was how he had an episode when he was drunk and started shooting his gun in the house while his step-mom hid in the bathroom, we know his dad hasn't remarried and he said this happened just a few weeks ago, well after his mom and dad divorced many years ago. ",['conj'],0,neu_vader
+874,874,0.9656846122459706,0.034315387754050235,0.11900000000000001,0.8059999999999999,0.075,"I'm not sure if this is the right place for this anymore, but here goes... cue long post.
+
+
+**Act One: The Beginning**
+
+Around the middle of 2012 I started getting rather depressed, my whole life was building up around me and I felt myself falling down into a black pit. My then-partner noticed this and convinced me to see my GP, which I did and she referred me to my local CMHT (Community Mental Health Team). I visited the CMHT roughly every two weeks and saw a very nice nurse and doctor there who always seemed to care and broke things down for me. After about 2 months of this, they told me they suspected Bi Polar disorder and started me on Lamotragine, gradually bringing up the dose which did seem to have a small effect. Eventually I started to feel myself again, was able to catch up with work and get on with life.
+
+
+
+**Act Two: The Monster Returns (with new teeth)**
+
+Fast forward to the start of 2013, I was starting to feel my energy levels drop, outlook on life dip and my general ""me-ness"" dissipate. Although this time didn't feel as bad as the last, there was one particular symptom which made it 10x worse, I had voices in my head and was even beginning to see things/animals/people that weren't there. It's as if the border between what was real and what was imagination had disappeared. I was literally terrified. I phoned my doctor and went to the appointment he subsequently set up. I discussed what was happening around me and how it was affecting me. While I was incredibly scared, I had still clung on to my ability to reason (i.e. if the people I'm with don't react to a fox on the table opposite, it probably wasn't there). In that, my doctor wasn't terribly worried about it, and sent me away and to told to call back if things got worse. This continued on into the start of February.
+
+January wasn't all bad however, me and my then-partner had just moved into a new flat in Brighton, East Sussex (from West Sussex).
+
+
+
+**Act Three: Goodbye Reason, Hello Hospital**
+
+It would have been around the start of February in which I started to feel myself losing my ability to simply ""reason"" away everything around me. Around the same people around me started commenting on withdrawn I seemed and my then-partner was getting worried as I had stopped working, looking after myself or even leaving the bed, as well as some of the things I was saying and how I was reacting around the flat. While my partner was out, something must have snapped: All logic and reason had gone, my mine had consumed itself. I'm still not sure exactly what happened, however the gist is that daemonic shadows had appeared around the flat and were terrorising me, to the point where I tried to take my own life with 32 paracetamol tablets thinking it would be quick. My partner came home, found me in a mess and upon discovery of what I had done, phoned an ambulance. I was treated in a general hospital for the overdose and placed under a section and taken to the mental hospital up the road. 
+
+While in the hospital ""me"" essentially came back to reason what I was seeing, after a few days stay. I was started on Quetiapine (anti-psychotic) and they also continued my Lamotragine. The doctors in the hospital threw practically everything in the ICD at me: Bi Polar Disorder, Schizophrenia, Borderline Personality Disorder and many more. After 2 weeks in hospital, one under section, one in-formally, I was released home.
+
+Now the psychosis is constant, all the time, everyday. However my ability to reason is transient, and becoming harder and harder to do.
+
+
+
+**Act Four: East Sussex**
+
+After being messed about on dates, my hospital followup appointment was exactly a week after release and I attended, the nurse there suggested it be first-episode psychosis and they are reluctant to put a label on anything or begin any proper treatment. They referred me to the Early Intervention Service the following week. Again I went, and I was in for a shock. Not only was I completely condescended too, they failed to get even the basic facts of my medical history right. I explained everything that had happened and was happening, and it was completely trivialised. Eventually they just said I was stressed and my case was going to be closed. They halted all treatment, medications, contacts. Everything.
+
+
+
+**Act Five: The Present**
+
+So here I am now, every day going by where I feel a little bit more of myself disappear. Sitting in a flat where every electronic device is covered in tin-foil to prevent government monitoring (I remember doing it, I remember why, if I remove it I will just re-do it later, but it just wasn't me).
+
+I feel I have nowhere to turn, I was recommended to the charity MIND who while shocked at my treatment, only recommended putting in a formal complaint. I don't want to complain, I just want to protect myself while I still have the ability too, and I don't know how much longer that will be for.
+
+
+
+Sorry I don't really know what I intend to do by writing this post, I'm hoping this excellent community might have some suggested or just want to know that I'm not the only one rejected help.
+
+
+**Tl;dr: Moved city, new health system completely ignored: psychosis, suicide attempt as a result of psychosis, hospitalisation, previous diagnosis's and symptoms getting worse. Case closed, no help, no idea where to turn and what to do. Constant state of fear.**",['conj'],0,neu_vader
+883,883,0.9966149706460464,0.003385029353948318,0.0,0.8220000000000001,0.17800000000000002,"I came across a site which recommends supplements for helping out with the side effects of antipsychotics: http://bettermedicine.info
+
+I noticed that they recommend Tongkat Ali for a better libido. Has anyone with schizophrenia and on an antipsychotic tried this herb? The claim on that website is that it doesn't affect dopamine levels.",['appos'],0,neu_vader
+886,886,0.5857499182950405,0.41425008170497374,0.07400000000000001,0.836,0.09,"So there's bit of a semiotics issue with my diagnosis - while I fall under the DSM-5's criterion for schizophrenia; however, upon further clinical consultation it was insisted that my psychosis was attributed to a possible bipolar disorder, because I do not posit much positive symptom traits as my presence and cognitive fluency in speech-articulation is not arrested or impaired from the schizophrenic normative. Though, I am puzzled because there's Ellen Sacks among other high-profile personalities who appear to be well-functioning without any cognitive impediments. But the major kicker for me was the 'thought disorder' that raised alarm and concern.
+
+Though, I've done some more research and I stumbled upon 'secondary schizophrenia' which seems more plausible, for that schizophrenia-like manifestation of symptoms can stem beyond just biological underpinnings; but with medication or illicit substance use, and which more likely for me is environmental stress. With that said, it is not a ""certified"" classification, so it is a work-in-progress just like how there's officially PTSD but C-PTSD acknowledged in the trauma field but not so much accepted in the DSM-5 right now.
+
+I have only a very brief stint with anti-psychotics due to adverse side-effects and I'm not taking any right now; however, with better perspective refraining from shoving psychopharm down my throat (perhaps because the psychosis focus of the program is biased for me being an actual hallucinating schizophrenic), and with more psychodynamically-informed discussions, we have both seen and acknowledged the benefits of lessening symptoms and clarity. On the Personality Assessment Interview (PAI) test I scored high on the 'schizoid' spectrum and compared to the normative, the psychometric psychologist recognized that I was eerily close to a tipping-point psychotic break, to conclude my voluntary in-patient hospitalization admission by discharging me with a diagnosis of schizophrenia.
+
+What was the real kicker was that my outpatient clinicians weren't fostering therapeutic alliance enough, that I felt the structured interviews, group-setting, and positing psychiatric intervention induced my stress and in turn furthered my psychosis, which then contributed to a self-revolving confirmation bias. Luckily Abilify itself, which I got a one-day benefit and is currently on-hold, still works in my case as it aims to regulate neurotransmitter levels beyond just for schizophrenia but for bipolar as well. Nevertheless without continuous medication-taking currently, I am doing significantly a lot better in terms of overall cognitive functioning, coherency and perception-wise speaking.
+
+I may be an anomaly here with 'secondary schizophrenia' or just a psychosis-related disorder. Finally, I'm just wondering if y'alls are familiar with 'secondary schizophrenia' as a working-in-progress nomenclature? I felt that a typical full-blown schizophrenic diagnosis was questionable as I was adamantly cluing in on myself and examining my behavior/tendencies as deterministic correlation. Regardless, I had fun capitalizing on my short-lived fame by telling everyone!1!!11 8)
+
+
+
+
+
+ ",['compound'],0,neu_vader
+889,889,0.8012127310754633,0.198787268924536,0.03,0.9470000000000001,0.023,"My dad recently boiled over. Hasn't taken his medication in a long time. He said his medication was laced with poison that would keep him up at night. 
+
+To make an incredibly long story short. My dad left everything behind. Took a bus to a city to live in a homeless shelter. He says he's the ""reconciler of the mother fucking world,"" among several other delusional/paranoid things. 
+
+He refuses to seek help. He says he doesn't need it. I was with him today and he said that if I kept following him he would put a bullet through his head or jump in front of a bus. 
+
+Any tips on how to get someone in this condition to think rationally? ",['nsubjpass'],0,neu_vader
+892,892,0.4287934186791688,0.571206581320865,0.11699999999999999,0.846,0.036000000000000004," I tried talking to my doctor, however, my appointments are brief and since I see the doctor and therapist at the same practice, my appointments run concurrently with one another. I have had a good experience there, but I am unable to explain exactly what is happening to me, usually because there is not enough time.It has been hard to clear my thoughts recently, but I will try to be clearer in this post than I was in the others.
+ Firstly, a year ago, IPOD and flash drive were stolen, and I think that the same person stole them. I will not reveal his ethnicity, but I have other friends of a similar cultural background. They told me when I described that his behavior was somewhat odd. I did want to accuse him of anything, primarily because my paranoia runs wild, and I unable discern what it is going on. The other day he told me to ask my neighbor if he was talking about me. I was feeling paranoid about them talking about me, and I am sure that they are. This frightened my neighbor and he threatened to shoot me. I would not normally do this, but obviously, I was not feeling well. I think to some extent he took advantage of psychotic episodes I was having. And in retrospect, whenever I spoke to him and had problem, he would give me pop psychological advice, and talk about how great his life was, about “energy waves”,  and how people deserve everything that happens to them. I am having trouble understanding him, and regardless of what others are saying, I do not want to think the worst him. However, his behavior seems mildly narcissistic. 
+There is another group of people claiming that they wrote all of college essays. This is not true, and I do not think I need to provide arguments for it, as it ridiculous. However, I did have someone look them over, and they writing style word choices were particular to me. This is also intertwined with the issue of me using “big words”.  I do consider the words I use “big”, it is simply the way that I talk, and perhaps if I were from a different they would not notice. “He is good at using big words”, is backhanded insult. It implies that you do not expect the person speaking to be able to use the language proficiently. This was tied in with accusations of be a thug, eating fired chicken, and being sexual promiscuous. What they are attempting to say exactly? I really do not know, everything they say is contradictory, and whatever nonsense comes to their mind, they feel the need to scream at me
+People scream at me about being from Brooklyn, anyone who has heard Brooklynites knows that I do not sound remotely like them, and of course, not everyone in Brooklyn speaks in the stereotypical manner imagined by the rest of the country and also there is nothing wrong with the way they speak. I live in the South, and goodness knows, their colloquialisms take time to get used to as well. You would figure that they would be more understanding in this regard, but people seem to dislike anything that remotely different form their usual experience. The final part of this is I am not from Brooklyn, my 9th grade year I had to go to Public in school in a state I had just moved to. I explained to them were as from, but they thought anywhere within New York State was Brooklyn, and I gave up.
+There is also the issue of me not alleged not being able to read. I took my GRE exam, in room with a proctor. I did not take it my hometown, but I took it north of border, because it was fairly close to where I used to live, and I do not feel like people are following me there. I heard someone today say that I did well on the exam because no one saw me. The proctor was staring at me the whole time; I do not understand what they are talking about.  As far I reading is concerned, I read nearly every day. They only time I do read is when I am tired from medication adjustment, or psychotic and scared of something. Also, I think someone may listening to my therapy appointments, because, the only time that I have discussed testing recently is with therapist when I told her about school.
+I still think that my computer is being hacked, and I think people are reading my emails. My neighbors are always yelling at me, and I do am not allowed to drive anymore because people scream at while I am driving and I almost got into an accident. I have enough of people talking about me constantly and taking every opportunity to degrade me. They even talked about my Mom implying that she “used me”. That person was not my actual Mom but a person my Dad dated for a month and half. My mom is unaware that I filed the complaints, and she is worried that people would retaliate against me if I did, and they already are.
+I do not understand why people are emotionally invested in me not being able to read. I do it all time. They do not see me because I am in the house and do not want them spying me. Even if I read in front them, they would say I was not reading and simply putting on show. I have tried to read in public but cannot concentrated to their constant chatter. When I was on campus, I went to library late at night, or early in the morning, when people are not there. I had to type a paper once when people were there and they thought the computer wrote paper form me. I do not have a typewriter and do not know how I would complete assignment with the computer, the professors do not let you hand write them. They keep talking about Camus and Midnight In Paris, even though Camus is from a different continent. The told me Borges and Leo Strauss were anti-Semitic even though they are both Jewish. I passed my French CLEPP exam and they told me I did not take it because they did not “see me”. I think someone is stalking me , or rather, attempting to stalk,  because whenever I go places, they do think that I am there because someone does not see me. I do not think they understand that most people do not care about I am doing, only young people seem to care, and then only a subsection of them. Someone thought that I was in California, a girl tweeted that I had been arrested for robbery in Texas. I heard another person say that I chocked someone in Virginia; I am miles away from those places. I am at my wits end. I really cannot take any more of them, and they are taking advantage my diagnosis, in order to say whatever they would like about me.
+",['compound'],0,neu_vader
+919,919,0.3954533769124293,0.6045466230875857,0.11800000000000001,0.865,0.017,"I have the diagnosis non-organic psychosis disease, OCD, depression and anxiety disorder. I am also asexual.
+
+I have started to think that I might not be any of this, instead I'm just a hypochondriac, I can get the results I want from the things I think and feel. 
+
+For example: if I touch something on the ground I think that it's LSD, get afraid and become high, for real, my senses and emotions starts to become different, I become as if I'm in LSD. 
+
+Recently I started to get a pain in my heart/chest and I instantly started to think that I had a heart disease but the doctor says that it's just my mind.
+
+When I watch movies or documentaries about HIV and aids I start to think that I have it and I become ill and feel symptoms like the ones that you suffer from if you have HIV and aids.
+
+Could my diagnosis be all in my head? Is this common? All of this affects my relationship, especially the fact that I'm asexual. Could this be that I just started to think that I'm asexual but in reality I'm just normal? 
+
+Is there treatment and medication for hypochondria? And how could I get this diagnosed? As a kid and teenager I read a lot about schizophrenia and in a way lived the part, I started to change. Is it that simple?
+
+Of course my life hasn't been easy so things have happened to trigger this if this is the case. Death, anxiety, loneliness etc.
+
+What do you guys think? Have you ever heard about this?",['conj'],0,neu_vader
+935,935,0.9179202966469948,0.08207970335298267,0.102,0.753,0.145,"It started with coincide and synchronicity,  for years I marveled at thigs, I won't go in to detail but I got more and more in to it as the years progressed.  Colors took meaning, numbers, I started noticing conversations around me synching up with my thoughts. I've been smoking weed for years to excite this state and it led me to following coincidences and synchronicities all the way to homelessness.  I went through all the government, alien theories, christ conscousness, you name it.  I always came back down to earth, but rested on the idea that life is a dream and synchronicities and coincidences are guiding me everywhere.  I went so far as to think sounds like sirens, birds chirping, car door slams all meant something.  It all became a confusing mess and luckily I was able to move in with my mother to finally quit smoking weed and the delusions have mostly subsided. 
+
+ I'm still fighting the desire to believe in the synchronicities.  If I move to walk forward just as a car revs it's engine,  it's an indication I am in synch with the dream.  Car alarms and sirens are telling me I'm doing something wrong or need to be alert.  The dream speaks to me through random outside conversations as well. Leading me, teating me. 
+furthermore
+I've always had a vivid imagination and now it seems it has taken over.  For instance, I was taking a shower at a friends house and looking out the window, I couldn't figure where it was facing, looked like it was pointing at an unknown part of the complex, I immagined it was a portal to another dimension and it's like my brain went haywire.  I was slightly anxious about it until I could step outside the apt and see I was just mistaken, I mean I was sure it was just misperception but it was as if a child in me was convinced a story was real.  I hope this makes sense.  It's like my imagination has run haywire.  
+
+Weed has been my medication to cure my depression for years now I'm constantly depressed and annoyed, extremely anoyed.  
+I used to bounce my leg when I sat down and figured I had beaten the habbit but it's back now.  
+
+I also have been experiencing hypnogogic and hypnopompic dreams and occasional audio halucinations.  
+
+Some days I feel practically normal, other days I am paranoid people are looking at me, judging me...  that is why I wonder about schizoaffective, bipolar...  someone even suggested OCD because I have made up so many meanings to random sounds and notice them constantly.  If I was to smoke weed right now I would become lucid and my mind would create the most wonderful things.  It even seems like the sounds all synch up when I'm stoned.  The TV talks to me.  I smoked for the first time in months the other day, downtown Oakland, and I had a blast, people were speaking my thoughts, sounds complementing my actions and I felt so alive.  I wish there was some medication that could make me feel so aware and alive without all the psycho delusions.   
+I have been prescribed 2mg Abilify.
+
+edit: audio halucinations only happen when I'm coming in and out of a dream state, I tend to dream immediately, before I'm fully asleep.  My dreams are confusingly random and often make no sense.  
+
+
+
+edit 2:  clarifications, from comment below.
+
+I hear/make connections constantly, unless I'm busy doing something else.  As I said in the post, durring my pot assisted delusions I started believing the universe was guiding me with sights and sounds.  It was always something I could choose to ignore until the last couple years when it became an unavoidable perception change.  Car beeps are the worst, one for yes, two for no.  Any one, two sound actually means yes or no.  At first I used the sounds like flipping a coin, I'd ask a question and let a one or two sound reply (2 caws from a crow, one bump of a tire driving by)  I became convinced the universe would communicate with me in an agreed apon fashion.   Three sounds was miracle work, four represented work, I had meanings for all numbers up to 15.  
+I've come way down from where I was and now I'm mostly haunted by the ones and twos, yes and no.  While tyyping this I heard a double horn honk and had to ignore the feeling I should delete the sentence I was typing.  
+This is pretty serious,  lately I've been waking up depressed and anxious fearing my own death but it improves as the day goes on.   
+",['attr'],0,neu_vader
+941,941,0.507819307469307,0.4921806925307062,0.12300000000000001,0.804,0.07200000000000001,"First, I will state that I have been diagnosed by a number of psychiatrists in and out of the hospital with the following disorders: paranoid schizophrenia, schizoaffective, bipolar, clinical depression, and ADHD. It all started two years ago when I was nineteen starting college. I tried to kill myself in my dorm bathroom and eventually ended up at a hospital where I was put on antidepressants and the drug Invega- a known anti-psychotic. I was put on the anti-psychotic after I told my doctor I couldn't stop having racing thoughts and wasn't sleeping. After having panic attacks I was taken off this drug and diagnosed with schizo-affective disorder. I was then put on saphris and stopped taking it after a few months for different reasons. I went about a year where I had no symptoms and was on a mild anti-depressant. I was actually doing well. I managed to complete two semesters of school with a 4.0, until last March.
+
+It was January 2014 and I had quit smoking for about a month and had broken up with my girlfriend I was dating for about four months. I started having bouts of anger. I had punched a hole in the wall and was contemplating suicide. After I calmed down I made a new friend and decided to stop taking my anti-depressant, Paxil. I was starting to enjoy life again but something was wrong. I was getting about three hours of sleep at night. 
+
+One day I woke up in the early morning and decided to go for a drive. As I was driving I was on the phone with my friend laughing and talking the crap. I didn't realize where I was going and didn't care. I ended up driving to Port Allen Louisiana which was about two hours from my house. It was freezing but I didn't care I walked on the bank with only a  t-shirt and jeans. It looked like the most beautiful thing I'd ever seen in my life. In my mind I felt like I could feel all of the spirits that had lived in the area and that I was being drawn to them. I sat on the bank and played guitar which at the time I was very good at. My hands seemed to just move on their own and I could play very well. I got back in my car deciding to go home. My grandmother had called me and wanted me to come back, because she was getting worried. My phone was about dead and I had no charger. I told her I would head over there right away. As I was driving I had no perception of time. I had no sense of direction. I just had this feeling each time I made a turn while driving. The feeling became stronger the closer I got lost. Eventually I ended up at a person's house. 
+
+I stopped for directions to get back home. Which was a really bad idea, but I was out of it right? At this point my phone was dead. I walked up and rang the doorbell. Soon a little dog came outside barking, then when it looked at me it turned around and whimpered away. The woman saw me and I told her where I was from and she said that she would get her husband because she is bad with directions. I became paranoid and thought that she seemed off a bit, like her smiling was very fake. She told me to come inside so I did. Her husband talked to her for a second and then he approached me. I explained to him my situation and he brought me outside. Suddenly his face grew angry and his son quickly got behind me with his arms folded. When I saw his son I got a really bad feeling and felt like he was thinking, ""what are we going to do with him."" He told me the directions but the whole time I was listening I felt like I could sense what he was thinking. What I got from this was, ""If you come back here again I'll kill you."" As soon as he finished talking I went to my car and didn't look back and as he walked past me I felt a lot of anger. 
+
+Rationally thinking now I know that what was going on was all in my head and these people meant no harm to me. I began to drive and still lost, I ended up at a farm house and decided to call the cops. I had walked about a mile from my last stop and I was worried that the son of the man I met was following me. The police called an ambulance and they brought me to the hospital in Lake Charles, Louisiana. I spent fifteen days in the hospital without being allowed outside because the mental ward was in an upper tower of the hospital. 
+
+My time there changed my mental state dramatically. It was a really scary time for me, I was battling demons in my head and feeling God's presence. Before this I would have considered myself an atheist. One of the patients told me she could see Jesus moving through me which made me even more delusional. But I had already been feeling like something was taking over my mind and body. Finally the day came when my insurance wouldn't pay anymore and they released me with the diagnosis of atypical psychosis. I stayed on my latuda for the next month but the delusions got worse each day I was home. I felt like I was constantly being attacked by demons at my house. I began to read the bible and fill cups of salt water around my room to ""store"" the demons. My mom was going crazy with my behavior. I was spending a lot of money on random things at the local gypsy market. I also felt each time I was in public that I was in hell and that I was there to talk with the people around me. I never spoke with them but had conversations with them in my mind. Very deep conversations. I told my mom that the medicine was making me worse and I refused to take it any longer.
+
+She then called the police and told them that I would not take the medicine. When they got there they asked to see the medicine and told me that they weren't going to force me to take it. They then told me that I would have to go to the hospital. When I got to the hospital there were so many people in the emergency room that we ended up waiting for hours. Right before I went I saw a man with a Jewish star and many other tattoos that made me start to think. I suddenly couldn't stop thinking about Hitler and why he decided to kill the Jews. 
+
+When the doctor asked me what I was thinking about I told him I was worried about the Holocaust and why Hitler wanted to kill the Jews. Probably not the best thing to say to make them think you aren't crazy. The nurse put me in a room and told me they wanted to keep me for a while then I could go home. My mom waited in the room with me. Then the nurse said that he wanted to move me to a more secure room. I don't know what that means. But when we got there it was dark and one wall was like a metal unloading door like for a warehouse. My mom said she was tired and needed to go home so they told me I was going to spend the night. When the door closed behind her I felt air come into the room from the metal loading door and a lifting sensation. It felt like we were rising and my imagination took hold. I thought that I had been abducted but I never told them anything about that. Finally when we ""landed"" the air stopped. The nurse came in and he had really shiny blue eyes. He said a policeman was here to bring me home. The policeman was nice and drove me. As we were driving he let me listen to music I wanted and we had a good discussion. But he wasn't bringing me home. He was bringing me to a mental hospital and I didn't realize it until we got there. I stayed at this mental hospital in Baton Rouge called Apollo for 14 days. It was the single worse time of my life. I was put on probably up to six different antipsychotics until they gave me closoril which made me very drugged and sleepy. This was shortly after I started smoking cigarettes again.
+
+They said I was going to have to stay on it when I got out, but I decided not to because it was so harsh. I was put on lithium in June, but I soon stopped taking it and was fine. I took Summer classes in Organic Chemistry and Calculus and made As. I'm now in Organic 2 and making 100s on my tests. If anyone has any idea to why I experienced what I did, whether they think it was from quitting smoking and my medicine, I would appreciate the input. I'm currently very depressed and on Paxil again. Wishing that I could feel good again like I had before I went to the hospital. ",['conj'],0,neu_vader
+946,946,0.5861516041085176,0.41384839589147066,0.163,0.772,0.066,"Updating for those that read my last post about wanting to switch from haldol :
+
+I went to see my doc and asked for a change in meds and she hit me with some hard news that's leaving me kind of screwed. 
+
+She told me that our visit was our last one because she didn't to end her practice. (it was a private practice and just her ) 
+
+I didn't get to change my meds because of it. She gave me one day notice when I needed her most and she's leaving. Off to a new state and I am now without the proper meds and without any therapy or doctor what-so-ever. 
+
+I got totally fucked and now I have to find a new pdoc. I don't know how long I'll be waiting for new meds but I feel screwed. 
+
+I have a family life I need to take care of and now I have the stress of paranoia, delusions, and an increase in voices. 
+
+I feel so lost and alone. Tossed back into the world without any direction. 
+
+She fucked me over. 
+
+No new meds. She gave me some xanax to help me through but it's not doing shit other than making me lethargic. 
+
+Uhh. ",['ROOT'],0,neu_vader
+967,967,0.9978569926139376,0.0021430073860489143,0.083,0.795,0.122,"For all of September I got to see my fiance'. And that was the best, and happiest month of my life. He lives in Canada, and I'm in the states. So it's hard for us to spend actual physical time together. 
+
+But during my stay, he helped me. I quit overdosing, I ate, I slept at night, I wouldn't get panic attacks in the bathroom/shower and cut myself, and I didn't get triggered or put down by other people's bullshit.
+
+I only had a couple slip ups. One of our roommates came in to tell us to keep it down, one night. It scared the fuck out of me, because of the way he said it, and my fiance' wasn't too happy with him about it. But he let it slide. I still have problems with controlling my drinking, and it didn't help whenever everyone around me was more than willing to join me. I literally don't know when to stop unless somebody tells me to. But at least I only got shit faced twice that whole time.
+
+Then, I come back here to the states: every little bit of progress I DID make feels like it's vanished. I'm scared shitless of EVERYTHING. Everyone pisses me the fuck off, or I'm too afraid to even be in the same room with them for too long. I'll have brief conversations over the internet but that's about it. My phone hasn't been on for days. I can't sleep at night because my bed is too empty and my room is too quiet, compared to my fiance's house. Nightmares are coming back, it's hard to eat enough so I don't feel sick, and my medication abuse is as bad as it was when I left. The only thing that I haven't done yet is become a full on alcoholic. And that's only because I don't have the money to do it.
+
+I have to wait at least 3 months to see him again, but that feels like such a long time, whenever all of this is happening and I haven't even been home for a week yet. I want to be a better person, and get better. But I can't do any of it by myself. I've never had therapy or a psychologist, or even meds of any kind. That's another reason I want to go live with him permanently. I don't have the resources to get any of that while I'm here. I'm trying my honest to god hardest, but I feel like I'm letting everybody down, especially him. I promised I was going to succeed and do a good job and not slack off, now look at me. I can't even fucking go outside...","['compound', 'conj']",0,neu_vader
+981,981,0.9951070216431412,0.004892978356842637,0.038,0.9420000000000001,0.021,"I was on Clozapine 100mg. But stopped a day ago because of side effects. I went to see my doctor today and we agreed I'll start Abilify maintena(the injection of abilify once a month) next Wednesday. 
+
+He didn't really tell me what to do in the meantime if I get symptomatic, and I don't know that I will because it isn't a long period of time without meds, just a bit over a week.
+
+Do you guys think I might have some symptoms throughout the week? I'm not sure what to expect, I haven't gone cold-turkey off meds or been off meds for any period of time in the last 6 months. ",['attr'],0,neu_vader
+989,989,0.9999764445883336,2.3555411658342733e-05,0.048,0.8859999999999999,0.066,My brother is schizophrenic and my mom refuses to get him help or medication. What do i do when my brother is yelling at his hallucinations? Do i tell him to stop and its just imaginary or just let him continue to talk to himself? ,['conj'],0,neu_vader

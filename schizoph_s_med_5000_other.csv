@@ -1,0 +1,202 @@
+,Unnamed: 0,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,sentence,dict,identifier,sentiment,only pos or neg
+29,29,0.9998894969655774,0.00011050303444258733,0.083,0.784,0.132,"For example, I looked around at mood/sleep trackers and medication calendar/ reminders, maybe something that can help with anxiety.",compound,0,neu_vader,pos_vader
+32,32,0.9997174218916156,0.0002825781083942209,0.10800000000000001,0.799,0.094,I'm considering asking the Early Intervention in Psychosis team tomorrow (whom I see weekly) about getting me meds to help my avolition and poor attention span.,ccomp,0,neu_vader,neg_vader
+41,41,0.9811035934481088,0.018896406551901758,0.248,0.5589999999999999,0.192,"There was a brief moment of perfection for a month or two, no medication, i stopped those due to the poisoning effects that they had, feeling completely tired all the time, increasing weight gain, etc.",npadvmod,0,neu_vader,neg_vader
+42,42,0.9818154815153972,0.01818451848462086,0.139,0.82,0.040999999999999995,"Or the medicines, which they collectively shove down your throat almost like a ritual in the early hours of the morning when you're hardly awake and other times when you're so tired from their drug-induce seditive that you're falling asleep) and they cut you off from the world too.",ROOT,0,neu_vader,neg_vader
+60,60,0.9999542841522826,4.571584771740912e-05,0.0,0.762,0.23800000000000002,Are the medication supposed to be less effective with time?,attr,0,neu_vader,pos_vader
+63,63,0.9999912686350936,8.731364902826312e-06,0.0,1.0,0.0,"My psychiatrist is always fucking off, I'm seeing my psychologist though but I don't think they know too much about schizophrenia and the medicine.",conj,0,neu_vader,pos_vader
+73,73,0.9999450095202186,5.4990479799204504e-05,0.075,0.7490000000000001,0.17600000000000002,I need to hear that it would be ok if I did this because I really need help and have no one or even a doctor or any meds.,conj,0,neu_vader,pos_vader
+78,78,0.9999723251205056,2.7674879493631084e-05,0.0,1.0,0.0,Go off meds.,npadvmod,0,neu_vader,pos_vader
+85,85,0.9999822832588342,1.7716741169022773e-05,0.0,0.607,0.39299999999999996,"Whatever she needs, be that medication or psychotherapy, I hope she gets, and I hope it helps her.",attr,0,neu_vader,pos_vader
+91,91,0.9999680714530188,3.192854698814457e-05,0.29,0.58,0.13,Because antidepressants and anti anxiety medications are just fine where I live.,conj,0,neu_vader,neg_vader
+101,101,0.9996487772449538,0.00035122275504774253,0.0,0.755,0.245,"Hey, so I'm a nursing student interested in becoming a psych nurse &amp; for clinical we're analyzing various medication regimens for a ""medication reconciliation"" project- anyone care to share there experiences?",compound,0,neu_vader,pos_vader
+105,105,0.9999707042608714,2.9295739128046338e-05,0.14400000000000002,0.856,0.0,She still is not accepting my diagnosis and tried to get me off meds.,npadvmod,0,neu_vader,neg_vader
+124,124,0.999832436233028,0.00016756376696648617,0.0,1.0,0.0,Maybe it is all the meds.,attr,0,neu_vader,pos_vader
+133,133,0.9999274059880224,7.259401196518121e-05,0.268,0.732,0.0,maybe I'm already getting sick and I just need a meds adjustment.,compound,0,neu_vader,neg_vader
+135,135,0.9999847755646832,1.5224435326254852e-05,0.0,0.674,0.326,Should I wait until there are better medications?,attr,0,neu_vader,pos_vader
+137,137,0.9998437582608972,0.00015624173909805118,0.217,0.7829999999999999,0.0,The second most disabling aspect is the cognitive decline from the illness and medicine that makes me feel that I can't go back to school.,conj,0,neu_vader,neg_vader
+138,138,0.9997666623867859,0.00023333761320297675,0.069,0.9309999999999999,0.0,I was just taken off one of my schizophrenia meds(Latuda) because it was making me sick and I don't know if that's the reason but I'm hearing voices more often and I just..,appos,0,neu_vader,neg_vader
+143,143,0.9999738926520269,2.610734795660118e-05,0.0,1.0,0.0,"i see my doctor tomorrow, so he'll which medications.",appos,0,neu_vader,pos_vader
+146,146,0.9938344072886358,0.006165592711350491,0.11900000000000001,0.573,0.309,"I was 17, had suffered from depression, delusional self-hating thoughts and social anxiety since I was 14, but had learned a better way of coping was finding good friends and exercise instead of therapy, medications, or the like.",conj,0,neu_vader,pos_vader
+154,154,0.9840750241348796,0.015924975865123772,0.052000000000000005,0.948,0.0,"The other day she texted me to say that she'd met Nellie Furtado in  hospital medication room and that ""Nellie"" had affirmed her identity (I think this may have been a mistake on the part of a young trainee nurse to ""go along"" with my sister's belief).",compound,0,neu_vader,neg_vader
+156,156,0.9999906853975692,9.314602430781242e-06,0.312,0.688,0.0,"Fifth only gave me heavy depression, OCD and schizophrenia medicine without saying what is wrong with me.",conj,0,neu_vader,neg_vader
+175,175,0.9996606899120692,0.00033931008793183787,0.0,1.0,0.0,"Is it possible that I also have schizophrenia and the medications, specifically Abilify, that I'm taking are treating it?",conj,0,neu_vader,pos_vader
+201,201,0.9999154414028264,8.45585971569308e-05,0.0,1.0,0.0,I think it's the meds.,attr,0,neu_vader,pos_vader
+205,205,0.9999669964206068,3.300357940562561e-05,0.0,1.0,0.0,http://www.medscape.com/viewarticle/849865,ROOT,0,neu_vader,pos_vader
+272,272,0.9961962518627324,0.0038037481372703366,0.264,0.736,0.0,"E. The disturbance is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication) or another medical condition.",appos,0,neu_vader,neg_vader
+280,280,0.9989230474751484,0.0010769525248709331,0.196,0.804,0.0,She lives a normal life now with no doctors or medication.,conj,0,neu_vader,neg_vader
+300,300,0.9999800187564966,1.998124348456226e-05,0.18899999999999997,0.613,0.198,Are there any good antipsychotic meds that don't cause weight gain?,attr,0,neu_vader,pos_vader
+305,305,0.9990152909272786,0.0009847090727321183,0.11199999999999999,0.8590000000000001,0.028999999999999998,"If you have not found good relief from your medication regimen, and if others have not quite hit the mark either, you may want to see if pharmacogenetic testing is available in your area (and if it's covered by your insurance).",compound,0,neu_vader,neg_vader
+318,318,0.9998041498786896,0.00019585012132654567,0.20199999999999999,0.439,0.36,(Which apparently is a great anti psychosis medication),attr,0,neu_vader,pos_vader
+320,320,0.9998606262810188,0.00013937371900024994,0.0,0.818,0.182,"I'm taking Seroquel, Lithium and Lamictal but I wish there was a medicine that made this go away faster.",attr,0,neu_vader,pos_vader
+325,325,0.999976416200962,2.358379905738722e-05,0.37,0.63,0.0,Ill be working just to pay doctors when I feel all I need is meds but im scared and am not sure.,acomp,0,neu_vader,neg_vader
+346,346,0.9995642050800816,0.0004357949199287504,0.0,1.0,0.0,- My brother has been on tons of different antipsychotics and antidepressant medications.,conj,0,neu_vader,pos_vader
+350,350,0.9992236977305152,0.0007763022694680355,0.261,0.7390000000000001,0.0,"I do not want to commit suicide but I do think about it a lot, I believe this medication amplified my complex.",npadvmod,0,neu_vader,neg_vader
+363,363,0.9999276057705092,7.239422949864395e-05,0.11,0.826,0.064,Abilify 10mg is currently the only medication I take for psychosis but like I said my pdoc said he would lower the dose next time I saw him so I was just wondering is it common for people to be on only 5mg or lower then 10mg for psychosis/schizophrenia?,attr,0,neu_vader,neg_vader
+365,365,0.9998958311301906,0.00010416886982983241,0.0,0.735,0.265,but i also understand that this may change and there are huge flips and episodes even with said help and medication.,conj,0,neu_vader,pos_vader
+369,369,0.995070564922284,0.004929435077706054,0.076,0.84,0.084,"I have noticed within the timeline of my own experience, that taking medication for mental illness may alleviate the symptoms temporarily, and depending upon what medication, it may even benefit the individual cognitively.",pcomp,0,neu_vader,pos_vader
+380,380,0.9999582815500626,4.171844992787361e-05,0.0,0.841,0.159,"We are charging that to Pristiq (same medicine, cleaner isomer).",npadvmod,0,neu_vader,pos_vader
+389,389,0.999488466630568,0.0005115333694417345,0.237,0.763,0.0,If it weren't for my medication things would be a lot worse.,compound,0,neu_vader,neg_vader
+390,390,0.9927967119936196,0.007203288006387863,0.154,0.816,0.031,"Roche provides update on the first two of six phase III studies of bitopertin in schizophrenia
+Two phase III studies evaluating bitopertin for persistent, predominant negative symptoms of schizophrenia did not meet their primary endpoints; third study is ongoing
+Three phase III studies evaluating bitopertin for sub-optimally controlled symptoms of schizophrenia are ongoing
+Roche (SIX: RO, ROG; OTCQX: RHHBY) today announced that two phase III studies of its investigational medicine bitopertin (RG1678) in adults with persistent, predominant negative symptoms of schizophrenia failed to meet their primary endpoints, based on the negative symptoms factor score of the positive and negative symptom scale (PANSS).",compound,0,neu_vader,neg_vader
+394,394,0.9998897729099012,0.00011022709009726346,0.0,0.838,0.162,"She refuses treatment, medication, and support, and thinks everyone in our family is against her.",conj,0,neu_vader,pos_vader
+410,410,0.9998858125597292,0.0001141874402632983,0.0,0.722,0.278,Is it prescribed to help with medication compliance?,compound,0,neu_vader,pos_vader
+428,428,0.9327189303728104,0.06728106962717463,0.069,0.815,0.11699999999999999,"So my mother just tried to commit suicide earlier this month, she was feeling depressed a month before that, I just assumed that it was a side effect of her meds clozapine, she has what I assumed schizophrenia, but now after two weeks she's acting so different, it wasn't noticeable at first but she's become so hyperactive, talkative, happy, that it's weirding me and my relatives out.",compound,0,neu_vader,pos_vader
+460,460,0.9994904029458164,0.0005095970541817949,0.09699999999999999,0.635,0.268,"I keep going back and forth about whether I want to, but my therapist is really encouraging it, and reassuring me that I'm just sick and can't see it, so I guess I'll give meds a chance again.",dative,0,neu_vader,pos_vader
+464,464,0.9997656981659526,0.0002343018340493954,0.0,0.833,0.16699999999999998,"So making medication changes, or any sort of meaningful evaluation impossible.",compound,0,neu_vader,pos_vader
+495,495,0.9999747760740348,2.522392598461281e-05,0.0,0.8109999999999999,0.18899999999999997,Why do I do well off meds for such long periods?,npadvmod,0,neu_vader,pos_vader
+496,496,0.9999837175009668,1.6282499015582017e-05,0.563,0.43700000000000006,0.0,"I have an anxiety disorder, I take blood pressure medicine and anti-anxiety/ depression medicine.",conj,0,neg_vader,neg_vader
+504,504,0.9999577125446804,4.228745530745961e-05,0.0,1.0,0.0,What are some other meds that are known to alleviate cognitive deficits?,attr,0,neu_vader,pos_vader
+507,507,0.9999826454251866,1.7354574810530205e-05,0.0,0.589,0.41100000000000003,She's calmer now (anti-anxiety meds!),npadvmod,0,neu_vader,pos_vader
+510,510,0.9963364877855406,0.0036635122144416015,0.036000000000000004,0.9640000000000001,0.0,"I do BJJ, and I really do not want to be so medicated that I can't do the thing I'm living for, a life of working and medication and nothing else is not a life I have the slightest intention of living, that's not life, that's existence.",conj,0,neu_vader,neg_vader
+514,514,0.9998768992146688,0.00012310078531436894,0.0,1.0,0.0,What are some medications that I should immediately be able to think of when someone tells me their diagnosis?,attr,0,neu_vader,pos_vader
+555,555,0.9999929214986729,7.078501334151415e-06,0.0,0.748,0.252,Are there any meds available which could treat this?,attr,0,neu_vader,pos_vader
+556,556,0.989690996067194,0.010309003932820046,0.063,0.804,0.133,"The medication (diazepam, I remember lexaurin as well) wasn't prescribed for her, but her mother works in a hospital and got it for her from her friend for her anxiety.",npadvmod,0,neu_vader,pos_vader
+557,557,0.999886420924872,0.00011357907514314993,0.0,1.0,0.0,Am I going to not take my meds one day and go off the deep end?,nmod,0,neu_vader,pos_vader
+578,578,0.9998990281371803,0.00010097186283866745,0.157,0.843,0.0,I am dependent on my psychiatrist to fill my medication prescriptions on time &amp; without feeling ambitious and wanting to experiment with my well-being.,compound,0,neu_vader,neg_vader
+579,579,0.9998830837503594,0.0001169162496304184,0.0,0.795,0.205,"The only thing I have are my meds, parents, and my handful of friends.",attr,0,neu_vader,pos_vader
+638,638,0.999971427790588,2.8572209405712012e-05,0.28800000000000003,0.523,0.19,"No meds, no therapist (I've given up hope on that matter).",ROOT,0,neu_vader,neg_vader
+641,641,0.9999390978766004,6.09021233991375e-05,0.29100000000000004,0.7090000000000001,0.0,I don't know if its the negative symptoms or the meds.,conj,0,neu_vader,neg_vader
+648,648,0.9877575597064754,0.012242440293543702,0.2,0.8,0.0,"He sees a psychologist occasionally for stress, but as far as I know he has not been diagnosed with any kind of disorder or prescribed any medication.",conj,0,neu_vader,neg_vader
+653,653,0.9999546327284236,4.536727155783072e-05,0.0,0.6920000000000001,0.308,"We are headed back tomorrow, but for tonight I am medication free.",npadvmod,0,neu_vader,pos_vader
+660,660,0.9997948577567156,0.0002051422432690509,0.0,1.0,0.0,Ways to cope with every day life and our symptoms and medication discussion.,compound,0,neu_vader,pos_vader
+682,682,0.9997700679156708,0.00022993208431588364,0.0,1.0,0.0,"What kinds of questions should we expect besides what meds he's on, what his issues are?",pcomp,0,neu_vader,pos_vader
+683,683,0.9999973849758488,2.615024144299841e-06,0.327,0.6729999999999999,0.0,I'm having bad anxiety and my medicine give me restless leg syndrome so I feel as if I will explode.,conj,0,neu_vader,neg_vader
+695,695,0.9841781343007604,0.015821865699224197,0.0,1.0,0.0,I understand it now and after months of treatment and medicine changes I am able to live a normal life.,conj,0,neu_vader,pos_vader
+696,696,0.9997467886236066,0.00025321137640537913,0.0,1.0,0.0,"My question - for those here that have gone through this process, either as a patient or a parent - how long did you have to wait until you had a diagnosis and meds?",conj,0,neu_vader,pos_vader
+712,712,0.9997832935260236,0.00021670647397333207,0.0,1.0,0.0,I think part of it is my shrink doesn't understand and my current meds AREN'T working.,amod,0,neu_vader,pos_vader
+717,717,0.999968132221502,3.186777849241448e-05,0.14400000000000002,0.726,0.13,I just would like a general idea if there is a medicine (anti-psychotic) that does not cause weight gain.,attr,0,neu_vader,neg_vader
+718,718,0.999683971168557,0.0003160288314372502,0.0,0.899,0.10099999999999999,I know these are only things a doctor can answer but the last time I went I felt like he was judging me and it put me off going back to get a medicine change.,compound,0,neu_vader,pos_vader
+726,726,0.9999448372826796,5.5162717323071715e-05,0.0,0.821,0.179,When on an appropriate dose or different medicine she does very well.,conj,0,neu_vader,pos_vader
+757,757,0.9997101162911852,0.0002898837088107833,0.0,0.8959999999999999,0.10400000000000001,"I'm guessing this will generally be medication and therapy, but do you feel like it was a choice to acknowledge you were dealing with schizophrenia or was it something else?",attr,0,neu_vader,pos_vader
+761,761,0.9991016250003438,0.0008983749996601627,0.129,0.871,0.0,"Either way, I think me looking sad has more to do with my medication change from Clozapine at night to in the morning.",compound,0,neu_vader,neg_vader
+766,766,0.9994071513215128,0.0005928486784718197,0.0,1.0,0.0,"Foster subscribes to a branch of medicine called ""orthomolecular medicine.""",oprd,0,neu_vader,pos_vader
+781,781,0.9998191106092348,0.00018088939077578063,0.11599999999999999,0.884,0.0,I feel as if I'll never break the med working --&gt; not working --&gt; increase meds cycle.,compound,0,neu_vader,neg_vader
+786,786,0.9996431014436196,0.0003568985563937029,0.053,0.9470000000000001,0.0,"However, she is paranoid/delusional enough of our parents that she won't allow them to have access to any of her PHI, including where she is staying, further medication and diagnoses, etc.",conj,0,neu_vader,neg_vader
+787,787,0.9848026817546416,0.015197318245350788,0.10400000000000001,0.731,0.165,"Though it is not related Schizophrenia, I do have a decent understanding of how the disorder progresses, prognosis, recommended cognitive/behavioral/medication treatment, and the like.",compound,0,neu_vader,pos_vader
+793,793,0.9999475931296514,5.240687033660568e-05,0.0,1.0,0.0,"Because I am totally sane and came to them for candy they call meds, I guess.",oprd,0,neu_vader,pos_vader
+795,795,0.9999936598363192,6.340163661566103e-06,0.11699999999999999,0.7829999999999999,0.1,"If you find an error with this hypothesis please let me know
+
+Sources
+http://www.ncbi.nlm.nih.gov/pubmed/15118803
+http://www.nimh.nih.gov/health/publications/mental-health-medications/index.shtml
+What I already knew about Neuroscience.",appos,0,neu_vader,neg_vader
+801,801,0.999898386646782,0.00010161335320880688,0.177,0.823,0.0,I've stopped taking the sertraline and lamotrigine and the only medication I intend to use is olanzapine when I feel things are going crazy.,conj,0,neu_vader,neg_vader
+817,817,0.9999668067173616,3.319328262260781e-05,0.184,0.6920000000000001,0.125,Are there any other medications other than risperidone that help more with negative symptoms and cognitive function?,attr,0,neu_vader,neg_vader
+836,836,0.9998207534074488,0.00017924659256913445,0.0,0.7340000000000001,0.266,Is there a better medication that has worked for you?,attr,0,neu_vader,pos_vader
+844,844,0.9994952246530608,0.0005047753469349626,0.0,1.0,0.0,I work at a residential treatment facility which is an alternative to hospitalization/medication.,relcl,0,neu_vader,pos_vader
+850,850,0.9999736761977148,2.6323802279684186e-05,0.524,0.47600000000000003,0.0,"No meds or anything, no hospitalization.",ROOT,0,neg_vader,neg_vader
+860,860,0.9998940233383437,0.00010597666166570373,0.28300000000000003,0.7170000000000001,0.0,I know that is simply the medication makin' magic and if I go off I'll be trapped in the chaos once again.,compound,0,neu_vader,neg_vader
+861,861,0.999924700808946,7.529919106348529e-05,0.23199999999999998,0.628,0.14,"What good is Pharmaceutical medication if all it does is exacerbate my weakness, my fatigue etc.",attr,0,neu_vader,neg_vader
+862,862,0.9438216832821852,0.05617831671781255,0.0,0.953,0.047,"Most of the time it's pretty unintelligible so it's more of a novelty, but it seems such a separate aspect from the dialogues I'm used to hearing (I've been off meds for quite a while- I'm ""used"" to my normal ""tribunal"", but I don't think they're getting worse...).",attr,0,neu_vader,pos_vader
+864,864,0.9962592574639098,0.003740742536074879,0.205,0.75,0.045,"I then hit the wall flipped out lost my job became compulsive couldnt sit still, didnt realize it was the medication until I was on my knees two days crying to gid to make it stop, a god im not sure even exists.",attr,0,neu_vader,neg_vader
+880,880,0.9973732774995836,0.002626722500406439,0.0,0.8859999999999999,0.114,I've been diagnosed with psychosis/schizophrenia and my medication has been changed a substantial amount of times.,conj,0,neu_vader,pos_vader
+889,889,0.999971757315286,2.8242684706985908e-05,0.0,1.0,0.0,"**TL;DR**
+
+My pdoc thinks I'm psychotic and need anti-psych meds.",advmod,0,neu_vader,pos_vader
+901,901,0.9999191317099001,8.086829008765904e-05,0.198,0.706,0.096,"But I do have one big problem that I can't get over and that's pretty bad memory loss, I'd say it's gone from mild to moderate pretty fast (a few months) I'm not sure if this is related to schizophrenia, meds or some other health problem (definitely not aging because I'm not old enough for dementia).",conj,0,neu_vader,neg_vader
+911,911,0.9998749807075612,0.00012501929244945395,0.132,0.868,0.0,"I told my dad, and he was mad at me and told me to go to sleep and thought I wanted attention and/or meds.",conj,0,neu_vader,neg_vader
+937,937,0.9991809322276696,0.0008190677723128367,0.054000000000000006,0.557,0.39,"If you can get a great support system under you belt, great therapist, trust medication, and have a routine and a team to help you then this will help develop your own personal coping skills for any problem.",appos,0,neu_vader,pos_vader
+940,940,0.9997547921381942,0.00024520786181532727,0.09300000000000001,0.825,0.08199999999999999,The problem is that both Olanzapine and Quetiapine have heavy side-effects for him and Clozapine is the only medication he really took well up to now.,attr,0,neu_vader,neg_vader
+945,945,0.9992911294002575,0.0007088705997267182,0.111,0.889,0.0,I feel as though I'm a psychopath I don't feel love or any emotion anymore maybe it's the meds the doctor has me on I can't seem to put a finger on it.,attr,0,neu_vader,neg_vader
+948,948,0.9917054877771234,0.008294512222881885,0.139,0.861,0.0,"Doing some research for university, came across using psycho-education as a form of medication adherence for people taking neuroleptics or, sufferers of schizophrenia.",compound,0,neu_vader,neg_vader
+973,973,0.9999649577739064,3.504222609027609e-05,0.316,0.526,0.158,I am not any medications daily to treat my depression or my anxiety.,attr,0,neu_vader,neg_vader
+996,996,0.9997009055185284,0.00029909448146330897,0.27899999999999997,0.6459999999999999,0.075,"I had previously mentioned Buspirone, an anti-anxiety medication that didn't work for me, it amplified an overwhelming and negative urge to commit suicide.",appos,0,neu_vader,neg_vader
+1016,1016,0.9998680326593506,0.0001319673406359785,0.12300000000000001,0.877,0.0,"I think they are planning to put me on clozaril ,since I am medication resistant and have frequent suicidal episodes, so anyone here been able to get rid of all or most of their symptoms?",npadvmod,0,neu_vader,neg_vader
+1018,1018,0.9998186086536078,0.00018139134641024848,0.207,0.431,0.36200000000000004,":/
+
+It's the best medication for me.",attr,0,neu_vader,pos_vader
+1035,1035,0.9999683825395632,3.1617460420690315e-05,0.255,0.745,0.0,There are almost no studies that followed patients that had refused medication long term.,npadvmod,0,neu_vader,neg_vader
+1053,1053,0.999525387236289,0.00047461276369914246,0.14400000000000002,0.784,0.073,"But then he was diagnosed with paranoid schizophrenia and the medication he was on was good for about 5 years, but then it stopped working.",conj,0,neu_vader,neg_vader
+1061,1061,0.997538857637134,0.002461142362881525,0.045,0.955,0.0,"I remembered talking about my medicine choices with the nurse and the psychiatrist told her she didn't want him on a mood stabilizer, she wanted me on an antipsychotic.",compound,0,neu_vader,neg_vader
+1103,1103,0.9992718193463672,0.0007281806536224866,0.0,0.8959999999999999,0.10400000000000001,Well I've been hearing voices since last year and I've been to a psychiatrist and the meds he prescribed helped.,conj,0,neu_vader,pos_vader
+1121,1121,0.999946408377712,5.359162228718264e-05,0.0,1.0,0.0,"I've tried so, so many different medicine.",appos,0,neu_vader,pos_vader
+1127,1127,0.9997065313450609,0.00029346865493196366,0.073,0.78,0.147,I read it can be a side effect to some medicine and it started when she started taking the medicine so I'm pretty sure it's the medicine.I don't see the problem but she is freaked out.,attr,0,neu_vader,pos_vader
+1134,1134,0.8371305364725011,0.16286946352751486,0.11199999999999999,0.821,0.067,"have you guys ever felt that desperation you know the one where you are the only person in the world that can truly understand you and your experiences, how everyone always peers inside the room that is you and takes small pieces of information out of that room and compares it to their experiences, kind of like comparing an apple to an orange and they completely misunderstand the point you are trying to make, for example while you read this you will project your own ideas into this because that's the only way people seem to understand things, that desperation then becomes depression, and its like oil to a flame, and everything just goes to shit delusions rise, hallucinations worsen, the placebo of the sanctuary ( medication) no longer works unless its in high doses you know what i mean( kind of like when you drink alcohol and one beer is not enough so you end up drinking and drinking until you go numb and forget who you are but you never truly forget who you are its always there like your shadow just waiting for you to notice it), soon after nothing seems real, you know its a dream and you lose the will to go on, you make excuses and argue with yourself about meaning.",appos,0,neu_vader,neg_vader
+1155,1155,0.9999729034533557,2.7096546646866495e-05,0.0,1.0,0.0,I believe he needs some meds and assistance.,amod,0,neu_vader,pos_vader
+1167,1167,0.9999822419902432,1.775800974948347e-05,0.0,0.78,0.22,So how soon can one usually discontinue one's medication WITH doctor's approval?,compound,0,neu_vader,pos_vader
+1171,1171,0.9997701470407534,0.00022985295924000512,0.14300000000000002,0.857,0.0,"I would not have sought treatment, therapy, or medication until my parents threatened to kick me out of their house.",conj,0,neu_vader,neg_vader
+1172,1172,0.9994953941596656,0.0005046058403228116,0.0,1.0,0.0,"I was eventually on a regimen with anti-psychotic, stimulant, and anti-anxiety medications.",conj,0,neu_vader,pos_vader
+1179,1179,0.9994716590704152,0.0005283409295850294,0.24100000000000002,0.759,0.0,"For myself, I experience minor memory problems that my doctor says may be due to my illness or the medication.",conj,0,neu_vader,neg_vader
+1192,1192,0.9998140146817894,0.00018598531822420168,0.0,0.784,0.21600000000000003,I have been telling people for the last couple years that I am medication free.,npadvmod,0,neu_vader,pos_vader
+1199,1199,0.9943671348381992,0.0056328651618061006,0.125,0.875,0.0,"Right now we are taking a more cautious approach to his medication plan, slowly putting him on an atypical antipsychotic to try to get his severe intrusive thoughts and the hallucinations under control.",compound,0,neu_vader,neg_vader
+1209,1209,0.9887595147426133,0.011240485257388327,0.3,0.7,0.0,"The book tells the story of how he fell in-love on a psychiatric ward, whilst detailing the horrors of medication addiction and severe mental illness.",compound,0,neu_vader,neg_vader
+1216,1216,0.9998151020190612,0.00018489798095061322,0.092,0.652,0.256,Now it helps me to be comfortable in my mind (i do not recommend it as medication esp.,compound,0,neu_vader,pos_vader
+1226,1226,0.9999785688210496,2.1431178955730746e-05,0.11900000000000001,0.8809999999999999,0.0,"I read this article: http://www.nytimes.com/2014/08/13/opinion/the-schizophrenia-penalty-.html?_r=0
+
+It is about stigma and medication in America and I was shocked from what I read.",conj,0,neu_vader,neg_vader
+1231,1231,0.9999820841152498,1.7915884757426692e-05,0.0,1.0,0.0,But I'm not on enough meds right now and this is how I feel.,attr,0,neu_vader,pos_vader
+1235,1235,0.9999822801959842,1.7719804012104582e-05,0.32799999999999996,0.672,0.0,Since then there are no meds being taken and no counseling.,attr,0,neu_vader,neg_vader
+1253,1253,0.9999590972001664,4.090279984328992e-05,0.102,0.898,0.0,"I'm not sure what meds he's on, but I'd say they aren't working properly.",ccomp,0,neu_vader,neg_vader
+1265,1265,0.9987615506997596,0.0012384493002436405,0.062,0.705,0.233,"He's back again after his latest episode, and is reluctantly accepting help and meds, albeit at a very slow rate.",conj,0,neu_vader,pos_vader
+1267,1267,0.9999400642071324,5.9935792849680394e-05,0.17800000000000002,0.649,0.17300000000000001,"After hospitalisation and medication, I got depressed and went back to drug use pretty quickly.",conj,0,neu_vader,neg_vader
+1273,1273,0.99997153663022,2.846336977102422e-05,0.0,1.0,0.0,I've been off all meds for 3 months now.,npadvmod,0,neu_vader,pos_vader
+1293,1293,0.9999870845511302,1.2915448877362649e-05,0.0,1.0,0.0,There is other medicines then just one correct?,attr,0,neu_vader,pos_vader
+1297,1297,0.994911707534366,0.0050882924656178285,0.034,0.732,0.23399999999999999,"I've started seroquel as my new med, I've been on it for a month and a bit, and I've been starting to get a bit better but now it feels like symptoms still breakthrough and they're doing it a lot harder now, are meds just a false hope, I was pretty much better for a week and a half (maybe 2) and it feels like everything is coming back, especially paranoia (not so much the people inside my head).",attr,0,neu_vader,pos_vader
+1302,1302,0.9988756743637872,0.0011243256361971898,0.085,0.8009999999999999,0.114,"**
+
+
+Areas to address:
+
+--paranoia/delusions/hallucinations - tips on how to manage and address
+
+--avolition/lack of motivation/interest - tips on self care, reminders for gentle exercise &amp; sunshine etc, reminders to shower, eat &amp; drink water etc, other methods to tackle it
+
+-- medication tracker
+
+--mood/symptom tracker
+
+--tab with connection to fitbrains/lumosity/chess/sudoku/crosswords to address cognitive difficulties 
+
+--in built chat to connect with other users when you need help/someone to talk to asap
+
+-- emergency help tab with connections to crisis services 
+
+-- appointment tracker ie doctors/therapy etc 
+
+Name is pending, although I have one idea.",compound,0,neu_vader,pos_vader
+1304,1304,0.9977796603241902,0.002220339675802616,0.0,0.9,0.1,I take 25mg of seroquel in the morning and 225mg of seroquel at night as well as some other unrelated meds.,npadvmod,0,neu_vader,pos_vader
+1309,1309,0.9986659756399259,0.0013340243600928124,0.0,0.9079999999999999,0.092,"I started Clozapine but that made me wet the bed every other night so I immediately got off and now I'm off meds completely, just for a week now.. my doctor thought that as safe I suppose or he wouldn't have done it.",npadvmod,0,neu_vader,pos_vader
+1316,1316,0.9997887112496632,0.00021128875034652858,0.11599999999999999,0.7759999999999999,0.10800000000000001,"Has anyone ever had experience with being on ADHD (stimulant) medication and having a mental illness like schizophrenia, or even bipolar?",conj,0,neu_vader,neg_vader
+1361,1361,0.9999448179208278,5.518207918323916e-05,0.0,0.649,0.35100000000000003,He's convinced that marijuana is the only medicine that will help him.,attr,0,neu_vader,pos_vader
+1362,1362,0.9998141888282991,0.00018581117168624056,0.0,0.9229999999999999,0.077,"We tried to at least get him to take that long release medicine shot, but he has to consent and refuses to do it each time hes been hospitalized.",compound,0,neu_vader,pos_vader
+1366,1366,0.999568666962766,0.00043133303722431656,0.258,0.664,0.078,"(I think this is bc he doesn't get a desired result, so someone had to have messed with it) All other medications he's convinced will kill him quickly.",dep,0,neu_vader,neg_vader
+1367,1367,0.9999555869615802,4.441303840230294e-05,0.159,0.841,0.0,He thinks has anxiety and refuses all treatment and medications.,conj,0,neu_vader,neg_vader
+1382,1382,0.9999867415834252,1.3258416562316466e-05,0.0,0.8909999999999999,0.109,I'm patiently waiting to gradually have my meds reduced and am hoping to one day be completely off meds and not have any symptoms.,attr,0,neu_vader,pos_vader
+1402,1402,0.9998544033963832,0.00014559660362019097,0.182,0.818,0.0,"I'm not any medication at the moment, much too scared to be on anti-psychotics.",attr,0,neu_vader,neg_vader
+1409,1409,0.9969754446424864,0.003024555357529655,0.0,1.0,0.0,"flash forward a couple years, 2 other medications, and a new doctor and I'm back on it but at a higher dose and this time in shot form once a month.",conj,0,neu_vader,pos_vader
+1418,1418,0.9997668797458634,0.00023312025412928296,0.085,0.813,0.102,"She asked me what meds I'm on and if I'd like to stay on them or follow a ""rigorous health balance holistic approach.""",ccomp,0,neu_vader,pos_vader
+1423,1423,0.9999921354014508,7.864598553563933e-06,0.0,1.0,0.0,Can anyone give me some tips or meds recommendations for reducing neg symptoms?,amod,0,neu_vader,pos_vader
+1425,1425,0.9952137696931748,0.00478623030682943,0.086,0.914,0.0,"I'm undiagnosed something, I don't have the money for a doctor or medication, and I'm really too full of myself to degrade my own image to ask for advice from people that know me.",conj,0,neu_vader,neg_vader
+1432,1432,0.9992363703767329,0.000763629623278336,0.19699999999999998,0.759,0.044000000000000004,"If anyone has experienced therapy, hospitilization, medications, that have helped you please give me advice because I hate visiting home now and as cold as it may seem it feels as though she died when she started having episodes because as a person she is broken.",conj,0,neu_vader,neg_vader
+1435,1435,0.999536456603704,0.0004635433963004383,0.0,0.703,0.297,I just really want to know what has worked for you or a loved one BEYOND medication.,conj,0,neu_vader,pos_vader
+1462,1462,0.9999290989755232,7.090102445807656e-05,0.153,0.847,0.0,Have any of you ever had trouble affording treatment or medication for this or other issues?,conj,0,neu_vader,neg_vader
+1464,1464,0.9999042363651104,9.576363489933841e-05,0.225,0.741,0.034,"Thanks in advance for any replies
+
+EDIT: The reason his dad is so bad is because he never got any help or medication, we are just afraid that something is boiling inside of him that he cant help but will get worse if he doesn't get any professional help.",conj,0,neu_vader,neg_vader
+1483,1483,0.9999424688891071,5.753111090571106e-05,0.0,1.0,0.0,"They halted all treatment, medications, contacts.",conj,0,neu_vader,pos_vader
+1496,1496,0.993820227177164,0.0061797728228489565,0.0,0.6890000000000001,0.311,"I came across a site which recommends supplements for helping out with the side effects of antipsychotics: http://bettermedicine.info
+
+I noticed that they recommend Tongkat Ali for a better libido.",appos,0,neu_vader,pos_vader
+1504,1504,0.9902161537429846,0.00978384625702024,0.0,0.868,0.132,"Nevertheless without continuous medication-taking currently, I am doing significantly a lot better in terms of overall cognitive functioning, coherency and perception-wise speaking.",compound,0,neu_vader,pos_vader
+1514,1514,0.9998818424623922,0.00011815753760027087,0.266,0.7340000000000001,0.0,"They only time I do read is when I am tired from medication adjustment, or psychotic and scared of something.",compound,0,neu_vader,neg_vader
+1528,1528,0.9999425173256936,5.74826743106042e-05,0.294,0.706,0.0,He offered me cash (we live together) for my anxiety and my pain meds.,conj,0,neu_vader,neg_vader
+1557,1557,0.9999165351323456,8.34648676516686e-05,0.0,0.758,0.242,"I'm trying to convince my husband that his mother needs professional help, and that if we get her on the right medicine regime that there is STILL HOPE FOR HER!",compound,0,neu_vader,pos_vader
+1559,1559,0.9999823166572056,1.7683342805249e-05,0.0,1.0,0.0,Is there treatment and medication for hypochondria?,conj,0,neu_vader,pos_vader
+1571,1571,0.9855205949658522,0.014479405034135471,0.0,1.0,0.0,"I thought it was the medication, but it turns out I developed a caffeine sensitivity with the onset of my schizophrenia.",attr,0,neu_vader,pos_vader
+1580,1580,0.9998397878513832,0.00016021214861140255,0.375,0.625,0.0,"Weed has been my medication to cure my depression for years now I'm constantly depressed and annoyed, extremely anoyed.",attr,0,neu_vader,neg_vader
+1581,1581,0.9999651531032048,3.484689679989965e-05,0.0,0.753,0.247,I wish there was some medication that could make me feel so aware and alive without all the psycho delusions.,attr,0,neu_vader,pos_vader
+1582,1582,0.9999512753216376,4.872467835124257e-05,0.0,1.0,0.0,Then I went off both meds and soon had another- scarier belief.,npadvmod,0,neu_vader,pos_vader
+1593,1593,0.9999614795152832,3.852048473284245e-05,0.0,0.899,0.10099999999999999,"If anyone has any idea to why I experienced what I did, whether they think it was from quitting smoking and my medicine, I would appreciate the input.",conj,0,neu_vader,pos_vader
+1604,1604,0.9999587116575998,4.128834241823655e-05,0.524,0.47600000000000003,0.0,No new meds.,ROOT,0,neg_vader,neg_vader
+1612,1612,0.9999723251205056,2.7674879493631084e-05,0.0,1.0,0.0,I'm off meds.,attr,0,neu_vader,pos_vader
+1627,1627,0.9542956374644991,0.04570436253551186,0.151,0.763,0.085,"I'm tired of missing school, and I'm tired of somewhat reduced concentration while on this medication (not sure whether it's due to the illness or the medication, though), so I want to try Abilify, which I heard doesn't cause sedation in most cases and increases cognitive abilities such as concentration and overall academic achievement, at least based on the case study I've read.",conj,0,neu_vader,neg_vader
+1638,1638,0.9999780275462076,2.1972453795666e-05,0.0,1.0,0.0,I'm 15 and only recently started meds..,attr,0,neu_vader,pos_vader
+1648,1648,0.996433130320364,0.0035668696796537593,0.183,0.8170000000000001,0.0,I'm gonna start on a low dose of that next week in addition to seroquil and welbutrin and anxiety meds.,conj,0,neu_vader,neg_vader
+1650,1650,0.9999499141313342,5.008586866093254e-05,0.275,0.635,0.09,"Nightmares are coming back, it's hard to eat enough so I don't feel sick, and my medication abuse is as bad as it was when I left.",compound,0,neu_vader,neg_vader
+1651,1651,0.9990923297001636,0.000907670299836858,0.0,0.764,0.23600000000000002,"I've never had therapy or a psychologist, or even meds of any kind.",appos,0,neu_vader,pos_vader
+1677,1677,0.9971866906957,0.0028133093042874463,0.079,0.9209999999999999,0.0,"I'm not sure what to expect, I haven't gone cold-turkey off meds or been off meds for any period of time in the last 6 months.",attr,0,neu_vader,neg_vader
+1692,1692,0.9999567630177729,4.323698222807726e-05,0.0,0.828,0.172,My brother is schizophrenic and my mom refuses to get him help or medication.,conj,0,neu_vader,pos_vader
+1699,1699,0.9999442820818856,5.5717918119977684e-05,0.131,0.8690000000000001,0.0,"He was put on seroquel, paxil, and another medicine that I can't remember to help him sleep.",conj,0,neu_vader,neg_vader
